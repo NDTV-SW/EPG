@@ -1,0 +1,765 @@
+<?xml version="1.0"?>
+<DVB-EPG xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1">
+  <Service id="2402">
+    <Event id="0" name="Love Forever" start="2015-09-15T18:30:00Z" stop="2015-09-15T22:30:00Z" epgStart="2015-09-15T18:30:00Z" epgStop="2015-09-15T22:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="1" name="Love Forever" start="2015-09-15T22:30:00Z" stop="2015-09-16T00:30:00Z" epgStart="2015-09-15T22:30:00Z" epgStop="2015-09-16T00:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="2" name="Vintage Hits" start="2015-09-16T00:30:00Z" stop="2015-09-16T02:30:00Z" epgStart="2015-09-16T00:30:00Z" epgStop="2015-09-16T02:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Vintage Hits</EventName>
+        <Text>Vintage Hits</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Vintage Hits</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="3" name="Hits Forever" start="2015-09-16T02:30:00Z" stop="2015-09-16T04:30:00Z" epgStart="2015-09-16T02:30:00Z" epgStop="2015-09-16T04:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Hits Forever</EventName>
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="4" name="Melody Forever" start="2015-09-16T04:30:00Z" stop="2015-09-16T07:30:00Z" epgStart="2015-09-16T04:30:00Z" epgStop="2015-09-16T07:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Melody Forever</EventName>
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="5" name="Jalwa Superstars - Manisha" start="2015-09-16T07:30:00Z" stop="2015-09-16T08:30:00Z" epgStart="2015-09-16T07:30:00Z" epgStop="2015-09-16T08:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Jalwa Superstars - Manisha</EventName>
+        <Text>Jalwa Superstars - Manisha</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Jalwa Superstars - Manisha</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="6" name="Love Forever" start="2015-09-16T08:30:00Z" stop="2015-09-16T10:30:00Z" epgStart="2015-09-16T08:30:00Z" epgStop="2015-09-16T10:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="7" name="Melody Forever" start="2015-09-16T10:30:00Z" stop="2015-09-16T13:30:00Z" epgStart="2015-09-16T10:30:00Z" epgStop="2015-09-16T13:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Melody Forever</EventName>
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="8" name="Jalwa Superstars" start="2015-09-16T13:30:00Z" stop="2015-09-16T14:30:00Z" epgStart="2015-09-16T13:30:00Z" epgStop="2015-09-16T14:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Jalwa Superstars</EventName>
+        <Text>Celebrity Based Musical Show.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Celebrity Based Musical Show.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="9" name="Hits Forever" start="2015-09-16T14:30:00Z" stop="2015-09-16T15:30:00Z" epgStart="2015-09-16T14:30:00Z" epgStop="2015-09-16T15:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Hits Forever</EventName>
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="10" name="Love Forever" start="2015-09-16T15:30:00Z" stop="2015-09-16T18:30:00Z" epgStart="2015-09-16T15:30:00Z" epgStop="2015-09-16T18:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="11" name="Love Forever" start="2015-09-16T18:30:00Z" stop="2015-09-16T22:30:00Z" epgStart="2015-09-16T18:30:00Z" epgStop="2015-09-16T22:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="12" name="Love Forever" start="2015-09-16T22:30:00Z" stop="2015-09-17T00:30:00Z" epgStart="2015-09-16T22:30:00Z" epgStop="2015-09-17T00:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="13" name="Vintage Hits" start="2015-09-17T00:30:00Z" stop="2015-09-17T02:30:00Z" epgStart="2015-09-17T00:30:00Z" epgStop="2015-09-17T02:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Vintage Hits</EventName>
+        <Text>Vintage Hits</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Vintage Hits</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="14" name="Ganpati Special" start="2015-09-17T02:30:00Z" stop="2015-09-17T03:30:00Z" epgStart="2015-09-17T02:30:00Z" epgStop="2015-09-17T03:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Ganpati Special</EventName>
+        <Text>Ganpati Special</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Ganpati Special</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="15" name="Hits Forever" start="2015-09-17T03:30:00Z" stop="2015-09-17T04:30:00Z" epgStart="2015-09-17T03:30:00Z" epgStop="2015-09-17T04:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Hits Forever</EventName>
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="16" name="Melody Forever" start="2015-09-17T04:30:00Z" stop="2015-09-17T07:30:00Z" epgStart="2015-09-17T04:30:00Z" epgStop="2015-09-17T07:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Melody Forever</EventName>
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="17" name="Ganpati Special" start="2015-09-17T07:30:00Z" stop="2015-09-17T08:30:00Z" epgStart="2015-09-17T07:30:00Z" epgStop="2015-09-17T08:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Ganpati Special</EventName>
+        <Text>Ganpati Special</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Ganpati Special</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="18" name="Love Forever" start="2015-09-17T08:30:00Z" stop="2015-09-17T10:30:00Z" epgStart="2015-09-17T08:30:00Z" epgStop="2015-09-17T10:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="19" name="Melody Forever" start="2015-09-17T10:30:00Z" stop="2015-09-17T13:30:00Z" epgStart="2015-09-17T10:30:00Z" epgStop="2015-09-17T13:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Melody Forever</EventName>
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="20" name="Ganpati Special" start="2015-09-17T13:30:00Z" stop="2015-09-17T14:30:00Z" epgStart="2015-09-17T13:30:00Z" epgStop="2015-09-17T14:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Ganpati Special</EventName>
+        <Text>Ganpati Special</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Ganpati Special</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="21" name="Hits Forever" start="2015-09-17T14:30:00Z" stop="2015-09-17T15:30:00Z" epgStart="2015-09-17T14:30:00Z" epgStop="2015-09-17T15:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Hits Forever</EventName>
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="22" name="Superstar Classics Hema" start="2015-09-17T15:30:00Z" stop="2015-09-17T16:30:00Z" epgStart="2015-09-17T15:30:00Z" epgStop="2015-09-17T16:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Superstar Classics Hema</EventName>
+        <Text>Superstar Classics Hema</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Superstar Classics Hema</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="23" name="Love Forever" start="2015-09-17T16:30:00Z" stop="2015-09-17T18:30:00Z" epgStart="2015-09-17T16:30:00Z" epgStop="2015-09-17T18:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="24" name="Love Forever" start="2015-09-17T18:30:00Z" stop="2015-09-17T22:30:00Z" epgStart="2015-09-17T18:30:00Z" epgStop="2015-09-17T22:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="25" name="Love Forever" start="2015-09-17T22:30:00Z" stop="2015-09-18T00:30:00Z" epgStart="2015-09-17T22:30:00Z" epgStop="2015-09-18T00:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="26" name="Vintage Hits" start="2015-09-18T00:30:00Z" stop="2015-09-18T02:30:00Z" epgStart="2015-09-18T00:30:00Z" epgStop="2015-09-18T02:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Vintage Hits</EventName>
+        <Text>Vintage Hits</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Vintage Hits</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="27" name="Hits Forever" start="2015-09-18T02:30:00Z" stop="2015-09-18T04:30:00Z" epgStart="2015-09-18T02:30:00Z" epgStop="2015-09-18T04:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Hits Forever</EventName>
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="28" name="Melody Forever" start="2015-09-18T04:30:00Z" stop="2015-09-18T07:30:00Z" epgStart="2015-09-18T04:30:00Z" epgStop="2015-09-18T07:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Melody Forever</EventName>
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="29" name="Love Forever" start="2015-09-18T07:30:00Z" stop="2015-09-18T10:30:00Z" epgStart="2015-09-18T07:30:00Z" epgStop="2015-09-18T10:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="30" name="Melody Forever" start="2015-09-18T10:30:00Z" stop="2015-09-18T13:30:00Z" epgStart="2015-09-18T10:30:00Z" epgStop="2015-09-18T13:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Melody Forever</EventName>
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="31" name="Hits Forever" start="2015-09-18T13:30:00Z" stop="2015-09-18T15:30:00Z" epgStart="2015-09-18T13:30:00Z" epgStop="2015-09-18T15:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Hits Forever</EventName>
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="32" name="Superstar Classics Rekha" start="2015-09-18T15:30:00Z" stop="2015-09-18T16:30:00Z" epgStart="2015-09-18T15:30:00Z" epgStop="2015-09-18T16:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Superstar Classics Rekha</EventName>
+        <Text>Superstar Classics Rekha</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Superstar Classics Rekha</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="33" name="Love Forever" start="2015-09-18T16:30:00Z" stop="2015-09-18T18:30:00Z" epgStart="2015-09-18T16:30:00Z" epgStop="2015-09-18T18:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="34" name="Love Forever" start="2015-09-18T18:30:00Z" stop="2015-09-18T22:30:00Z" epgStart="2015-09-18T18:30:00Z" epgStop="2015-09-18T22:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="35" name="Love Forever" start="2015-09-18T22:30:00Z" stop="2015-09-19T00:30:00Z" epgStart="2015-09-18T22:30:00Z" epgStop="2015-09-19T00:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="36" name="Vintage Hits" start="2015-09-19T00:30:00Z" stop="2015-09-19T02:30:00Z" epgStart="2015-09-19T00:30:00Z" epgStop="2015-09-19T02:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Vintage Hits</EventName>
+        <Text>Vintage Hits</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Vintage Hits</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="37" name="Hits Forever" start="2015-09-19T02:30:00Z" stop="2015-09-19T04:30:00Z" epgStart="2015-09-19T02:30:00Z" epgStop="2015-09-19T04:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Hits Forever</EventName>
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="38" name="Melody Forever" start="2015-09-19T04:30:00Z" stop="2015-09-19T07:30:00Z" epgStart="2015-09-19T04:30:00Z" epgStop="2015-09-19T07:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Melody Forever</EventName>
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="39" name="Love Forever" start="2015-09-19T07:30:00Z" stop="2015-09-19T10:30:00Z" epgStart="2015-09-19T07:30:00Z" epgStop="2015-09-19T10:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="40" name="Melody Forever" start="2015-09-19T10:30:00Z" stop="2015-09-19T12:30:00Z" epgStart="2015-09-19T10:30:00Z" epgStop="2015-09-19T12:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Melody Forever</EventName>
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="41" name="Club X" start="2015-09-19T12:30:00Z" stop="2015-09-19T14:30:00Z" epgStart="2015-09-19T12:30:00Z" epgStop="2015-09-19T14:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Club X</EventName>
+        <Text>Club X</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Club X</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="42" name="Jalwa Superstars" start="2015-09-19T14:30:00Z" stop="2015-09-19T15:30:00Z" epgStart="2015-09-19T14:30:00Z" epgStop="2015-09-19T15:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Jalwa Superstars</EventName>
+        <Text>Celebrity Based Musical Show.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Celebrity Based Musical Show.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="43" name="Love Forever" start="2015-09-19T15:30:00Z" stop="2015-09-19T18:30:00Z" epgStart="2015-09-19T15:30:00Z" epgStop="2015-09-19T18:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="44" name="Love Forever" start="2015-09-19T18:30:00Z" stop="2015-09-19T22:30:00Z" epgStart="2015-09-19T18:30:00Z" epgStop="2015-09-19T22:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="45" name="Love Forever" start="2015-09-19T22:30:00Z" stop="2015-09-20T00:30:00Z" epgStart="2015-09-19T22:30:00Z" epgStop="2015-09-20T00:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="46" name="Vintage Hits" start="2015-09-20T00:30:00Z" stop="2015-09-20T02:30:00Z" epgStart="2015-09-20T00:30:00Z" epgStop="2015-09-20T02:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Vintage Hits</EventName>
+        <Text>Vintage Hits</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Vintage Hits</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="47" name="Sunday Blues" start="2015-09-20T02:30:00Z" stop="2015-09-20T05:30:00Z" epgStart="2015-09-20T02:30:00Z" epgStop="2015-09-20T05:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Sunday Blues</EventName>
+        <Text>Sunday Blues</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sunday Blues</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="48" name="Melody Forever" start="2015-09-20T05:30:00Z" stop="2015-09-20T07:30:00Z" epgStart="2015-09-20T05:30:00Z" epgStop="2015-09-20T07:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Melody Forever</EventName>
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="49" name="Superstar Classics Rekha" start="2015-09-20T07:30:00Z" stop="2015-09-20T08:30:00Z" epgStart="2015-09-20T07:30:00Z" epgStop="2015-09-20T08:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Superstar Classics Rekha</EventName>
+        <Text>Superstar Classics Rekha</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Superstar Classics Rekha</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="50" name="Love Forever" start="2015-09-20T08:30:00Z" stop="2015-09-20T10:30:00Z" epgStart="2015-09-20T08:30:00Z" epgStop="2015-09-20T10:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="51" name="Melody Forever" start="2015-09-20T10:30:00Z" stop="2015-09-20T13:30:00Z" epgStart="2015-09-20T10:30:00Z" epgStop="2015-09-20T13:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Melody Forever</EventName>
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="52" name="Jalwa Superstars" start="2015-09-20T13:30:00Z" stop="2015-09-20T14:30:00Z" epgStart="2015-09-20T13:30:00Z" epgStop="2015-09-20T14:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Jalwa Superstars</EventName>
+        <Text>Celebrity Based Musical Show.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Celebrity Based Musical Show.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="53" name="Hits Forever" start="2015-09-20T14:30:00Z" stop="2015-09-20T15:30:00Z" epgStart="2015-09-20T14:30:00Z" epgStop="2015-09-20T15:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Hits Forever</EventName>
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="54" name="Love Forever" start="2015-09-20T15:30:00Z" stop="2015-09-20T18:30:00Z" epgStart="2015-09-20T15:30:00Z" epgStop="2015-09-20T18:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="55" name="Love Forever" start="2015-09-20T18:30:00Z" stop="2015-09-20T22:30:00Z" epgStart="2015-09-20T18:30:00Z" epgStop="2015-09-20T22:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="56" name="Love Forever" start="2015-09-20T22:30:00Z" stop="2015-09-21T00:30:00Z" epgStart="2015-09-20T22:30:00Z" epgStop="2015-09-21T00:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="57" name="Kalyanji Tribute" start="2015-09-21T00:30:00Z" stop="2015-09-21T02:30:00Z" epgStart="2015-09-21T00:30:00Z" epgStop="2015-09-21T02:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Kalyanji Tribute</EventName>
+        <Text>Kalyanji Tribute</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Kalyanji Tribute</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="58" name="Hits Forever" start="2015-09-21T02:30:00Z" stop="2015-09-21T04:30:00Z" epgStart="2015-09-21T02:30:00Z" epgStop="2015-09-21T04:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Hits Forever</EventName>
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="59" name="Melody Forever" start="2015-09-21T04:30:00Z" stop="2015-09-21T07:30:00Z" epgStart="2015-09-21T04:30:00Z" epgStop="2015-09-21T07:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Melody Forever</EventName>
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="60" name="Jalwa Superstars Nadeem-Shravan" start="2015-09-21T07:30:00Z" stop="2015-09-21T08:30:00Z" epgStart="2015-09-21T07:30:00Z" epgStop="2015-09-21T08:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Jalwa Superstars Nadeem-Shravan</EventName>
+        <Text>Jalwa Superstars Nadeem-Shravan</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Jalwa Superstars Nadeem-Shravan</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="61" name="Love Forever" start="2015-09-21T08:30:00Z" stop="2015-09-21T10:30:00Z" epgStart="2015-09-21T08:30:00Z" epgStop="2015-09-21T10:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="62" name="Melody Forever" start="2015-09-21T10:30:00Z" stop="2015-09-21T13:30:00Z" epgStart="2015-09-21T10:30:00Z" epgStop="2015-09-21T13:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Melody Forever</EventName>
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="63" name="Hits Forever" start="2015-09-21T13:30:00Z" stop="2015-09-21T15:30:00Z" epgStart="2015-09-21T13:30:00Z" epgStop="2015-09-21T15:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Hits Forever</EventName>
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="64" name="Love Forever" start="2015-09-21T15:30:00Z" stop="2015-09-21T16:30:00Z" epgStart="2015-09-21T15:30:00Z" epgStop="2015-09-21T16:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="65" name="Kalyanji Tribute" start="2015-09-21T16:30:00Z" stop="2015-09-21T18:30:00Z" epgStart="2015-09-21T16:30:00Z" epgStop="2015-09-21T18:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Kalyanji Tribute</EventName>
+        <Text>Kalyanji Tribute</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Kalyanji Tribute</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="66" name="Love Forever" start="2015-09-21T18:30:00Z" stop="2015-09-21T22:30:00Z" epgStart="2015-09-21T18:30:00Z" epgStop="2015-09-21T22:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="67" name="Love Forever" start="2015-09-21T22:30:00Z" stop="2015-09-22T00:30:00Z" epgStart="2015-09-21T22:30:00Z" epgStop="2015-09-22T00:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="68" name="Vintage Hits" start="2015-09-22T00:30:00Z" stop="2015-09-22T02:30:00Z" epgStart="2015-09-22T00:30:00Z" epgStop="2015-09-22T02:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Vintage Hits</EventName>
+        <Text>Vintage Hits</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Vintage Hits</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="69" name="Hits Forever" start="2015-09-22T02:30:00Z" stop="2015-09-22T04:30:00Z" epgStart="2015-09-22T02:30:00Z" epgStop="2015-09-22T04:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Hits Forever</EventName>
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="70" name="Melody Forever" start="2015-09-22T04:30:00Z" stop="2015-09-22T07:30:00Z" epgStart="2015-09-22T04:30:00Z" epgStop="2015-09-22T07:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Melody Forever</EventName>
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="71" name="Jalwa Superstars AR Rahman" start="2015-09-22T07:30:00Z" stop="2015-09-22T08:30:00Z" epgStart="2015-09-22T07:30:00Z" epgStop="2015-09-22T08:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Jalwa Superstars AR Rahman</EventName>
+        <Text>Jalwa Superstars AR Rahman</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Jalwa Superstars AR Rahman</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="72" name="Love Forever" start="2015-09-22T08:30:00Z" stop="2015-09-22T10:30:00Z" epgStart="2015-09-22T08:30:00Z" epgStop="2015-09-22T10:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="73" name="Melody Forever" start="2015-09-22T10:30:00Z" stop="2015-09-22T13:30:00Z" epgStart="2015-09-22T10:30:00Z" epgStop="2015-09-22T13:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Melody Forever</EventName>
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Exclusively devoted to Millenium Genration's Forever young Tracks.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="74" name="Hits Forever" start="2015-09-22T13:30:00Z" stop="2015-09-22T15:30:00Z" epgStart="2015-09-22T13:30:00Z" epgStop="2015-09-22T15:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Hits Forever</EventName>
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Songs that have remained on top of charts for forever across decades.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="75" name="Love Forever" start="2015-09-22T15:30:00Z" stop="2015-09-22T18:30:00Z" epgStart="2015-09-22T15:30:00Z" epgStop="2015-09-22T18:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Love Forever</EventName>
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The Musical Ballads that have struck a chord across generations and listeners.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+  </Service>
+</DVB-EPG>

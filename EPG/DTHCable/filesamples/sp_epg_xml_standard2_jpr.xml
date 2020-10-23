@@ -1,0 +1,1685 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DVB-EPG xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1">
+  <Service id="9xo">
+    <Event id="0" name="Stay Up" start="2015-06-25T18:30:00Z" stop="2015-06-25T19:30:00Z" epgStart="2015-06-25T18:30:00Z" epgStop="2015-06-25T19:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="1" name="Stay Up" start="2015-06-25T19:30:00Z" stop="2015-06-25T20:30:00Z" epgStart="2015-06-25T19:30:00Z" epgStop="2015-06-25T20:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="2" name="Stay Up" start="2015-06-25T20:30:00Z" stop="2015-06-25T21:30:00Z" epgStart="2015-06-25T20:30:00Z" epgStop="2015-06-25T21:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="3" name="Stay Up" start="2015-06-25T21:30:00Z" stop="2015-06-25T22:30:00Z" epgStart="2015-06-25T21:30:00Z" epgStop="2015-06-25T22:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="4" name="Breaking Dawn" start="2015-06-25T22:30:00Z" stop="2015-06-25T23:30:00Z" epgStart="2015-06-25T22:30:00Z" epgStop="2015-06-25T23:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Breaking Dawn</EventName>
+        <Text>Songs that only you're listening.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Songs that only you're listening.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="5" name="Just Outta Bed" start="2015-06-25T23:30:00Z" stop="2015-06-26T00:30:00Z" epgStart="2015-06-25T23:30:00Z" epgStop="2015-06-26T00:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Just Outta Bed</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="6" name="Just Outta Bed" start="2015-06-26T00:30:00Z" stop="2015-06-26T01:30:00Z" epgStart="2015-06-26T00:30:00Z" epgStop="2015-06-26T01:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Just Outta Bed</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="7" name="Just Outta Bed" start="2015-06-26T01:30:00Z" stop="2015-06-26T02:30:00Z" epgStart="2015-06-26T01:30:00Z" epgStop="2015-06-26T02:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Just Outta Bed</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="8" name="Mixed Bag" start="2015-06-26T02:30:00Z" stop="2015-06-26T03:30:00Z" epgStart="2015-06-26T02:30:00Z" epgStop="2015-06-26T03:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="9" name="Early Bird" start="2015-06-26T03:30:00Z" stop="2015-06-26T04:30:00Z" epgStart="2015-06-26T03:30:00Z" epgStop="2015-06-26T04:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Early Bird</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="10" name="Fresh Vids" start="2015-06-26T04:30:00Z" stop="2015-06-26T05:30:00Z" epgStart="2015-06-26T04:30:00Z" epgStop="2015-06-26T05:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Fresh Vids</EventName>
+        <Text>The weeks freshest music releases.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The weeks freshest music releases.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="11" name="Fresh Vids" start="2015-06-26T05:30:00Z" stop="2015-06-26T06:30:00Z" epgStart="2015-06-26T05:30:00Z" epgStop="2015-06-26T06:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Fresh Vids</EventName>
+        <Text>The weeks freshest music releases.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The weeks freshest music releases.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="12" name="Mixed Bag" start="2015-06-26T06:30:00Z" stop="2015-06-26T07:30:00Z" epgStart="2015-06-26T06:30:00Z" epgStop="2015-06-26T07:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="13" name="Top 40" start="2015-06-26T07:30:00Z" stop="2015-06-26T08:30:00Z" epgStart="2015-06-26T07:30:00Z" epgStop="2015-06-26T08:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="14" name="Top 40" start="2015-06-26T08:30:00Z" stop="2015-06-26T09:30:00Z" epgStart="2015-06-26T08:30:00Z" epgStop="2015-06-26T09:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="15" name="Top 40" start="2015-06-26T09:30:00Z" stop="2015-06-26T10:30:00Z" epgStart="2015-06-26T09:30:00Z" epgStop="2015-06-26T10:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="16" name="Mixed Bag" start="2015-06-26T10:30:00Z" stop="2015-06-26T11:30:00Z" epgStart="2015-06-26T10:30:00Z" epgStop="2015-06-26T11:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="17" name="Top 40" start="2015-06-26T11:30:00Z" stop="2015-06-26T12:30:00Z" epgStart="2015-06-26T11:30:00Z" epgStop="2015-06-26T12:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="18" name="Fresh Vids" start="2015-06-26T12:30:00Z" stop="2015-06-26T13:30:00Z" epgStart="2015-06-26T12:30:00Z" epgStop="2015-06-26T13:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Fresh Vids</EventName>
+        <Text>The weeks freshest music releases.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The weeks freshest music releases.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="19" name="Top 40" start="2015-06-26T13:30:00Z" stop="2015-06-26T14:30:00Z" epgStart="2015-06-26T13:30:00Z" epgStop="2015-06-26T14:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="20" name="Mixed Bag" start="2015-06-26T14:30:00Z" stop="2015-06-26T15:30:00Z" epgStart="2015-06-26T14:30:00Z" epgStop="2015-06-26T15:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="21" name="BYOB" start="2015-06-26T15:30:00Z" stop="2015-06-26T16:30:00Z" epgStart="2015-06-26T15:30:00Z" epgStop="2015-06-26T16:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>BYOB</EventName>
+        <Text>Uninterrupted Dance Music.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Uninterrupted Dance Music.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="22" name="Unwind" start="2015-06-26T16:30:00Z" stop="2015-06-26T17:30:00Z" epgStart="2015-06-26T16:30:00Z" epgStop="2015-06-26T17:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Unwind</EventName>
+        <Text>Let the hits play while you spaz on the internet.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Let the hits play while you spaz on the internet.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="23" name="Stay Up" start="2015-06-26T17:30:00Z" stop="2015-06-26T18:30:00Z" epgStart="2015-06-26T17:30:00Z" epgStop="2015-06-26T18:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="24" name="Stay Up" start="2015-06-26T18:30:00Z" stop="2015-06-26T19:30:00Z" epgStart="2015-06-26T18:30:00Z" epgStop="2015-06-26T19:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="25" name="Stay Up" start="2015-06-26T19:30:00Z" stop="2015-06-26T20:30:00Z" epgStart="2015-06-26T19:30:00Z" epgStop="2015-06-26T20:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="26" name="Stay Up" start="2015-06-26T20:30:00Z" stop="2015-06-26T21:30:00Z" epgStart="2015-06-26T20:30:00Z" epgStop="2015-06-26T21:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="27" name="Stay Up" start="2015-06-26T21:30:00Z" stop="2015-06-26T22:30:00Z" epgStart="2015-06-26T21:30:00Z" epgStop="2015-06-26T22:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="28" name="Breaking Dawn" start="2015-06-26T22:30:00Z" stop="2015-06-26T23:30:00Z" epgStart="2015-06-26T22:30:00Z" epgStop="2015-06-26T23:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Breaking Dawn</EventName>
+        <Text>Songs that only you're listening.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Songs that only you're listening.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="29" name="Just Outta Bed" start="2015-06-26T23:30:00Z" stop="2015-06-27T00:30:00Z" epgStart="2015-06-26T23:30:00Z" epgStop="2015-06-27T00:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Just Outta Bed</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="30" name="Just Outta Bed" start="2015-06-27T00:30:00Z" stop="2015-06-27T01:30:00Z" epgStart="2015-06-27T00:30:00Z" epgStop="2015-06-27T01:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Just Outta Bed</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="31" name="Just Outta Bed" start="2015-06-27T01:30:00Z" stop="2015-06-27T02:30:00Z" epgStart="2015-06-27T01:30:00Z" epgStop="2015-06-27T02:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Just Outta Bed</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="32" name="Mixed Bag" start="2015-06-27T02:30:00Z" stop="2015-06-27T03:30:00Z" epgStart="2015-06-27T02:30:00Z" epgStop="2015-06-27T03:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="33" name="9XO Tweetdown" start="2015-06-27T03:30:00Z" stop="2015-06-27T04:30:00Z" epgStart="2015-06-27T03:30:00Z" epgStop="2015-06-27T04:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>9XO Tweetdown</EventName>
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="34" name="Fresh Vids" start="2015-06-27T04:30:00Z" stop="2015-06-27T05:30:00Z" epgStart="2015-06-27T04:30:00Z" epgStop="2015-06-27T05:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Fresh Vids</EventName>
+        <Text>The weeks freshest music releases.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The weeks freshest music releases.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="35" name="Fresh Vids" start="2015-06-27T05:30:00Z" stop="2015-06-27T06:30:00Z" epgStart="2015-06-27T05:30:00Z" epgStop="2015-06-27T06:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Fresh Vids</EventName>
+        <Text>The weeks freshest music releases.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The weeks freshest music releases.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="36" name="Mixed Bag" start="2015-06-27T06:30:00Z" stop="2015-06-27T07:30:00Z" epgStart="2015-06-27T06:30:00Z" epgStop="2015-06-27T07:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="37" name="9XO Tweetdown" start="2015-06-27T07:30:00Z" stop="2015-06-27T08:30:00Z" epgStart="2015-06-27T07:30:00Z" epgStop="2015-06-27T08:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>9XO Tweetdown</EventName>
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="38" name="Top 40" start="2015-06-27T08:30:00Z" stop="2015-06-27T09:30:00Z" epgStart="2015-06-27T08:30:00Z" epgStop="2015-06-27T09:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="39" name="Top 40" start="2015-06-27T09:30:00Z" stop="2015-06-27T10:30:00Z" epgStart="2015-06-27T09:30:00Z" epgStop="2015-06-27T10:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="40" name="Mixed Bag" start="2015-06-27T10:30:00Z" stop="2015-06-27T11:30:00Z" epgStart="2015-06-27T10:30:00Z" epgStop="2015-06-27T11:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="41" name="9XO Tweetdown" start="2015-06-27T11:30:00Z" stop="2015-06-27T12:30:00Z" epgStart="2015-06-27T11:30:00Z" epgStop="2015-06-27T12:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>9XO Tweetdown</EventName>
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="42" name="Fresh Vids" start="2015-06-27T12:30:00Z" stop="2015-06-27T13:30:00Z" epgStart="2015-06-27T12:30:00Z" epgStop="2015-06-27T13:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Fresh Vids</EventName>
+        <Text>The weeks freshest music releases.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The weeks freshest music releases.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="43" name="Top 40" start="2015-06-27T13:30:00Z" stop="2015-06-27T14:30:00Z" epgStart="2015-06-27T13:30:00Z" epgStop="2015-06-27T14:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="44" name="Mixed Bag" start="2015-06-27T14:30:00Z" stop="2015-06-27T15:30:00Z" epgStart="2015-06-27T14:30:00Z" epgStop="2015-06-27T15:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="45" name="Unwind" start="2015-06-27T15:30:00Z" stop="2015-06-27T16:30:00Z" epgStart="2015-06-27T15:30:00Z" epgStop="2015-06-27T16:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Unwind</EventName>
+        <Text>Let the hits play while you spaz on the internet.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Let the hits play while you spaz on the internet.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="46" name="9XO Tweetdown" start="2015-06-27T16:30:00Z" stop="2015-06-27T17:30:00Z" epgStart="2015-06-27T16:30:00Z" epgStop="2015-06-27T17:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>9XO Tweetdown</EventName>
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="47" name="BYOB" start="2015-06-27T17:30:00Z" stop="2015-06-27T18:30:00Z" epgStart="2015-06-27T17:30:00Z" epgStop="2015-06-27T18:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>BYOB</EventName>
+        <Text>Uninterrupted Dance Music.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Uninterrupted Dance Music.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="48" name="BYOB" start="2015-06-27T18:30:00Z" stop="2015-06-27T19:30:00Z" epgStart="2015-06-27T18:30:00Z" epgStop="2015-06-27T19:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>BYOB</EventName>
+        <Text>Uninterrupted Dance Music.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Uninterrupted Dance Music.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="49" name="BYOB" start="2015-06-27T19:30:00Z" stop="2015-06-27T20:30:00Z" epgStart="2015-06-27T19:30:00Z" epgStop="2015-06-27T20:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>BYOB</EventName>
+        <Text>Uninterrupted Dance Music.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Uninterrupted Dance Music.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="50" name="Stay Up" start="2015-06-27T20:30:00Z" stop="2015-06-27T21:30:00Z" epgStart="2015-06-27T20:30:00Z" epgStop="2015-06-27T21:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="51" name="Stay Up" start="2015-06-27T21:30:00Z" stop="2015-06-27T22:30:00Z" epgStart="2015-06-27T21:30:00Z" epgStop="2015-06-27T22:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="52" name="Breaking Dawn" start="2015-06-27T22:30:00Z" stop="2015-06-27T23:30:00Z" epgStart="2015-06-27T22:30:00Z" epgStop="2015-06-27T23:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Breaking Dawn</EventName>
+        <Text>Songs that only you're listening.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Songs that only you're listening.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="53" name="Just Outta Bed" start="2015-06-27T23:30:00Z" stop="2015-06-28T00:30:00Z" epgStart="2015-06-27T23:30:00Z" epgStop="2015-06-28T00:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Just Outta Bed</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="54" name="Just Outta Bed" start="2015-06-28T00:30:00Z" stop="2015-06-28T01:30:00Z" epgStart="2015-06-28T00:30:00Z" epgStop="2015-06-28T01:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Just Outta Bed</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="55" name="Just Outta Bed" start="2015-06-28T01:30:00Z" stop="2015-06-28T02:30:00Z" epgStart="2015-06-28T01:30:00Z" epgStop="2015-06-28T02:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Just Outta Bed</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="56" name="Mixed Bag" start="2015-06-28T02:30:00Z" stop="2015-06-28T03:30:00Z" epgStart="2015-06-28T02:30:00Z" epgStop="2015-06-28T03:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="57" name="Early Bird" start="2015-06-28T03:30:00Z" stop="2015-06-28T04:30:00Z" epgStart="2015-06-28T03:30:00Z" epgStop="2015-06-28T04:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Early Bird</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="58" name="Fresh Vids" start="2015-06-28T04:30:00Z" stop="2015-06-28T05:30:00Z" epgStart="2015-06-28T04:30:00Z" epgStop="2015-06-28T05:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Fresh Vids</EventName>
+        <Text>The weeks freshest music releases.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The weeks freshest music releases.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="59" name="Fresh Vids" start="2015-06-28T05:30:00Z" stop="2015-06-28T06:30:00Z" epgStart="2015-06-28T05:30:00Z" epgStop="2015-06-28T06:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Fresh Vids</EventName>
+        <Text>The weeks freshest music releases.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The weeks freshest music releases.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="60" name="Mixed Bag" start="2015-06-28T06:30:00Z" stop="2015-06-28T07:30:00Z" epgStart="2015-06-28T06:30:00Z" epgStop="2015-06-28T07:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="61" name="Top 40" start="2015-06-28T07:30:00Z" stop="2015-06-28T08:30:00Z" epgStart="2015-06-28T07:30:00Z" epgStop="2015-06-28T08:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="62" name="Top 40" start="2015-06-28T08:30:00Z" stop="2015-06-28T09:30:00Z" epgStart="2015-06-28T08:30:00Z" epgStop="2015-06-28T09:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="63" name="Top 40" start="2015-06-28T09:30:00Z" stop="2015-06-28T10:30:00Z" epgStart="2015-06-28T09:30:00Z" epgStop="2015-06-28T10:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="64" name="Mixed Bag" start="2015-06-28T10:30:00Z" stop="2015-06-28T11:30:00Z" epgStart="2015-06-28T10:30:00Z" epgStop="2015-06-28T11:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="65" name="9XO Tweetdown" start="2015-06-28T11:30:00Z" stop="2015-06-28T12:30:00Z" epgStart="2015-06-28T11:30:00Z" epgStop="2015-06-28T12:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>9XO Tweetdown</EventName>
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="66" name="Unwind" start="2015-06-28T12:30:00Z" stop="2015-06-28T13:30:00Z" epgStart="2015-06-28T12:30:00Z" epgStop="2015-06-28T13:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Unwind</EventName>
+        <Text>Let the hits play while you spaz on the internet.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Let the hits play while you spaz on the internet.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="67" name="Unwind" start="2015-06-28T13:30:00Z" stop="2015-06-28T14:30:00Z" epgStart="2015-06-28T13:30:00Z" epgStop="2015-06-28T14:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Unwind</EventName>
+        <Text>Let the hits play while you spaz on the internet.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Let the hits play while you spaz on the internet.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="68" name="Mixed Bag" start="2015-06-28T14:30:00Z" stop="2015-06-28T15:30:00Z" epgStart="2015-06-28T14:30:00Z" epgStop="2015-06-28T15:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="69" name="Top 40" start="2015-06-28T15:30:00Z" stop="2015-06-28T16:30:00Z" epgStart="2015-06-28T15:30:00Z" epgStop="2015-06-28T16:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="70" name="Top 40" start="2015-06-28T16:30:00Z" stop="2015-06-28T17:30:00Z" epgStart="2015-06-28T16:30:00Z" epgStop="2015-06-28T17:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="71" name="Top 40" start="2015-06-28T17:30:00Z" stop="2015-06-28T18:30:00Z" epgStart="2015-06-28T17:30:00Z" epgStop="2015-06-28T18:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="72" name="Top 40" start="2015-06-28T18:30:00Z" stop="2015-06-28T19:30:00Z" epgStart="2015-06-28T18:30:00Z" epgStop="2015-06-28T19:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="73" name="Stay Up" start="2015-06-28T19:30:00Z" stop="2015-06-28T20:30:00Z" epgStart="2015-06-28T19:30:00Z" epgStop="2015-06-28T20:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="74" name="Stay Up" start="2015-06-28T20:30:00Z" stop="2015-06-28T21:30:00Z" epgStart="2015-06-28T20:30:00Z" epgStop="2015-06-28T21:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="75" name="Stay Up" start="2015-06-28T21:30:00Z" stop="2015-06-28T22:30:00Z" epgStart="2015-06-28T21:30:00Z" epgStop="2015-06-28T22:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="76" name="Stay Up" start="2015-06-28T22:30:00Z" stop="2015-06-28T23:30:00Z" epgStart="2015-06-28T22:30:00Z" epgStop="2015-06-28T23:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="77" name="Stay Up" start="2015-06-28T23:30:00Z" stop="2015-06-29T00:30:00Z" epgStart="2015-06-28T23:30:00Z" epgStop="2015-06-29T00:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="78" name="Just Outta Bed" start="2015-06-29T00:30:00Z" stop="2015-06-29T01:30:00Z" epgStart="2015-06-29T00:30:00Z" epgStop="2015-06-29T01:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Just Outta Bed</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="79" name="Just Outta Bed" start="2015-06-29T01:30:00Z" stop="2015-06-29T02:30:00Z" epgStart="2015-06-29T01:30:00Z" epgStop="2015-06-29T02:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Just Outta Bed</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="80" name="Mixed Bag" start="2015-06-29T02:30:00Z" stop="2015-06-29T03:30:00Z" epgStart="2015-06-29T02:30:00Z" epgStop="2015-06-29T03:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="81" name="Early Bird" start="2015-06-29T03:30:00Z" stop="2015-06-29T04:30:00Z" epgStart="2015-06-29T03:30:00Z" epgStop="2015-06-29T04:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Early Bird</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="82" name="Fresh Vids" start="2015-06-29T04:30:00Z" stop="2015-06-29T05:30:00Z" epgStart="2015-06-29T04:30:00Z" epgStop="2015-06-29T05:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Fresh Vids</EventName>
+        <Text>The weeks freshest music releases.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The weeks freshest music releases.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="83" name="Fresh Vids" start="2015-06-29T05:30:00Z" stop="2015-06-29T06:30:00Z" epgStart="2015-06-29T05:30:00Z" epgStop="2015-06-29T06:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Fresh Vids</EventName>
+        <Text>The weeks freshest music releases.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The weeks freshest music releases.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="84" name="Mixed Bag" start="2015-06-29T06:30:00Z" stop="2015-06-29T07:30:00Z" epgStart="2015-06-29T06:30:00Z" epgStop="2015-06-29T07:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="85" name="BYOB" start="2015-06-29T07:30:00Z" stop="2015-06-29T08:30:00Z" epgStart="2015-06-29T07:30:00Z" epgStop="2015-06-29T08:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>BYOB</EventName>
+        <Text>Uninterrupted Dance Music.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Uninterrupted Dance Music.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="86" name="Top 40" start="2015-06-29T08:30:00Z" stop="2015-06-29T09:30:00Z" epgStart="2015-06-29T08:30:00Z" epgStop="2015-06-29T09:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="87" name="Top 40" start="2015-06-29T09:30:00Z" stop="2015-06-29T10:30:00Z" epgStart="2015-06-29T09:30:00Z" epgStop="2015-06-29T10:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="88" name="Mixed Bag" start="2015-06-29T10:30:00Z" stop="2015-06-29T11:30:00Z" epgStart="2015-06-29T10:30:00Z" epgStop="2015-06-29T11:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="89" name="Top 40" start="2015-06-29T11:30:00Z" stop="2015-06-29T12:30:00Z" epgStart="2015-06-29T11:30:00Z" epgStop="2015-06-29T12:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="90" name="Fresh Vids" start="2015-06-29T12:30:00Z" stop="2015-06-29T13:30:00Z" epgStart="2015-06-29T12:30:00Z" epgStop="2015-06-29T13:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Fresh Vids</EventName>
+        <Text>The weeks freshest music releases.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The weeks freshest music releases.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="91" name="Top 40" start="2015-06-29T13:30:00Z" stop="2015-06-29T14:30:00Z" epgStart="2015-06-29T13:30:00Z" epgStop="2015-06-29T14:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="92" name="Mixed Bag" start="2015-06-29T14:30:00Z" stop="2015-06-29T15:30:00Z" epgStart="2015-06-29T14:30:00Z" epgStop="2015-06-29T15:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="93" name="Unwind" start="2015-06-29T15:30:00Z" stop="2015-06-29T16:30:00Z" epgStart="2015-06-29T15:30:00Z" epgStop="2015-06-29T16:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Unwind</EventName>
+        <Text>Let the hits play while you spaz on the internet.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Let the hits play while you spaz on the internet.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="94" name="Unwind" start="2015-06-29T16:30:00Z" stop="2015-06-29T17:30:00Z" epgStart="2015-06-29T16:30:00Z" epgStop="2015-06-29T17:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Unwind</EventName>
+        <Text>Let the hits play while you spaz on the internet.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Let the hits play while you spaz on the internet.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="95" name="Stay Up" start="2015-06-29T17:30:00Z" stop="2015-06-29T18:30:00Z" epgStart="2015-06-29T17:30:00Z" epgStop="2015-06-29T18:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="96" name="Stay Up" start="2015-06-29T18:30:00Z" stop="2015-06-29T19:30:00Z" epgStart="2015-06-29T18:30:00Z" epgStop="2015-06-29T19:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="97" name="Stay Up" start="2015-06-29T19:30:00Z" stop="2015-06-29T20:30:00Z" epgStart="2015-06-29T19:30:00Z" epgStop="2015-06-29T20:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="98" name="Stay Up" start="2015-06-29T20:30:00Z" stop="2015-06-29T21:30:00Z" epgStart="2015-06-29T20:30:00Z" epgStop="2015-06-29T21:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="99" name="Stay Up" start="2015-06-29T21:30:00Z" stop="2015-06-29T22:30:00Z" epgStart="2015-06-29T21:30:00Z" epgStop="2015-06-29T22:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="100" name="Breaking Dawn" start="2015-06-29T22:30:00Z" stop="2015-06-29T23:30:00Z" epgStart="2015-06-29T22:30:00Z" epgStop="2015-06-29T23:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Breaking Dawn</EventName>
+        <Text>Songs that only you're listening.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Songs that only you're listening.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="101" name="Just Outta Bed" start="2015-06-29T23:30:00Z" stop="2015-06-30T00:30:00Z" epgStart="2015-06-29T23:30:00Z" epgStop="2015-06-30T00:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Just Outta Bed</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="102" name="Just Outta Bed" start="2015-06-30T00:30:00Z" stop="2015-06-30T01:30:00Z" epgStart="2015-06-30T00:30:00Z" epgStop="2015-06-30T01:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Just Outta Bed</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="103" name="Just Outta Bed" start="2015-06-30T01:30:00Z" stop="2015-06-30T02:30:00Z" epgStart="2015-06-30T01:30:00Z" epgStop="2015-06-30T02:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Just Outta Bed</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="104" name="Mixed Bag" start="2015-06-30T02:30:00Z" stop="2015-06-30T03:30:00Z" epgStart="2015-06-30T02:30:00Z" epgStop="2015-06-30T03:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="105" name="9XO Tweetdown" start="2015-06-30T03:30:00Z" stop="2015-06-30T04:30:00Z" epgStart="2015-06-30T03:30:00Z" epgStop="2015-06-30T04:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>9XO Tweetdown</EventName>
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="106" name="Fresh Vids" start="2015-06-30T04:30:00Z" stop="2015-06-30T05:30:00Z" epgStart="2015-06-30T04:30:00Z" epgStop="2015-06-30T05:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Fresh Vids</EventName>
+        <Text>The weeks freshest music releases.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The weeks freshest music releases.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="107" name="Fresh Vids" start="2015-06-30T05:30:00Z" stop="2015-06-30T06:30:00Z" epgStart="2015-06-30T05:30:00Z" epgStop="2015-06-30T06:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Fresh Vids</EventName>
+        <Text>The weeks freshest music releases.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The weeks freshest music releases.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="108" name="Mixed Bag" start="2015-06-30T06:30:00Z" stop="2015-06-30T07:30:00Z" epgStart="2015-06-30T06:30:00Z" epgStop="2015-06-30T07:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="109" name="9XO Tweetdown" start="2015-06-30T07:30:00Z" stop="2015-06-30T08:30:00Z" epgStart="2015-06-30T07:30:00Z" epgStop="2015-06-30T08:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>9XO Tweetdown</EventName>
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="110" name="BYOB" start="2015-06-30T08:30:00Z" stop="2015-06-30T09:30:00Z" epgStart="2015-06-30T08:30:00Z" epgStop="2015-06-30T09:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>BYOB</EventName>
+        <Text>Uninterrupted Dance Music.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Uninterrupted Dance Music.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="111" name="Top 40" start="2015-06-30T09:30:00Z" stop="2015-06-30T10:30:00Z" epgStart="2015-06-30T09:30:00Z" epgStop="2015-06-30T10:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="112" name="Mixed Bag" start="2015-06-30T10:30:00Z" stop="2015-06-30T11:30:00Z" epgStart="2015-06-30T10:30:00Z" epgStop="2015-06-30T11:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="113" name="9XO Tweetdown" start="2015-06-30T11:30:00Z" stop="2015-06-30T12:30:00Z" epgStart="2015-06-30T11:30:00Z" epgStop="2015-06-30T12:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>9XO Tweetdown</EventName>
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="114" name="Fresh Vids" start="2015-06-30T12:30:00Z" stop="2015-06-30T13:30:00Z" epgStart="2015-06-30T12:30:00Z" epgStop="2015-06-30T13:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Fresh Vids</EventName>
+        <Text>The weeks freshest music releases.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The weeks freshest music releases.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="115" name="Top 40" start="2015-06-30T13:30:00Z" stop="2015-06-30T14:30:00Z" epgStart="2015-06-30T13:30:00Z" epgStop="2015-06-30T14:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="116" name="Mixed Bag" start="2015-06-30T14:30:00Z" stop="2015-06-30T15:30:00Z" epgStart="2015-06-30T14:30:00Z" epgStop="2015-06-30T15:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="117" name="Unwind" start="2015-06-30T15:30:00Z" stop="2015-06-30T16:30:00Z" epgStart="2015-06-30T15:30:00Z" epgStop="2015-06-30T16:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Unwind</EventName>
+        <Text>Let the hits play while you spaz on the internet.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Let the hits play while you spaz on the internet.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="118" name="9XO Tweetdown" start="2015-06-30T16:30:00Z" stop="2015-06-30T17:30:00Z" epgStart="2015-06-30T16:30:00Z" epgStop="2015-06-30T17:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>9XO Tweetdown</EventName>
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="119" name="Stay Up" start="2015-06-30T17:30:00Z" stop="2015-06-30T18:30:00Z" epgStart="2015-06-30T17:30:00Z" epgStop="2015-06-30T18:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="120" name="Stay Up" start="2015-06-30T18:30:00Z" stop="2015-06-30T19:30:00Z" epgStart="2015-06-30T18:30:00Z" epgStop="2015-06-30T19:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="121" name="Stay Up" start="2015-06-30T19:30:00Z" stop="2015-06-30T20:30:00Z" epgStart="2015-06-30T19:30:00Z" epgStop="2015-06-30T20:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="122" name="Stay Up" start="2015-06-30T20:30:00Z" stop="2015-06-30T21:30:00Z" epgStart="2015-06-30T20:30:00Z" epgStop="2015-06-30T21:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="123" name="Stay Up" start="2015-06-30T21:30:00Z" stop="2015-06-30T22:30:00Z" epgStart="2015-06-30T21:30:00Z" epgStop="2015-06-30T22:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="124" name="Breaking Dawn" start="2015-06-30T22:30:00Z" stop="2015-06-30T23:30:00Z" epgStart="2015-06-30T22:30:00Z" epgStop="2015-06-30T23:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Breaking Dawn</EventName>
+        <Text>Songs that only you're listening.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Songs that only you're listening.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="125" name="Just Outta Bed" start="2015-06-30T23:30:00Z" stop="2015-07-01T00:30:00Z" epgStart="2015-06-30T23:30:00Z" epgStop="2015-07-01T00:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Just Outta Bed</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="126" name="Just Outta Bed" start="2015-07-01T00:30:00Z" stop="2015-07-01T01:30:00Z" epgStart="2015-07-01T00:30:00Z" epgStop="2015-07-01T01:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Just Outta Bed</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="127" name="Just Outta Bed" start="2015-07-01T01:30:00Z" stop="2015-07-01T02:30:00Z" epgStart="2015-07-01T01:30:00Z" epgStop="2015-07-01T02:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Just Outta Bed</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="128" name="Mixed Bag" start="2015-07-01T02:30:00Z" stop="2015-07-01T03:30:00Z" epgStart="2015-07-01T02:30:00Z" epgStop="2015-07-01T03:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="129" name="Early Bird" start="2015-07-01T03:30:00Z" stop="2015-07-01T04:30:00Z" epgStart="2015-07-01T03:30:00Z" epgStop="2015-07-01T04:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Early Bird</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="130" name="Fresh Vids" start="2015-07-01T04:30:00Z" stop="2015-07-01T05:30:00Z" epgStart="2015-07-01T04:30:00Z" epgStop="2015-07-01T05:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Fresh Vids</EventName>
+        <Text>The weeks freshest music releases.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The weeks freshest music releases.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="131" name="Fresh Vids" start="2015-07-01T05:30:00Z" stop="2015-07-01T06:30:00Z" epgStart="2015-07-01T05:30:00Z" epgStop="2015-07-01T06:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Fresh Vids</EventName>
+        <Text>The weeks freshest music releases.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The weeks freshest music releases.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="132" name="Mixed Bag" start="2015-07-01T06:30:00Z" stop="2015-07-01T07:30:00Z" epgStart="2015-07-01T06:30:00Z" epgStop="2015-07-01T07:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="133" name="Top 40" start="2015-07-01T07:30:00Z" stop="2015-07-01T08:30:00Z" epgStart="2015-07-01T07:30:00Z" epgStop="2015-07-01T08:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="134" name="Top 40" start="2015-07-01T08:30:00Z" stop="2015-07-01T09:30:00Z" epgStart="2015-07-01T08:30:00Z" epgStop="2015-07-01T09:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="135" name="BYOB" start="2015-07-01T09:30:00Z" stop="2015-07-01T10:30:00Z" epgStart="2015-07-01T09:30:00Z" epgStop="2015-07-01T10:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>BYOB</EventName>
+        <Text>Uninterrupted Dance Music.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Uninterrupted Dance Music.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="136" name="Mixed Bag" start="2015-07-01T10:30:00Z" stop="2015-07-01T11:30:00Z" epgStart="2015-07-01T10:30:00Z" epgStop="2015-07-01T11:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="137" name="Top 40" start="2015-07-01T11:30:00Z" stop="2015-07-01T12:30:00Z" epgStart="2015-07-01T11:30:00Z" epgStop="2015-07-01T12:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="138" name="Fresh Vids" start="2015-07-01T12:30:00Z" stop="2015-07-01T13:30:00Z" epgStart="2015-07-01T12:30:00Z" epgStop="2015-07-01T13:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Fresh Vids</EventName>
+        <Text>The weeks freshest music releases.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The weeks freshest music releases.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="139" name="Top 40" start="2015-07-01T13:30:00Z" stop="2015-07-01T14:30:00Z" epgStart="2015-07-01T13:30:00Z" epgStop="2015-07-01T14:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="140" name="Mixed Bag" start="2015-07-01T14:30:00Z" stop="2015-07-01T15:30:00Z" epgStart="2015-07-01T14:30:00Z" epgStop="2015-07-01T15:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="141" name="Unwind" start="2015-07-01T15:30:00Z" stop="2015-07-01T16:30:00Z" epgStart="2015-07-01T15:30:00Z" epgStop="2015-07-01T16:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Unwind</EventName>
+        <Text>Let the hits play while you spaz on the internet.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Let the hits play while you spaz on the internet.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="142" name="Unwind" start="2015-07-01T16:30:00Z" stop="2015-07-01T17:30:00Z" epgStart="2015-07-01T16:30:00Z" epgStop="2015-07-01T17:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Unwind</EventName>
+        <Text>Let the hits play while you spaz on the internet.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Let the hits play while you spaz on the internet.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="143" name="Stay Up" start="2015-07-01T17:30:00Z" stop="2015-07-01T18:30:00Z" epgStart="2015-07-01T17:30:00Z" epgStop="2015-07-01T18:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="144" name="Stay Up" start="2015-07-01T18:30:00Z" stop="2015-07-01T19:30:00Z" epgStart="2015-07-01T18:30:00Z" epgStop="2015-07-01T19:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="145" name="Stay Up" start="2015-07-01T19:30:00Z" stop="2015-07-01T20:30:00Z" epgStart="2015-07-01T19:30:00Z" epgStop="2015-07-01T20:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="146" name="Stay Up" start="2015-07-01T20:30:00Z" stop="2015-07-01T21:30:00Z" epgStart="2015-07-01T20:30:00Z" epgStop="2015-07-01T21:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="147" name="Stay Up" start="2015-07-01T21:30:00Z" stop="2015-07-01T22:30:00Z" epgStart="2015-07-01T21:30:00Z" epgStop="2015-07-01T22:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="148" name="Breaking Dawn" start="2015-07-01T22:30:00Z" stop="2015-07-01T23:30:00Z" epgStart="2015-07-01T22:30:00Z" epgStop="2015-07-01T23:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Breaking Dawn</EventName>
+        <Text>Songs that only you're listening.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Songs that only you're listening.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="149" name="Just Outta Bed" start="2015-07-01T23:30:00Z" stop="2015-07-02T00:30:00Z" epgStart="2015-07-01T23:30:00Z" epgStop="2015-07-02T00:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Just Outta Bed</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="150" name="Just Outta Bed" start="2015-07-02T00:30:00Z" stop="2015-07-02T01:30:00Z" epgStart="2015-07-02T00:30:00Z" epgStop="2015-07-02T01:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Just Outta Bed</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="151" name="Just Outta Bed" start="2015-07-02T01:30:00Z" stop="2015-07-02T02:30:00Z" epgStart="2015-07-02T01:30:00Z" epgStop="2015-07-02T02:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Just Outta Bed</EventName>
+        <Text>Hit music to wake you up.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music to wake you up.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="152" name="Mixed Bag" start="2015-07-02T02:30:00Z" stop="2015-07-02T03:30:00Z" epgStart="2015-07-02T02:30:00Z" epgStop="2015-07-02T03:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="153" name="9XO Tweetdown" start="2015-07-02T03:30:00Z" stop="2015-07-02T04:30:00Z" epgStart="2015-07-02T03:30:00Z" epgStop="2015-07-02T04:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>9XO Tweetdown</EventName>
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="154" name="Fresh Vids" start="2015-07-02T04:30:00Z" stop="2015-07-02T05:30:00Z" epgStart="2015-07-02T04:30:00Z" epgStop="2015-07-02T05:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Fresh Vids</EventName>
+        <Text>The weeks freshest music releases.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The weeks freshest music releases.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="155" name="Fresh Vids" start="2015-07-02T05:30:00Z" stop="2015-07-02T06:30:00Z" epgStart="2015-07-02T05:30:00Z" epgStop="2015-07-02T06:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Fresh Vids</EventName>
+        <Text>The weeks freshest music releases.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The weeks freshest music releases.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="156" name="Mixed Bag" start="2015-07-02T06:30:00Z" stop="2015-07-02T07:30:00Z" epgStart="2015-07-02T06:30:00Z" epgStop="2015-07-02T07:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="157" name="9XO Tweetdown" start="2015-07-02T07:30:00Z" stop="2015-07-02T08:30:00Z" epgStart="2015-07-02T07:30:00Z" epgStop="2015-07-02T08:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>9XO Tweetdown</EventName>
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="158" name="Top 40" start="2015-07-02T08:30:00Z" stop="2015-07-02T09:30:00Z" epgStart="2015-07-02T08:30:00Z" epgStop="2015-07-02T09:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="159" name="Mixed Bag" start="2015-07-02T09:30:00Z" stop="2015-07-02T10:30:00Z" epgStart="2015-07-02T09:30:00Z" epgStop="2015-07-02T10:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="160" name="BYOB" start="2015-07-02T10:30:00Z" stop="2015-07-02T11:30:00Z" epgStart="2015-07-02T10:30:00Z" epgStop="2015-07-02T11:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>BYOB</EventName>
+        <Text>Uninterrupted Dance Music.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Uninterrupted Dance Music.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="161" name="9XO Tweetdown" start="2015-07-02T11:30:00Z" stop="2015-07-02T12:30:00Z" epgStart="2015-07-02T11:30:00Z" epgStop="2015-07-02T12:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>9XO Tweetdown</EventName>
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="162" name="Fresh Vids" start="2015-07-02T12:30:00Z" stop="2015-07-02T13:30:00Z" epgStart="2015-07-02T12:30:00Z" epgStop="2015-07-02T13:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Fresh Vids</EventName>
+        <Text>The weeks freshest music releases.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The weeks freshest music releases.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="163" name="Top 40" start="2015-07-02T13:30:00Z" stop="2015-07-02T14:30:00Z" epgStart="2015-07-02T13:30:00Z" epgStop="2015-07-02T14:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Top 40</EventName>
+        <Text>The top 40 songs from around the world.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The top 40 songs from around the world.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="164" name="Mixed Bag" start="2015-07-02T14:30:00Z" stop="2015-07-02T15:30:00Z" epgStart="2015-07-02T14:30:00Z" epgStop="2015-07-02T15:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Mixed Bag</EventName>
+        <Text>Hit music across all genres and eras.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Hit music across all genres and eras.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="165" name="Unwind" start="2015-07-02T15:30:00Z" stop="2015-07-02T16:30:00Z" epgStart="2015-07-02T15:30:00Z" epgStop="2015-07-02T16:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Unwind</EventName>
+        <Text>Let the hits play while you spaz on the internet.</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Let the hits play while you spaz on the internet.</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="166" name="9XO Tweetdown" start="2015-07-02T16:30:00Z" stop="2015-07-02T17:30:00Z" epgStart="2015-07-02T16:30:00Z" epgStop="2015-07-02T17:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>9XO Tweetdown</EventName>
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>The first ever music countdown based on your tweets featuring the top 10 songs!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+    <Event id="167" name="Stay Up" start="2015-07-02T17:30:00Z" stop="2015-07-02T18:30:00Z" epgStart="2015-07-02T17:30:00Z" epgStop="2015-07-02T18:30:00Z" serviceOffAir="false" scrambled="true">
+      <ShortEventDescriptor languageCode="eng">
+        <EventName>Stay Up</EventName>
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ShortEventDescriptor>
+      <ExtendedEventDescriptor languageCode="eng">
+        <Text>Sleep is for the weak. Wake up the neighbours!</Text>
+      </ExtendedEventDescriptor>
+      <ContentDescriptor nibbleLevel1="0" nibbleLevel2="0" userNibble1="0" userNibble2="0" />
+    </Event>
+  </Service>
+</DVB-EPG>

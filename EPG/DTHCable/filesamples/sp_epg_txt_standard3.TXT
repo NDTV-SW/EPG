@@ -1,0 +1,802 @@
+BCDATE  15/09/16
+00:00:00 Teleshopping
+         SHORTDESC  A show for those who love to shop from the comforts of their home.
+01:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+02:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+03:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+04:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+05:00:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+06:00:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+06:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+06:20:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+06:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+06:50:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+07:00:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+07:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+07:20:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+07:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+07:50:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+08:00:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+08:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+08:20:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+08:30:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+08:35:00 Screen Flash
+         SHORTDESC  Latest Trailors
+08:40:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+09:10:00 Screen Flash
+         SHORTDESC  Latest Trailors
+09:12:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+09:50:00 Screen Flash
+         SHORTDESC  Latest Trailors
+09:52:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+10:30:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+10:35:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+11:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+11:20:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+11:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+11:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+12:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+12:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+12:20:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+12:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+12:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+13:00:00 9XM Top 9
+         SHORTDESC  Viewer's choice - music countdown.
+14:00:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+14:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+14:20:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+14:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+14:50:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+15:00:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+15:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+15:20:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+15:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+15:50:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+16:00:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+16:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+16:20:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+16:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+16:50:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+17:00:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+17:16:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+17:30:00 Breakless Band
+         SHORTDESC  Non-stop super hit Bollywood songs.
+18:10:00 Screen Flash
+         SHORTDESC  Latest Trailors
+18:12:00 Breakless Band
+         SHORTDESC  Non-stop super hit Bollywood songs.
+18:50:00 Screen Flash
+         SHORTDESC  Latest Trailors
+18:52:00 Breakless Band
+         SHORTDESC  Non-stop super hit Bollywood songs.
+19:00:00 9XE.COM- The Show
+         SHORTDESC  ENTERTAINMENT SHOW FEATURING THE HOTTEST BUZZ, SCOOPS and FUN CELEB INTERVIEWS
+19:30:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+19:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+19:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+20:00:00 9XM Top 9
+         SHORTDESC  Viewer's choice - music countdown.
+21:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+21:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+21:20:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+21:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+21:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+22:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+22:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+22:20:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+22:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+22:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+23:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+23:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+23:20:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+23:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+23:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+00:00:00 END
+BCDATE  15/09/17
+00:00:00 Teleshopping
+         SHORTDESC  A show for those who love to shop from the comforts of their home.
+01:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+02:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+03:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+04:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+05:00:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+06:00:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+06:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+06:20:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+06:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+06:50:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+07:00:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+07:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+07:20:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+07:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+07:50:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+08:00:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+08:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+08:20:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+08:30:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+08:35:00 Screen Flash
+         SHORTDESC  Latest Trailors
+08:40:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+09:10:00 Screen Flash
+         SHORTDESC  Latest Trailors
+09:12:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+09:50:00 Screen Flash
+         SHORTDESC  Latest Trailors
+09:52:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+10:30:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+10:35:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+11:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+11:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+11:20:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+11:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+11:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+12:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+12:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+12:20:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+12:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+12:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+13:00:00 9XE.COM- The Show
+         SHORTDESC  ENTERTAINMENT SHOW FEATURING THE HOTTEST BUZZ, SCOOPS and FUN CELEB INTERVIEWS
+14:00:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+14:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+14:20:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+14:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+14:50:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+15:00:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+15:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+15:20:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+15:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+15:50:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+16:00:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+16:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+16:20:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+16:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+16:50:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+17:00:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+17:16:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+17:30:00 Breakless Band
+         SHORTDESC  Non-stop super hit Bollywood songs.
+18:10:00 Screen Flash
+         SHORTDESC  Latest Trailors
+18:12:00 Breakless Band
+         SHORTDESC  Non-stop super hit Bollywood songs.
+18:50:00 Screen Flash
+         SHORTDESC  Latest Trailors
+18:52:00 Breakless Band
+         SHORTDESC  Non-stop super hit Bollywood songs.
+19:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+19:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+19:20:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+19:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+19:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+20:00:00 9XM Top 9
+         SHORTDESC  Viewer's choice - music countdown.
+21:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+21:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+21:20:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+21:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+21:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+22:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+22:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+22:20:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+22:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+22:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+23:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+23:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+23:20:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+23:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+23:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+00:00:00 END
+BCDATE  15/09/18
+00:00:00 Teleshopping
+         SHORTDESC  A show for those who love to shop from the comforts of their home.
+01:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+02:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+03:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+04:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+05:00:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+06:00:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+06:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+06:20:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+06:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+06:50:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+07:00:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+07:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+07:20:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+07:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+07:50:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+08:00:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+08:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+08:20:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+08:30:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+08:35:00 Screen Flash
+         SHORTDESC  Latest Trailors
+08:40:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+09:10:00 Screen Flash
+         SHORTDESC  Latest Trailors
+09:12:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+09:50:00 Screen Flash
+         SHORTDESC  Latest Trailors
+09:52:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+10:30:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+10:35:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+11:00:00 9XM Top 9
+         SHORTDESC  Viewer's choice - music countdown.
+12:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+12:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+12:20:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+12:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+12:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+13:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+13:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+14:00:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+14:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+14:20:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+14:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+14:50:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+15:00:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+15:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+15:20:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+15:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+15:50:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+16:00:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+16:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+16:20:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+16:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+16:50:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+17:00:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+17:16:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+17:30:00 Breakless Band
+         SHORTDESC  Non-stop super hit Bollywood songs.
+18:10:00 Screen Flash
+         SHORTDESC  Latest Trailors
+18:12:00 Breakless Band
+         SHORTDESC  Non-stop super hit Bollywood songs.
+18:50:00 Screen Flash
+         SHORTDESC  Latest Trailors
+18:52:00 Breakless Band
+         SHORTDESC  Non-stop super hit Bollywood songs.
+19:00:00 9XE.COM- The Show
+         SHORTDESC  ENTERTAINMENT SHOW FEATURING THE HOTTEST BUZZ, SCOOPS and FUN CELEB INTERVIEWS
+19:30:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+19:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+19:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+20:00:00 9XM Top 9
+         SHORTDESC  Viewer's choice - music countdown.
+21:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+21:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+21:20:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+21:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+21:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+22:00:00 House Of Dance- dj chetas in the house
+         SHORTDESC  Non-Stop Dance Hits
+23:00:00 House Of Dance- dj chetas in the house
+         SHORTDESC  Non-Stop Dance Hits
+00:00:00 END
+BCDATE  15/09/19
+00:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+00:30:00 Teleshopping
+         SHORTDESC  A show for those who love to shop from the comforts of their home.
+01:30:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+02:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+03:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+04:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+05:00:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+06:00:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+06:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+06:20:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+06:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+06:50:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+07:00:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+07:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+07:20:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+07:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+07:50:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+08:00:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+08:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+08:20:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+08:30:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+08:35:00 Screen Flash
+         SHORTDESC  Latest Trailors
+08:40:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+09:10:00 Screen Flash
+         SHORTDESC  Latest Trailors
+09:12:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+09:50:00 Screen Flash
+         SHORTDESC  Latest Trailors
+09:52:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+10:30:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+10:35:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+11:00:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+11:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+11:20:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+11:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+11:50:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+12:00:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+12:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+12:20:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+12:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+12:50:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+13:00:00 9XE.COM- The Show
+         SHORTDESC  ENTERTAINMENT SHOW FEATURING THE HOTTEST BUZZ, SCOOPS and FUN CELEB INTERVIEWS
+13:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+13:20:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+13:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+13:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+14:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+14:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+14:20:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+14:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+14:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+15:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+15:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+15:20:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+15:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+15:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+16:00:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+16:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+16:20:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+16:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+16:50:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+17:00:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+17:16:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+17:30:00 Breakless Band
+         SHORTDESC  Non-stop super hit Bollywood songs.
+18:10:00 Screen Flash
+         SHORTDESC  Latest Trailors
+18:12:00 Breakless Band
+         SHORTDESC  Non-stop super hit Bollywood songs.
+18:50:00 Screen Flash
+         SHORTDESC  Latest Trailors
+18:52:00 Breakless Band
+         SHORTDESC  Non-stop super hit Bollywood songs.
+19:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+19:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+19:20:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+19:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+19:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+20:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+20:20:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+20:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+20:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+21:00:00 9XM Top 9
+         SHORTDESC  Viewer's choice - music countdown.
+22:00:00 House Of Dance- dj chetas in the house
+         SHORTDESC  Non-Stop Dance Hits
+23:00:00 House Of Dance- dj chetas in the house
+         SHORTDESC  Non-Stop Dance Hits
+00:00:00 END
+BCDATE  15/09/20
+00:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+00:30:00 Teleshopping
+         SHORTDESC  A show for those who love to shop from the comforts of their home.
+01:30:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+02:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+03:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+04:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+05:00:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+06:00:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+06:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+06:20:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+06:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+06:50:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+07:00:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+07:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+07:20:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+07:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+07:50:00 Morning Alarm
+         SHORTDESC  Wake up to the best Bollywood music.
+08:00:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+08:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+08:20:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+08:30:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+08:35:00 Screen Flash
+         SHORTDESC  Latest Trailors
+08:40:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+09:10:00 Screen Flash
+         SHORTDESC  Latest Trailors
+09:12:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+09:50:00 Screen Flash
+         SHORTDESC  Latest Trailors
+09:52:00 Fit Hits
+         SHORTDESC  100percent Ad Free Music
+10:30:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+10:35:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+11:00:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+11:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+11:20:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+11:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+11:50:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+12:00:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+12:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+12:20:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+12:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+12:50:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+13:00:00 9XE.COM- The Show
+         SHORTDESC  ENTERTAINMENT SHOW FEATURING THE HOTTEST BUZZ, SCOOPS and FUN CELEB INTERVIEWS
+14:00:00 9XM Top 9
+         SHORTDESC  Viewer's choice - music countdown.
+14:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+14:20:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+14:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+14:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+15:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+15:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+15:20:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+15:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+15:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+16:00:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+16:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+16:20:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+16:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+16:50:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+17:00:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+17:16:00 M-Slot
+         SHORTDESC  Bollywood'S Latest Hits
+17:30:00 Breakless Band
+         SHORTDESC  Non-stop super hit Bollywood songs.
+18:10:00 Screen Flash
+         SHORTDESC  Latest Trailors
+18:12:00 Breakless Band
+         SHORTDESC  Non-stop super hit Bollywood songs.
+18:50:00 Screen Flash
+         SHORTDESC  Latest Trailors
+18:52:00 Breakless Band
+         SHORTDESC  Non-stop super hit Bollywood songs.
+19:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+19:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+19:20:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+19:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+19:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+20:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+20:20:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+20:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+20:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+21:00:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+21:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+21:20:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+21:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+21:50:00 Bade-Chote's Playlist
+         SHORTDESC  The Hottest Bollywood Hits
+22:00:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+22:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+22:20:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+22:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+22:50:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+23:00:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+23:16:00 Screen Flash
+         SHORTDESC  Latest Trailors
+23:20:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+23:45:00 Screen Flash
+         SHORTDESC  Latest Trailors
+23:50:00 Calm-A-Sutra
+         SHORTDESC  Easy Listening Playlist
+00:00:00 END

@@ -1,0 +1,165 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="SiteBootStrap.Master.vb" Inherits="EPG.SiteBootStrap" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1" runat="server">
+    <title></title>
+    <link rel="icon" type="image/ico" href="./Images/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <%--<meta http-equiv="refresh" content="2" />--%>
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="MobileOptimized" content="320" />
+    <%--<meta name="viewport" content="width=device-width" />--%>
+    <meta name="description" content="New Delhi Television Ltd - EPG Services Division" />
+    <meta name="author" content="Hemant Sajnani, Kautilya Rastogi" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link href="./Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link href="./Styles/Site.css" rel="stylesheet" type="text/css" />
+    
+    <link href="styles/bootstrap.min.css" rel="stylesheet" />
+    <style type="text/css">
+      @media(min-width:1200px){.container{width:98%;}}
+        .nav>li>a {
+            padding: 10px 10px;
+        }
+        .rbl input[type="radio"]
+        {
+           margin-left: 5px;
+        }
+        .hyper
+        {
+            color: White;
+            font-weight: bold;
+        }
+        .noFormatting
+        {
+            text-decoration: none;
+        }
+        .SuperScript{font-size:xx-small; vertical-align:top;} 
+        .formLabel{ width:100px;} 
+        .footer{text-align:center; text-decoration:none; text-align:center;}
+    </style>
+    <script type="text/javascript">
+        function example1() {
+            $.msgBox({
+                title: "Error Occured",
+                content: "An error has been occured. Please Check !",
+                opacity: 0.9
+            });
+        }
+    </script>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<body>
+    <div class="js">
+        <!--this is supposed to be on the HTML element but codepen won't let me do it-->
+        <div id="preloader">
+        </div>
+        <form id="Form1" runat="server">
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span><span
+                            class="icon-bar"></span><span class="icon-bar"></span>
+                    </button>
+                    <a id="ndtvHome" href="~/reports/" class="navbar-brand" runat="server">
+                        <asp:Image ID="imgLogo" ImageUrl="images/ndtv_logo.png" runat="server" /><span class="hyper">
+                            &nbsp;Reliance Digital EPG Errors Logging</span> </a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown"><a id="A12" href="~/reports/relianceErrorLogging.aspx" runat="server"><span class="hyper">View Logs</span></a></li>
+                        <li class="dropdown"><a id="A1" href="~/reports/uploadExcel.aspx" runat="server"><span class="hyper">Upload</span></a></li>
+                        <li class="dropdown"><a id="A2" href="~/reports/graphreporth.aspx" runat="server"><span class="hyper">Reports</span></a></li>
+                    </ul>
+                     <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <div class="loginDisplay hyper">
+                                <asp:LoginView ID="LoginView1" runat="server" EnableViewState="false">
+                                    <AnonymousTemplate>
+                                        [ <a href="~/Account/Login.aspx" id="HeadLoginStatus" runat="server">Log In</a>]
+                                    </AnonymousTemplate>
+                                    <LoggedInTemplate>
+                                        Hi <span class="bold">
+                                            <asp:LoginName ID="HeadLoginName" runat="server" />
+                                        </span>! [
+                                        <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Log Out"
+                                            LogoutPageUrl="~/Account/Login.aspx" />
+                                        <a>]</a>
+                                    </LoggedInTemplate>
+                                </asp:LoginView>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <br />
+        <br />
+        <br />
+        <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+        <script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+        <script src="http://epgops.ndtv.com/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="http://epgops.ndtv.com/js/bootstrap-dialog.js" type="text/javascript"></script>
+    <script src="http://epgops.ndtv.com/js/bootbox.min.js" type="text/javascript"></script>
+    <script src="http://epgops.ndtv.com/js/bootstrap-dialog.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            function messageBox(abc) {
+                bootbox.dialog({
+                    message: abc,
+                    title: "Info",
+                    buttons: {
+                        success: {
+                            label: "Dismiss!",
+                            className: "btn-success",
+                            callback: function () {
+                                //Example.show("great success");
+                            }
+                        }
+                    }
+                });
+            }
+            function errorBox(abc) {
+                bootbox.dialog({
+                    message: abc,
+                    title: "Error",
+                    buttons: {
+                        success: {
+                            label: "Dismiss!",
+                            className: "btn-danger",
+                            callback: function () {
+                                //Example.show("great success");
+                            }
+                        }
+                    }
+                });
+            }
+        </script>
+        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </form>
+        <div class="panel-footer nav navbar-fixed-bottom" style="background-color: Black;
+            opacity: 0.4; filter: alpha(opacity=40); color: White; height: 35px;">
+            <footer>
+			<p class="footer">&copy; Copyright 
+				<a href="http://www.ndtv.com/" target="_blank" id="copyright"></a>NDTV&nbsp;Limited 2015. All rights reserved.</p>
+		    </footer>
+        </div>
+    </div>
+    <script type="text/javascript">
+        document.getElementById("preloader").style.display = "none";
+    </script>
+    <script type='text/javascript'>
+        //document.body.style.zoom = "90%";
+    </script>
+</body>
+</html>

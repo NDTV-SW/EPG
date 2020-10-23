@@ -1,0 +1,32 @@
+D:\Shashank Work\Source\EPG CODE\EPGDEV\EPGDEV\EPG_V4\EPG\bin\EPG.dll
+D:\Shashank Work\Source\EPG CODE\EPGDEV\EPGDEV\EPG_V4\EPG\bin\EPG.pdb
+D:\Shashank Work\Source\EPG CODE\EPGDEV\EPGDEV\EPG_V4\EPG\bin\EPG.xml
+D:\Shashank Work\Source\EPG CODE\EPGDEV\EPGDEV\EPG_V4\EPG\bin\AWSSDK.Core.dll
+D:\Shashank Work\Source\EPG CODE\EPGDEV\EPGDEV\EPG_V4\EPG\bin\AWSSDK.S3.dll
+D:\Shashank Work\Source\EPG CODE\EPGDEV\EPGDEV\EPG_V4\EPG\bin\AWSSDK.Core.pdb
+D:\Shashank Work\Source\EPG CODE\EPGDEV\EPGDEV\EPG_V4\EPG\bin\AWSSDK.Core.xml
+D:\Shashank Work\Source\EPG CODE\EPGDEV\EPGDEV\EPG_V4\EPG\bin\AWSSDK.S3.pdb
+D:\Shashank Work\Source\EPG CODE\EPGDEV\EPGDEV\EPG_V4\EPG\bin\AWSSDK.S3.xml
+D:\Shashank Work\Source\EPG CODE\EPGDEV\EPGDEV\EPG_V4\EPG\obj\Debug\EPG.Resources.resources
+D:\Shashank Work\Source\EPG CODE\EPGDEV\EPGDEV\EPG_V4\EPG\obj\Debug\EPG.vbproj.GenerateResource.Cache
+D:\Shashank Work\Source\EPG CODE\EPGDEV\EPGDEV\EPG_V4\EPG\obj\Debug\EPG.dll
+D:\Shashank Work\Source\EPG CODE\EPGDEV\EPGDEV\EPG_V4\EPG\obj\Debug\EPG.xml
+D:\Shashank Work\Source\EPG CODE\EPGDEV\EPGDEV\EPG_V4\EPG\obj\Debug\EPG.pdb
+D:\Shashank Work\Source\EPG CODE\EPGDEV\EPGDEV\EPG_V4\EPG\obj\Debug\EPG.vbprojResolveAssemblyReference.cache
+D:\Projects\EPG_V4\EPG\bin\EPG.dll
+D:\Projects\EPG_V4\EPG\bin\EPG.pdb
+D:\Projects\EPG_V4\EPG\bin\EPG.xml
+D:\Projects\EPG_V4\EPG\bin\AWSSDK.Core.dll
+D:\Projects\EPG_V4\EPG\bin\AWSSDK.S3.dll
+D:\Projects\EPG_V4\EPG\bin\AWSSDK.Core.pdb
+D:\Projects\EPG_V4\EPG\bin\AWSSDK.Core.xml
+D:\Projects\EPG_V4\EPG\bin\AWSSDK.S3.pdb
+D:\Projects\EPG_V4\EPG\bin\AWSSDK.S3.xml
+D:\Projects\EPG_V4\EPG\obj\Debug\EPG.Resources.resources
+D:\Projects\EPG_V4\EPG\obj\Debug\EPG.vbproj.GenerateResource.Cache
+D:\Projects\EPG_V4\EPG\obj\Debug\EPG.dll
+D:\Projects\EPG_V4\EPG\obj\Debug\EPG.xml
+D:\Projects\EPG_V4\EPG\obj\Debug\EPG.pdb
+D:\Projects\EPG_V4\EPG\bin\Foxplus.dll
+D:\Projects\EPG_V4\EPG\bin\Foxplus.pdb
+D:\Projects\EPG_V4\EPG\obj\Debug\EPG.vbprojResolveAssemblyReference.cache

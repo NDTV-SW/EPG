@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScheduleProvider id="Reliance" name="Reliance" scheduleDate="2015-09-15T18:30:00Z">
+  <Service action="override" id="3280" longName="Gemini Movies" shortName="Gemini Movies" />
+  <DownloadPeriod action="override" serviceRef="3280" type="turnaround">
+    <Period end="2015-09-16T18:30:00Z" start="2015-09-15T18:30:00Z" />
+    <Programme id="53895527" title="Sri Rajarajeswari">
+      <Period end="2015-09-15T21:15:00Z" start="2015-09-15T18:30:00Z" />
+      <EpgDescription>
+        <EpgElement key="ParentalRating">9</EpgElement>
+        <EpgElement key="AudioMode">5.1</EpgElement>
+        <EpgElement key="Colour">0</EpgElement>
+        <EpgElement key="Aspect">16:9</EpgElement>
+        <EpgElement key="Definition" />
+        <EpgElement key="SeriesId" />
+        <EpgElement key="DVB_Content">5:3:0:0</EpgElement>
+      </EpgDescription>
+      <EpgDescription locale="hi_IN">
+        <EpgElement key="Title">Sri Rajarajeswari</EpgElement>
+        <EpgElement key="Short_Description">Cast-Ramki, Ramyakrishna and Others</EpgElement>
+        <EpgElement key="Description">Cast-Ramki, Ramyakrishna and Others</EpgElement>
+      </EpgDescription>
+      <EpgDescription locale="en_GB">
+        <EpgElement key="Title">Sri Rajarajeswari</EpgElement>
+        <EpgElement key="Short_Description">Cast-Ramki, Ramyakrishna and Others</EpgElement>
+        <EpgElement key="Description">Cast-Ramki, Ramyakrishna and Others</EpgElement>
+      </EpgDescription>
+    </Programme>
+    <Programme id="53895528" title="Nee Manase Korukunna">
+      <Period end="2015-09-15T23:45:00Z" start="2015-09-15T21:15:00Z" />
+      <EpgDescription>
+        <EpgElement key="ParentalRating">9</EpgElement>
+        <EpgElement key="AudioMode">5.1</EpgElement>
+        <EpgElement key="Colour">0</EpgElement>
+        <EpgElement key="Aspect">16:9</EpgElement>
+        <EpgElement key="Definition" />
+        <EpgElement key="SeriesId" />
+        <EpgElement key="DVB_Content">5:3:0:0</EpgElement>
+      </EpgDescription>
+      <EpgDescription locale="hi_IN">
+        <EpgElement key="Title">Nee Manase Korukunna</EpgElement>
+        <EpgElement key="Short_Description">Starring: Raja, Sheela and Others</EpgElement>
+        <EpgElement key="Description">Starring: Raja, Sheela and Others</EpgElement>
+      </EpgDescription>
+      <EpgDescription locale="en_GB">
+        <EpgElement key="Title">Nee Manase Korukunna</EpgElement>
+        <EpgElement key="Short_Description">Starring: Raja, Sheela and Others</EpgElement>
+        <EpgElement key="Description">Starring: Raja, Sheela and Others</EpgElement>
+      </EpgDescription>
+    </Programme>
+    <Programme id="53895529" title="Comedy Hungama">
+      <Period end="2015-09-16T00:30:00Z" start="2015-09-15T23:45:00Z" />
+      <EpgDescription>
+        <EpgElement key="ParentalRating">9</EpgElement>
+        <EpgElement key="AudioMode">5.1</EpgElement>
+        <EpgElement key="Colour">0</EpgElement>
+        <EpgElement key="Aspect">16:9</EpgElement>
+        <EpgElement key="Definition" />
+        <EpgElement key="SeriesId" />
+        <EpgElement key="DVB_Content">5:3:0:0</EpgElement>
+      </EpgDescription>
+      <EpgDescription locale="hi_IN">
+        <EpgElement key="Title">Comedy Hungama</EpgElement>
+        <EpgElement key="Short_Description">Compilation of comedy scenes from Telugu movies.</EpgElement>
+        <EpgElement key="Description">Compilation of comedy scenes from Telugu movies.</EpgElement>
+      </EpgDescription>
+      <EpgDescription locale="en_GB">
+        <EpgElement key="Title">Comedy Hungama</EpgElement>
+        <EpgElement key="Short_Description">Compilation of comedy scenes from Telugu movies.</EpgElement>
+        <EpgElement key="Description">Compilation of comedy scenes from Telugu movies.</EpgElement>
+      </EpgDescription>
+    </Programme>
+    <Programme id="53895530" title="Devotional">
+      <Period end="2015-09-16T01:30:00Z" start="2015-09-16T00:30:00Z" />
+      <EpgDescription>
+        <EpgElement key="ParentalRating">9</EpgElement>
+        <EpgElement key="AudioMode">5.1</EpgElement>
+        <EpgElement key="Colour">0</EpgElement>
+        <EpgElement key="Aspect">16:9</EpgElement>
+        <EpgElement key="Definition" />
+        <EpgElement key="SeriesId" />
+        <EpgElement key="DVB_Content">5:3:0:0</EpgElement>
+      </EpgDescription>
+      <EpgDescription locale="hi_IN">
+        <EpgElement key="Title">Devotional</EpgElement>
+        <EpgElement key="Short_Description">Devotional Program.</EpgElement>
+        <EpgElement key="Description">Devotional Program.</EpgElement>
+      </EpgDescription>
+      <EpgDescription locale="en_GB">
+        <EpgElement key="Title">Devotional</EpgElement>
+        <EpgElement key="Short_Description">Devotional Program.</EpgElement>
+        <EpgElement key="Description">Devotional Program.</EpgElement>
+      </EpgDescription>
+    </Programme>
+    <Programme id="53895531" title="Seethakoka Chiluka">
+      <Period end="2015-09-16T04:10:00Z" start="2015-09-16T01:30:00Z" />
+      <EpgDescription>
+        <EpgElement key="ParentalRating">9</EpgElement>
+        <EpgElement key="AudioMode">5.1</EpgElement>
+        <EpgElement key="Colour">0</EpgElement>
+        <EpgElement key="Aspect">16:9</EpgElement>
+        <EpgElement key="Definition" />
+        <EpgElement key="SeriesId" />
+        <EpgElement key="DVB_Content">5:3:0:0</EpgElement>
+      </EpgDescription>
+      <EpgDescription locale="hi_IN">
+        <EpgElement key="Title">Seethakoka Chiluka</EpgElement>
+        <EpgElement key="Short_Description">Movie starring 	Karthik Muthuraman, Aruna Mucherla.</EpgElement>
+        <EpgElement key="Description">Movie starring 	Karthik Muthuraman, Aruna Mucherla.</EpgElement>
+      </EpgDescription>
+      <EpgDescription locale="en_GB">
+        <EpgElement key="Title">Seethakoka Chiluka</EpgElement>
+        <EpgElement key="Short_Description">Movie starring 	Karthik Muthuraman, Aruna Mucherla.</EpgElement>
+        <EpgElement key="Description">Movie starring 	Karthik Muthuraman, Aruna Mucherla.</EpgElement>
+      </EpgDescription>
+    </Programme>
+    <Programme id="53895532" title="Devatha">
+      <Period end="2015-09-16T06:30:00Z" start="2015-09-16T04:10:00Z" />
+      <EpgDescription>
+        <EpgElement key="ParentalRating">9</EpgElement>
+        <EpgElement key="AudioMode">5.1</EpgElement>
+        <EpgElement key="Colour">0</EpgElement>
+        <EpgElement key="Aspect">16:9</EpgElement>
+        <EpgElement key="Definition" />
+        <EpgElement key="SeriesId" />
+        <EpgElement key="DVB_Content">5:3:0:0</EpgElement>
+      </EpgDescription>
+      <EpgDescription locale="hi_IN">
+        <EpgElement key="Title">Devatha</EpgElement>
+        <EpgElement key="Short_Description">Starring:Ramki, Meena and Others</EpgElement>
+        <EpgElement key="Description">Starring:Ramki, Meena and Others</EpgElement>
+      </EpgDescription>
+      <EpgDescription locale="en_GB">
+        <EpgElement key="Title">Devatha</EpgElement>
+        <EpgElement key="Short_Description">Starring:Ramki, Meena and Others</EpgElement>
+        <EpgElement key="Description">Starring:Ramki, Meena and Others</EpgElement>
+      </EpgDescription>
+    </Programme>
+    <Programme id="53895533" title="Vijayaramaraju">
+      <Period end="2015-09-16T09:40:00Z" start="2015-09-16T06:30:00Z" />
+      <EpgDescription>
+        <EpgElement key="ParentalRating">9</EpgElement>
+        <EpgElement key="AudioMode">5.1</EpgElement>
+        <EpgElement key="Colour">0</EpgElement>
+        <EpgElement key="Aspect">16:9</EpgElement>
+        <EpgElement key="Definition" />
+        <EpgElement key="SeriesId" />
+        <EpgElement key="DVB_Content">5:3:0:0</EpgElement>
+      </EpgDescription>
+      <EpgDescription locale="hi_IN">
+        <EpgElement key="Title">Vijayaramaraju</EpgElement>
+        <EpgElement key="Short_Description">Starring:Srihari, Oorvasi and Others</EpgElement>
+        <EpgElement key="Description">Starring:Srihari, Oorvasi and Others</EpgElement>
+      </EpgDescription>
+      <EpgDescription locale="en_GB">
+        <EpgElement key="Title">Vijayaramaraju</EpgElement>
+        <EpgElement key="Short_Description">Starring:Srihari, Oorvasi and Others</EpgElement>
+        <EpgElement key="Description">Starring:Srihari, Oorvasi and Others</EpgElement>
+      </EpgDescription>
+    </Programme>
+    <Programme id="53895534" title="Appudappudu">
+      <Period end="2015-09-16T12:30:00Z" start="2015-09-16T09:40:00Z" />
+      <EpgDescription>
+        <EpgElement key="ParentalRating">9</EpgElement>
+        <EpgElement key="AudioMode">5.1</EpgElement>
+        <EpgElement key="Colour">0</EpgElement>
+        <EpgElement key="Aspect">16:9</EpgElement>
+        <EpgElement key="Definition" />
+        <EpgElement key="SeriesId" />
+        <EpgElement key="DVB_Content">5:3:0:0</EpgElement>
+      </EpgDescription>
+      <EpgDescription locale="hi_IN">
+        <EpgElement key="Title">Appudappudu</EpgElement>
+        <EpgElement key="Short_Description">Stg: Raja, Sriyareddy and Others</EpgElement>
+        <EpgElement key="Description">Stg: Raja, Sriyareddy and Others</EpgElement>
+      </EpgDescription>
+      <EpgDescription locale="en_GB">
+        <EpgElement key="Title">Appudappudu</EpgElement>
+        <EpgElement key="Short_Description">Stg: Raja, Sriyareddy and Others</EpgElement>
+        <EpgElement key="Description">Stg: Raja, Sriyareddy and Others</EpgElement>
+      </EpgDescription>
+    </Programme>
+    <Programme id="53895535" title="Pavithra Bandham">
+      <Period end="2015-09-16T15:40:00Z" start="2015-09-16T12:30:00Z" />
+      <EpgDescription>
+        <EpgElement key="ParentalRating">9</EpgElement>
+        <EpgElement key="AudioMode">5.1</EpgElement>
+        <EpgElement key="Colour">0</EpgElement>
+        <EpgElement key="Aspect">16:9</EpgElement>
+        <EpgElement key="Definition" />
+        <EpgElement key="SeriesId" />
+        <EpgElement key="DVB_Content">5:3:0:0</EpgElement>
+      </EpgDescription>
+      <EpgDescription locale="hi_IN">
+        <EpgElement key="Title">Pavithra Bandham</EpgElement>
+        <EpgElement key="Short_Description">Movie starring Venkatesh, Soundarya.</EpgElement>
+        <EpgElement key="Description">Movie starring Venkatesh, Soundarya.</EpgElement>
+      </EpgDescription>
+      <EpgDescription locale="en_GB">
+        <EpgElement key="Title">Pavithra Bandham</EpgElement>
+        <EpgElement key="Short_Description">Movie starring Venkatesh, Soundarya.</EpgElement>
+        <EpgElement key="Description">Movie starring Venkatesh, Soundarya.</EpgElement>
+      </EpgDescription>
+    </Programme>
+    <Programme id="53895536" title="Kalisuntee">
+      <Period end="2015-09-16T18:30:00Z" start="2015-09-16T15:40:00Z" />
+      <EpgDescription>
+        <EpgElement key="ParentalRating">9</EpgElement>
+        <EpgElement key="AudioMode">5.1</EpgElement>
+        <EpgElement key="Colour">0</EpgElement>
+        <EpgElement key="Aspect">16:9</EpgElement>
+        <EpgElement key="Definition" />
+        <EpgElement key="SeriesId" />
+        <EpgElement key="DVB_Content">5:3:0:0</EpgElement>
+      </EpgDescription>
+      <EpgDescription locale="hi_IN">
+        <EpgElement key="Title">Kalisuntee</EpgElement>
+        <EpgElement key="Short_Description">Starring:Navadeep, Arya, Samruksha</EpgElement>
+        <EpgElement key="Description">Starring:Navadeep, Arya, Samruksha</EpgElement>
+      </EpgDescription>
+      <EpgDescription locale="en_GB">
+        <EpgElement key="Title">Kalisuntee</EpgElement>
+        <EpgElement key="Short_Description">Starring:Navadeep, Arya, Samruksha</EpgElement>
+        <EpgElement key="Description">Starring:Navadeep, Arya, Samruksha</EpgElement>
+      </EpgDescription>
+    </Programme>
+  </DownloadPeriod>
+</ScheduleProvider>

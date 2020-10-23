@@ -1,0 +1,427 @@
+BCDATE  15/09/16
+
+00:00:00 Entertainment Programme
+         SHORTDESC  Entertainment prog
+03:00:00 Entertainment Programme
+         SHORTDESC  Entertainment prog
+04:30:00 Disha
+         SHORTDESC  Development prog
+05:00:00 Devotional Music
+         SHORTDESC  Devotional Music
+05:30:00 Classical Music
+         SHORTDESC  This program showcases Indian classical music.
+06:00:00 Signature Image and Tune
+         SHORTDESC  Channel Presentation
+06:01:00 Amrita Katha
+         SHORTDESC  A program preaching messages of holy men.
+06:06:00 Krishi Darshan
+         SHORTDESC  An agricultural-based program that talks about the new techniques in farming and the benefits farmers will derive from them.
+06:30:00 Rabindra Sangeet/Nazrulgeeti/Folk Song/Light Music
+         SHORTDESC  Music Show
+07:00:00 Sakal Sakal
+         SHORTDESC  Breakfast Show
+07:30:00 Sambad
+         SHORTDESC  News Bulletin
+07:40:00 Sakal Sakal
+         SHORTDESC  Breakfast Show
+08:30:00 Sambad
+         SHORTDESC  News Bulletin
+08:40:00 Ekhon Music : Chirodiner Gaan
+         SHORTDESC  Old Melodies
+09:30:00 Hello DD : Suswasthya
+         SHORTDESC  Health programme
+10:30:00 Hey Mahajiban
+         SHORTDESC  Prog on Freedom Fighter
+11:00:00 Sambad
+         SHORTDESC  News Bulletin
+11:05:00 Movie - Mahan
+         SHORTDESC  Star Cast: - Soumitra, Victor Banerjee, Chumki Chowdhury & Others : Direction - Haranath Chakraborty : Music - Mrinal Banerjee
+12:00:00 Sambad
+         SHORTDESC  News Bulletin
+12:05:00 Movie - Mahan
+         SHORTDESC  Star Cast: - Soumitra, Victor Banerjee, Chumki Chowdhury & Others : Direction - Haranath Chakraborty : Music - Mrinal Banerjee
+13:30:00 Dd-Dupure : Aajker Ranna
+         SHORTDESC  Women's Prog
+14:00:00 Sambad
+         SHORTDESC  News Bulletin
+14:10:00 Dd-Dupure : Ghare Baire
+         SHORTDESC  Women's Prog
+15:00:00 Niruddesh Sambad
+         SHORTDESC  News on Missing Persons
+15:05:00 Alpo Alpo Galpo Katha
+         SHORTDESC  Fictional series on classics
+16:00:00 Hello DD : Suswasthya
+         SHORTDESC  Health programme
+17:00:00 Sambad
+         SHORTDESC  News Bulletin
+17:05:00 Nepali Programme
+         SHORTDESC  Nepali prog
+17:30:00 Krishi Darshan
+         SHORTDESC  An agricultural-based program that talks about the new techniques in farming and the benefits farmers will derive from them.
+18:00:00 Santiniketan Theke
+         SHORTDESC  Prog contribution from DDK Santiniketan
+18:30:00 Sambad
+         SHORTDESC  News Bulletin
+18:45:00 Khabrein
+         SHORTDESC  Urdu News Bulletin
+18:55:00 Program Highlights
+         SHORTDESC  Prog Highlights
+19:00:00 Yukti Takko
+         SHORTDESC  This program features a special report on the celebration of World Puppet Day.
+20:00:00 Alpo Alpo Galpo Katha
+         SHORTDESC  Fictional series on classics
+21:00:00 Sambad
+         SHORTDESC  News Bulletin
+21:10:00 Ekhon Music : Eto Sur Eto Gaan
+         SHORTDESC  Music Reality Show
+22:00:00 Sambad Prabaha
+         SHORTDESC  Day's News Roud-up
+22:30:00 Camera Cholchhe
+         SHORTDESC  Cultural Round-up
+23:00:00 Paramparay Darshan
+         SHORTDESC  Special prog on DD Day
+
+23:59:59 END
+
+BCDATE  15/09/17
+
+00:00:00 Entertainment Programme
+         SHORTDESC  Entertainment prog
+03:00:00 Entertainment Programme
+         SHORTDESC  Entertainment prog
+04:30:00 Santiniketan Theke
+         SHORTDESC  Prog contribution from DDK Santiniketan
+05:00:00 Devotional Music
+         SHORTDESC  Devotional Music
+05:30:00 Classical Music
+         SHORTDESC  This program showcases Indian classical music.
+06:00:00 Signature Image and Tune
+         SHORTDESC  Channel Presentation
+06:01:00 Amrita Katha
+         SHORTDESC  A program preaching messages of holy men.
+06:06:00 Krishi Darshan
+         SHORTDESC  An agricultural-based program that talks about the new techniques in farming and the benefits farmers will derive from them.
+06:30:00 Rabindra Sangeet/Nazrulgeeti/Folk Song/Light Music
+         SHORTDESC  Music Show
+07:00:00 Sakal Sakal
+         SHORTDESC  Breakfast Show
+07:30:00 Sambad
+         SHORTDESC  News Bulletin
+07:40:00 Sakal Sakal
+         SHORTDESC  Breakfast Show
+08:30:00 Sambad
+         SHORTDESC  News Bulletin
+08:40:00 Ekhon Music : Eto Sur Eto Gaan
+         SHORTDESC  Music Reality Show
+09:30:00 Hello DD : Suswasthya
+         SHORTDESC  Health programme
+10:30:00 Sange Bhraman
+         SHORTDESC  Travel Show
+11:00:00 Sambad
+         SHORTDESC  News Bulletin
+11:05:00 Movie - Head Master
+         SHORTDESC  Star Cast:- Chhabi Biswas, Karuna Bandopadhyay, Sova Sen & Others : Direction - Agragrami : Music - Sudhin Dasgupta
+12:00:00 Sambad
+         SHORTDESC  News Bulletin
+12:05:00 Movie - Head Master
+         SHORTDESC  Star Cast:- Chhabi Biswas, Karuna Bandopadhyay, Sova Sen & Others : Direction - Agragrami : Music - Sudhin Dasgupta
+13:30:00 Dd-Dupure : Aajker Ranna
+         SHORTDESC  Women's Prog
+14:00:00 Sambad
+         SHORTDESC  News Bulletin
+14:10:00 Dd-Dupure : Ghare Baire
+         SHORTDESC  Women's Prog
+15:00:00 Niruddesh Sambad
+         SHORTDESC  News on Missing Persons
+15:05:00 Alpo Alpo Galpo Katha
+         SHORTDESC  Fictional series on classics
+16:00:00 Hello DD : Career Plus
+         SHORTDESC  Prog on Career
+17:00:00 Sambad
+         SHORTDESC  News Bulletin
+17:05:00 Santhali Prog
+         SHORTDESC  Documentary
+17:30:00 Krishi Darshan
+         SHORTDESC  An agricultural-based program that talks about the new techniques in farming and the benefits farmers will derive from them.
+18:00:00 Uttorer Janala
+         SHORTDESC  Prog contribution from DDK Jalpaiguri
+18:30:00 Sambad
+         SHORTDESC  News Bulletin
+18:45:00 Khabrein
+         SHORTDESC  Urdu News Bulletin
+18:55:00 Program Highlights
+         SHORTDESC  Prog Highlights
+19:00:00 Classical Music
+         SHORTDESC  This program showcases Indian classical music.
+20:00:00 Alpo Alpo Galpo Katha
+         SHORTDESC  Fictional series on classics
+21:00:00 Sambad
+         SHORTDESC  News Bulletin
+21:10:00 Ekhon Music : Eto Sur Eto Gaan
+         SHORTDESC  Music Reality Show
+22:00:00 Sambad Prabaha
+         SHORTDESC  Day's News Roud-up
+22:30:00 Camera Cholchhe
+         SHORTDESC  Cultural Round-up
+23:00:00 Yukti Takko
+         SHORTDESC  This program features a special report on the celebration of World Puppet Day.
+
+23:59:59 END
+
+BCDATE  15/09/18
+
+00:00:00 Entertainment Programme
+         SHORTDESC  Entertainment prog
+03:00:00 Entertainment Programme
+         SHORTDESC  Entertainment prog
+04:30:00 Uttorer Janala
+         SHORTDESC  Prog contribution from DDK Jalpaiguri
+05:00:00 Devotional Music
+         SHORTDESC  Devotional Music
+05:30:00 Classical Music
+         SHORTDESC  This program showcases Indian classical music.
+06:00:00 Signature Image and Tune
+         SHORTDESC  Channel Presentation
+06:01:00 Amrita Katha
+         SHORTDESC  A program preaching messages of holy men.
+06:06:00 Krishi Darshan
+         SHORTDESC  An agricultural-based program that talks about the new techniques in farming and the benefits farmers will derive from them.
+06:30:00 Rabindra Sangeet/Nazrulgeeti/Folk Song/Light Music
+         SHORTDESC  Music Show
+07:00:00 Sakal Sakal
+         SHORTDESC  Breakfast Show
+07:30:00 Sambad
+         SHORTDESC  News Bulletin
+07:40:00 Sakal Sakal
+         SHORTDESC  Breakfast Show
+08:30:00 Sambad
+         SHORTDESC  News Bulletin
+08:40:00 Ekhon Music : Eto Sur Eto Gaan
+         SHORTDESC  Music Reality Show
+09:30:00 Hello DD : Career Plus
+         SHORTDESC  Prog on Career
+10:30:00 Barnali
+         SHORTDESC  Magazine Prog
+11:00:00 Sambad
+         SHORTDESC  News Bulletin
+11:05:00 Movie - Mallick Bari
+         SHORTDESC  Star Cast:- Sabyasachi, Paoli Dam, Kharaj, Pallabi & Others : Direction - Anirban Chakraborty : Music - Chandan Roy Chowdhury
+12:00:00 Sambad
+         SHORTDESC  News Bulletin
+12:05:00 Movie - Mallick Bari
+         SHORTDESC  Star Cast:- Sabyasachi, Paoli Dam, Kharaj, Pallabi & Others : Direction - Anirban Chakraborty : Music - Chandan Roy Chowdhury
+13:30:00 Dd-Dupure : Aajker Ranna
+         SHORTDESC  Women's Prog
+14:00:00 Sambad
+         SHORTDESC  News Bulletin
+14:10:00 Dd-Dupure : Ghare Baire
+         SHORTDESC  Women's Prog
+15:00:00 Niruddesh Sambad
+         SHORTDESC  News on Missing Persons
+15:05:00 Alpo Alpo Galpo Katha
+         SHORTDESC  Fictional series on classics
+16:00:00 Hello-DD : Panchayet Darpan
+         SHORTDESC  Prog on Panchayet
+17:00:00 Sambad
+         SHORTDESC  News Bulletin
+17:05:00 Santhali Prog
+         SHORTDESC  Documentary
+17:30:00 Krishi Darshan
+         SHORTDESC  An agricultural-based program that talks about the new techniques in farming and the benefits farmers will derive from them.
+18:00:00 Folk Time
+         SHORTDESC  Folk Music
+18:30:00 Sambad
+         SHORTDESC  News Bulletin
+18:45:00 Khabrein
+         SHORTDESC  Urdu News Bulletin
+18:55:00 Program Highlights
+         SHORTDESC  Prog Highlights
+19:00:00 Mon Niye
+         SHORTDESC  Prog on Physiological Counselling
+20:00:00 Alpo Alpo Galpo Katha
+         SHORTDESC  Fictional series on classics
+21:00:00 Sambad
+         SHORTDESC  News Bulletin
+21:10:00 Ekhon Music : Eto Sur Eto Gaan
+         SHORTDESC  Music Reality Show
+22:00:00 Sambad Prabaha
+         SHORTDESC  Day's News Roud-up
+22:30:00 Camera Cholchhe
+         SHORTDESC  Cultural Round-up
+23:00:00 Mon Music
+         SHORTDESC  Band Song
+
+23:59:59 END
+
+BCDATE  15/09/19
+
+00:00:00 Entertainment Programme
+         SHORTDESC  Entertainment prog
+03:00:00 Entertainment Programme
+         SHORTDESC  Entertainment prog
+04:30:00 Youth Adda
+         SHORTDESC  Youth programme
+05:00:00 Devotional Music
+         SHORTDESC  Devotional Music
+05:30:00 Classical Music
+         SHORTDESC  This program showcases Indian classical music.
+06:00:00 Signature Image and Tune
+         SHORTDESC  Channel Presentation
+06:01:00 Amrita Katha
+         SHORTDESC  A program preaching messages of holy men.
+06:06:00 Devotional Music
+         SHORTDESC  Devotional Music
+06:30:00 Rabindra Sangeet/Nazrulgeeti/Folk Song/Light Music
+         SHORTDESC  Music Show
+07:00:00 Sakal Sakal
+         SHORTDESC  Breakfast Show
+07:30:00 Sambad
+         SHORTDESC  News Bulletin
+07:40:00 Sakal Sakal
+         SHORTDESC  Breakfast Show
+08:30:00 Sambad
+         SHORTDESC  News Bulletin
+08:40:00 Ekhon Music : Eto Sur Eto Gaan
+         SHORTDESC  Music Reality Show
+09:30:00 Hello-DD : Panchayet Darpan
+         SHORTDESC  Prog on Panchayet
+10:30:00 Santiniketan Theke
+         SHORTDESC  Prog contribution from DDK Santiniketan
+11:00:00 Sambad
+         SHORTDESC  News Bulletin
+11:05:00 Movie - Haat Baralei Bandhu
+         SHORTDESC  Star Cast:- Uttam Kumar, Sabitri, Chhabi Biswas, Pahari Sanyal & Others : Direction - Sukumar Dasgupta : Music - Nachiketa Ghosh
+12:00:00 Sambad
+         SHORTDESC  News Bulletin
+12:05:00 Movie - Haat Baralei Bandhu
+         SHORTDESC  Star Cast:- Uttam Kumar, Sabitri, Chhabi Biswas, Pahari Sanyal & Others : Direction - Sukumar Dasgupta : Music - Nachiketa Ghosh
+13:30:00 Dd-Dupure : Aajker Ranna
+         SHORTDESC  Women's Prog
+14:00:00 Sambad
+         SHORTDESC  News Bulletin
+14:10:00 Roopkatha
+         SHORTDESC  Beauty tips
+15:00:00 Program Highlights
+         SHORTDESC  Prog Highlights
+15:05:00 Alpo Alpo Galpo Katha
+         SHORTDESC  Fictional series on classics
+16:00:00 Hello DD : Aain Kanoon
+         SHORTDESC  Legal Tips
+17:00:00 Sambad
+         SHORTDESC  News Bulletin
+17:05:00 Hindi Prog
+         SHORTDESC  Prog on Urdu Hindi language
+17:30:00 Khela Aar Khela
+         SHORTDESC  Sports
+18:00:00 Gram Bikasher Disay
+         SHORTDESC  Prog on Rural Development
+18:30:00 Sambad
+         SHORTDESC  News Bulletin
+18:45:00 Khabrein
+         SHORTDESC  Urdu News Bulletin
+18:55:00 Program Highlights
+         SHORTDESC  Prog Highlights
+19:00:00 Aparajito
+         SHORTDESC  Education prog for challenged persons
+19:30:00 Sange Bhraman
+         SHORTDESC  Travel Show
+20:00:00 Classical Music
+         SHORTDESC  This program showcases Indian classical music.
+21:00:00 Sambad
+         SHORTDESC  News Bulletin
+21:10:00 Ekhon Music : Ganer Adda
+         SHORTDESC  Musical Chat Show
+22:00:00 Sambad Prabaha
+         SHORTDESC  Day's News Roud-up
+22:30:00 Theatre on TV
+         SHORTDESC  Drama
+23:30:00 Classical Music
+         SHORTDESC  This program showcases Indian classical music.
+
+23:59:59 END
+
+BCDATE  15/09/20
+
+00:00:00 Entertainment Programme
+         SHORTDESC  Entertainment prog
+03:00:00 Entertainment Programme
+         SHORTDESC  Entertainment prog
+04:30:00 Krishi Darshan
+         SHORTDESC  An agricultural-based program that talks about the new techniques in farming and the benefits farmers will derive from them.
+05:00:00 Classical/Devotional/Rabindra Sangeet Music
+         SHORTDESC  Prog from DDK Santiniketan
+05:30:00 Classical Music
+         SHORTDESC  This program showcases Indian classical music.
+06:00:00 Signature Image and Tune
+         SHORTDESC  Channel Presentation
+06:01:00 Amreeto Kotha
+         SHORTDESC  Religious Speech
+06:06:00 Devotional Music
+         SHORTDESC  Devotional Music
+06:30:00 Rabindra Sangeet/Nazrulgeeti/Folk Song/Light Music
+         SHORTDESC  Music Show
+07:00:00 Sakal Sakal
+         SHORTDESC  Breakfast Show
+07:30:00 Sambad
+         SHORTDESC  News Bulletin
+07:40:00 Sakal Sakal
+         SHORTDESC  Breakfast Show
+08:30:00 Sambad
+         SHORTDESC  News Bulletin
+08:40:00 Ekhon Music : Eto Sur Eto Gaan
+         SHORTDESC  Music Reality Show
+09:30:00 Barnali
+         SHORTDESC  Magazine Prog
+10:00:00 Onneshan
+         SHORTDESC  Science prog
+10:30:00 Folk Time
+         SHORTDESC  Folk Music
+11:00:00 Sambad
+         SHORTDESC  News Bulletin
+11:05:00 Youth Adda
+         SHORTDESC  Youth programme
+11:30:00 Ankur
+         SHORTDESC  A special program for children.
+12:00:00 Sambad
+         SHORTDESC  News Bulletin
+12:05:00 Robibarer Poribar
+         SHORTDESC  Family Game Show
+13:00:00 Sahitya Sanskriti
+         SHORTDESC  A talk show based on Bengali literature and culture.
+13:30:00 Dd-Dupure : Aajker Ranna
+         SHORTDESC  Women's Prog
+14:00:00 Sambad
+         SHORTDESC  News Bulletin
+14:10:00 Sreemoyee
+         SHORTDESC  Ladies Game Show
+15:00:00 Movie - Sada Kalo Abchha
+         SHORTDESC  Star Cast:- Samrat Chakraborty, Sayani Dutta, Rana Mitra & Others : Direction - Arnab Ringo Banerjee : Music - Rishi Chanda
+17:00:00 Sambad
+         SHORTDESC  News Bulletin
+17:05:00 Movie - Sada Kalo Abchha
+         SHORTDESC  Star Cast:- Samrat Chakraborty, Sayani Dutta, Rana Mitra & Others : Direction - Arnab Ringo Banerjee : Music - Rishi Chanda
+18:00:00 Youth Adda
+         SHORTDESC  Youth programme
+18:30:00 Sambad
+         SHORTDESC  News Bulletin
+18:45:00 Khabrein
+         SHORTDESC  Urdu News Bulletin
+18:55:00 Program Highlights
+         SHORTDESC  Prog Highlights
+19:00:00 Robibarer Poribar
+         SHORTDESC  Family Game Show
+20:00:00 Mon Music
+         SHORTDESC  Band Song
+21:00:00 Sambad
+         SHORTDESC  News Bulletin
+21:10:00 Abhinoy Abhinoy
+         SHORTDESC  Drama Reality Show
+22:00:00 Sambad Prabaha
+         SHORTDESC  Day's News Roud-up
+22:30:00 Theatre on TV
+         SHORTDESC  Drama
+23:30:00 Classical Dance
+         SHORTDESC  Dance Show
+
+23:59:59 END
+

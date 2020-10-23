@@ -1,0 +1,225 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="SiteVerify.Master.vb"
+    Inherits="EPG.SiteVerify" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Dashboard</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/font-awesome.min.css" rel="stylesheet" />
+    <link href="css/datepicker3.css" rel="stylesheet" />
+    <link href="css/styles.css" rel="stylesheet" />
+    <style type="text/css">
+        .sidebar ul.nav li a
+        {
+            height: 30px !important;
+            line-height: 1.2em !important;
+        }
+        hr
+        {
+            margin-top: 2px !important;
+            margin-bottom: 2px !important;
+            width: 90% !important;
+        }
+        .sidebar ul.nav li a
+        {
+            font-size: 11px !important;
+            font-weight: 400 !important;
+        }
+        .row
+        {
+            margin-right: 0px !important;
+            margin-left: 0px !important;
+        }
+        th
+        {
+            text-align: center !important;
+        }
+        .hyper
+        {
+            color: White;
+            font-weight: bold;
+        }
+        .alert-danger1
+        {
+            color: #D0021B;
+            border-color: #ebccd1;
+        }
+        
+        
+        .table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th
+        {
+            padding-top: 4px !important;
+            padding-bottom: 4px !important;
+            padding-left: 2px !important;
+            padding-right: 2px !important;
+        }
+        .table1
+        {
+            width: 100%;
+            max-width: 100%;
+        }
+        .table1 > tbody > tr > td, .table1 > tbody > tr > th
+        {
+            padding: 2px !important;
+        }
+        .panel-heading1
+        {
+            font-size: 12px !important;
+            font-weight: bold !important;
+            text-align: center !important;
+            letter-spacing: 0.025em;
+        }
+        .panel-heading2
+        {
+            font-size: 16px !important;
+            font-weight: bold !important;
+            text-align: center !important;
+            letter-spacing: 0.025em;
+            height: 28px;
+            line-height: 28px;
+        }
+        .panel-heading
+        {
+            padding: 2px 12px !important;
+            height: 32px !important;
+            line-height: 30px !important;
+        }
+        .panel-body
+        {
+            padding: 2px !important;
+        }
+        .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9
+        {
+            padding-right: 2px !important;
+            padding-left: 2px !important;
+        }
+        .btn
+        {
+            font-weight: 600 !important;
+        }
+        body
+        {
+            font-size: 11px !important;
+            font-weight:bold !important;
+        }
+        
+        input.form-control
+        {
+            height: 28px !important;
+        }
+        
+        select.form-control
+        {
+            height: 28px !important;
+        }
+        .chk
+        {
+            height: 28px !important;
+        }
+        .form-control
+        {
+            padding: 2px 4px !important;
+            font-size: 11px !important;
+            line-height: 1.2 !important;
+        }
+        .profile-usertitle-name
+        {
+            font-size: 12px !important;
+            font-weight: bold !important;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server" />
+    <!--Custom Font-->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet" />
+    <!--[if lt IE 9]>
+	<script src="js/html5shiv.js"></script>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+</head>
+<body>
+    <form runat="server">
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+		<div class="container-fluid">
+        
+			<div class="navbar-header">
+            
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#sidebar-collapse"><span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span></button>
+                    
+				<a class="navbar-brand"  runat="server" href="~/"><span>NDTV</span> Verify</a>
+        
+				<ul class="nav navbar-top-links navbar-right">
+                <img src="~/images/ureqa1.jpg" height="60px" />
+				</ul>
+			</div>
+		</div><!-- /.container-fluid -->
+	</nav>
+    <div id="sidebar-collapse" class="col-sm-3 col-lg-2 sidebar">
+        <div class="profile-sidebar">
+            <%--<div class="profile-userpic">
+                <img src="images/k.jpg" class="img-responsive" alt="K">
+            </div>--%>
+            <div class="profile-usertitle">
+                <div class="profile-usertitle-name">
+                    <asp:LoginView ID="LoginView1" runat="server" EnableViewState="false">
+                        <LoggedInTemplate>
+                            Hi <span class="bold">
+                                <asp:LoginName ID="HeadLoginName" runat="server" />
+                            </span><span class="indicator label-success"></span>
+                        </LoggedInTemplate>
+                    </asp:LoginView>
+                    <asp:LoginView ID="LoginView2" runat="server" EnableViewState="false">
+                        <LoggedInTemplate>
+                            <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="<em class='fa fa-power-off'>&nbsp;</em>"
+                                LogoutPageUrl="~/Account/Login.aspx" ToolTip="Log out" />
+                        </LoggedInTemplate>
+                    </asp:LoginView>
+                </div>
+            </div>
+            <div class="clear">
+            </div>
+        </div>
+        <div class="divider">
+        </div>
+        <ul class="nav menu">
+            <li id="liverifychannel" runat="server"><a href="channel.aspx"><em class="fa fa-dashboard">
+                &nbsp;</em> Channel</a></li>
+            <li id="liverifyprogram" runat="server"><a href="program.aspx"><em class="fa fa-dashboard">
+                &nbsp;</em> Program</a></li>
+        </ul>
+    </div>
+    <!--/.sidebar-->
+    <div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">
+        <!--/.row-->
+        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        <div class="col-sm-12">
+            <p class="back-link">
+                CopyRight &copy; <a href="https://www.ndtv.com">NDTV Ltd. 2019</a></p>
+        </div>
+        <!--/.row-->
+    </div>
+    <!--/.main-->
+    </form>
+    <script src="js/jquery-1.11.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <!--script src="js/chart.min.js"></script-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
+    <script src="js/chart-data.js"></script>
+    <script src="js/easypiechart.js"></script>
+    <script src="js/easypiechart-data.js"></script>
+    <script src="js/bootstrap-datepicker.js"></script>
+    <script src="js/custom.js"></script>
+    <script type="text/javascript">
+
+        $(function () {
+
+        });
+    </script>
+</body>
+</html>

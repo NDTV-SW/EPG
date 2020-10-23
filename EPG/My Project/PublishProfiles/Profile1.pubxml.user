@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>2013-07-05T16:14:51.0594607+05:30</TimeStampOfAssociatedLegacyPublishXmlFile>
+    <EncryptedPassword />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>03/17/2013 17:21:02</publishTime>
+    </File>
+    <File Include="Account/ChangePassword.aspx">
+      <publishTime>06/24/2013 18:50:30</publishTime>
+    </File>
+    <File Include="Account/ChangePasswordSuccess.aspx">
+      <publishTime>10/10/2012 17:20:00</publishTime>
+    </File>
+    <File Include="Account/Login.aspx">
+      <publishTime>04/09/2013 12:00:34</publishTime>
+    </File>
+    <File Include="Account/Register.aspx">
+      <publishTime>10/10/2012 17:20:00</publishTime>
+    </File>
+    <File Include="Account/Web.config">
+      <publishTime>01/14/2013 18:53:30</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>05/17/2011 09:58:44</publishTime>
+    </File>
+    <File Include="bin/EPG.dll">
+      <publishTime>08/02/2013 23:33:31</publishTime>
+    </File>
+    <File Include="bin/EPG.pdb">
+      <publishTime>06/06/2013 17:20:23</publishTime>
+    </File>
+    <File Include="bin/EPG.xml">
+      <publishTime>08/02/2013 23:33:31</publishTime>
+    </File>
+    <File Include="bin/Excel.dll">
+      <publishTime>01/05/2013 19:58:34</publishTime>
+    </File>
+    <File Include="bin/ExcelPackage.dll">
+      <publishTime>01/04/2013 19:08:10</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>12/25/2012 22:09:38</publishTime>
+    </File>
+    <File Include="bin/WinSCP.dll">
+      <publishTime>05/19/2013 14:47:44</publishTime>
+    </File>
+    <File Include="BuilEPGTransactions.aspx">
+      <publishTime>05/10/2013 15:32:32</publishTime>
+    </File>
+    <File Include="CopyLastWeekEPG.aspx">
+      <publishTime>05/08/2013 16:47:46</publishTime>
+    </File>
+    <File Include="DashBoard.aspx">
+      <publishTime>05/01/2013 15:46:50</publishTime>
+    </File>
+    <File Include="Dashboard_Channel_Onair.aspx">
+      <publishTime>05/15/2013 18:59:37</publishTime>
+    </File>
+    <File Include="Dashboard_Channel_withProgs.aspx">
+      <publishTime>05/06/2013 08:43:12</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>03/18/2013 13:14:00</publishTime>
+    </File>
+    <File Include="Default1.aspx">
+      <publishTime>05/09/2013 14:14:02</publishTime>
+    </File>
+    <File Include="EPGMissingInfo.aspx">
+      <publishTime>06/07/2013 16:38:23</publishTime>
+    </File>
+    <File Include="error.htm">
+      <publishTime>05/18/2013 00:18:02</publishTime>
+    </File>
+    <File Include="ErrorReport.aspx">
+      <publishTime>06/10/2013 18:32:30</publishTime>
+    </File>
+    <File Include="ErrorReport1.aspx">
+      <publishTime>06/01/2013 17:23:50</publishTime>
+    </File>
+    <File Include="FTPReport.aspx">
+      <publishTime>06/10/2013 18:33:07</publishTime>
+    </File>
+    <File Include="FTPXML.aspx">
+      <publishTime>05/30/2013 18:32:02</publishTime>
+    </File>
+    <File Include="FTPXML1.aspx">
+      <publishTime>05/28/2013 18:14:12</publishTime>
+    </File>
+    <File Include="GetError.ashx">
+      <publishTime>06/01/2013 16:22:00</publishTime>
+    </File>
+    <File Include="getPosts.ashx">
+      <publishTime>06/01/2013 15:28:16</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/05/2013 18:43:52</publishTime>
+    </File>
+    <File Include="Images/404.gif">
+      <publishTime>12/28/2012 17:04:56</publishTime>
+    </File>
+    <File Include="Images/alert.png">
+      <publishTime>08/01/2008 13:39:36</publishTime>
+    </File>
+    <File Include="Images/calendar.png">
+      <publishTime>02/15/2013 13:46:02</publishTime>
+    </File>
+    <File Include="Images/cal_minus.gif">
+      <publishTime>08/27/2007 14:24:56</publishTime>
+    </File>
+    <File Include="Images/cal_plus.gif">
+      <publishTime>08/27/2007 14:24:56</publishTime>
+    </File>
+    <File Include="Images/confirm.png">
+      <publishTime>08/01/2008 13:39:24</publishTime>
+    </File>
+    <File Include="Images/delete.png">
+      <publishTime>10/25/2012 20:09:22</publishTime>
+    </File>
+    <File Include="Images/delete32.png">
+      <publishTime>10/24/2012 14:35:38</publishTime>
+    </File>
+    <File Include="Images/discrepancycentralimport.JPG">
+      <publishTime>04/24/2013 00:14:58</publishTime>
+    </File>
+    <File Include="Images/edit.png">
+      <publishTime>10/24/2012 14:36:14</publishTime>
+    </File>
+    <File Include="Images/edit32.png">
+      <publishTime>10/24/2012 14:36:14</publishTime>
+    </File>
+    <File Include="Images/epg7.png">
+      <publishTime>03/18/2013 10:36:10</publishTime>
+    </File>
+    <File Include="Images/error.png">
+      <publishTime>08/01/2008 13:39:40</publishTime>
+    </File>
+    <File Include="Images/info.png">
+      <publishTime>08/01/2008 13:39:38</publishTime>
+    </File>
+    <File Include="Images/loader.gif">
+      <publishTime>01/20/2013 16:03:26</publishTime>
+    </File>
+    <File Include="Images/msgBoxBackGround.png">
+      <publishTime>10/31/2011 23:36:14</publishTime>
+    </File>
+    <File Include="Images/next.jpg">
+      <publishTime>02/27/2013 15:32:42</publishTime>
+    </File>
+    <File Include="Images/Prev.gif">
+      <publishTime>02/27/2013 15:32:28</publishTime>
+    </File>
+    <File Include="Images/sample3.JPG">
+      <publishTime>03/29/2013 17:32:24</publishTime>
+    </File>
+    <File Include="Images/SampleRegUpload.JPG">
+      <publishTime>03/07/2013 09:57:18</publishTime>
+    </File>
+    <File Include="Images/SampleScedUpload.JPG">
+      <publishTime>04/09/2013 14:57:58</publishTime>
+    </File>
+    <File Include="Images/sampleUpload3.jpg">
+      <publishTime>04/09/2013 17:30:48</publishTime>
+    </File>
+    <File Include="Images/SampleUpload5.JPG">
+      <publishTime>05/23/2013 17:24:08</publishTime>
+    </File>
+    <File Include="Images/Web.config">
+      <publishTime>01/14/2013 19:08:18</publishTime>
+    </File>
+    <File Include="Mail.aspx">
+      <publishTime>04/08/2013 08:54:40</publishTime>
+    </File>
+    <File Include="Masters/ChannelMaster.aspx">
+      <publishTime>04/09/2013 12:00:34</publishTime>
+    </File>
+    <File Include="Masters/ChannelOnairOffAir.aspx">
+      <publishTime>07/23/2013 12:46:19</publishTime>
+    </File>
+    <File Include="Masters/ChannelRegionalMaster.aspx">
+      <publishTime>04/24/2013 14:34:24</publishTime>
+    </File>
+    <File Include="Masters/CompanyDetails.aspx">
+      <publishTime>08/02/2013 20:10:05</publishTime>
+    </File>
+    <File Include="Masters/CompanyMaster.aspx">
+      <publishTime>04/09/2013 12:00:34</publishTime>
+    </File>
+    <File Include="Masters/EditDiscrepancyCentral.aspx">
+      <publishTime>06/24/2013 23:54:54</publishTime>
+    </File>
+    <File Include="Masters/EditJunkData.aspx">
+      <publishTime>05/03/2013 17:07:08</publishTime>
+    </File>
+    <File Include="Masters/EditProgName.aspx">
+      <publishTime>06/07/2013 18:54:48</publishTime>
+    </File>
+    <File Include="Masters/EditProgName1.aspx">
+      <publishTime>07/17/2013 20:02:24</publishTime>
+    </File>
+    <File Include="Masters/EditProgNameSearch.aspx">
+      <publishTime>05/10/2013 16:27:10</publishTime>
+    </File>
+    <File Include="Masters/EditXMLMailDate.aspx">
+      <publishTime>05/07/2013 19:06:08</publishTime>
+    </File>
+    <File Include="Masters/FixJunkCharacters.aspx">
+      <publishTime>05/03/2013 16:34:46</publishTime>
+    </File>
+    <File Include="Masters/GenreMaster.aspx">
+      <publishTime>04/09/2013 12:00:32</publishTime>
+    </File>
+    <File Include="Masters/LanguageMaster.aspx">
+      <publishTime>07/12/2013 19:42:05</publishTime>
+    </File>
+    <File Include="Masters/ProgramCentral.aspx">
+      <publishTime>03/27/2013 15:09:04</publishTime>
+    </File>
+    <File Include="Masters/ProgramCentralEdit.aspx">
+      <publishTime>07/19/2013 17:20:15</publishTime>
+    </File>
+    <File Include="Masters/ProgramCentralEdit1.aspx">
+      <publishTime>07/17/2013 19:07:41</publishTime>
+    </File>
+    <File Include="Masters/ProgramCentralEditAll.aspx">
+      <publishTime>07/19/2013 22:40:31</publishTime>
+    </File>
+    <File Include="Masters/ProgramDescripency.aspx">
+      <publishTime>07/24/2013 10:07:03</publishTime>
+    </File>
+    <File Include="Masters/ProgramDescripencyCentral.aspx">
+      <publishTime>05/01/2013 15:47:56</publishTime>
+    </File>
+    <File Include="Masters/ProgramDiscripencyCentralImport.aspx">
+      <publishTime>06/25/2013 00:05:27</publishTime>
+    </File>
+    <File Include="Masters/ProgramMaster.aspx">
+      <publishTime>08/02/2013 23:14:37</publishTime>
+    </File>
+    <File Include="Masters/RatingsMaster.aspx">
+      <publishTime>04/09/2013 12:00:32</publishTime>
+    </File>
+    <File Include="Masters/RegProgramMaster.aspx">
+      <publishTime>05/07/2013 15:20:16</publishTime>
+    </File>
+    <File Include="Masters/ServiceID.aspx">
+      <publishTime>05/24/2013 21:26:45</publishTime>
+    </File>
+    <File Include="Masters/showXMLMailed.aspx">
+      <publishTime>07/16/2013 19:21:59</publishTime>
+    </File>
+    <File Include="Masters/SubGenreMaster.aspx">
+      <publishTime>04/09/2013 12:00:32</publishTime>
+    </File>
+    <File Include="Masters/UpdatePPV.aspx">
+      <publishTime>07/29/2013 18:16:10</publishTime>
+    </File>
+    <File Include="Masters/ValidateEPG.aspx">
+      <publishTime>04/09/2013 12:00:34</publishTime>
+    </File>
+    <File Include="Masters/XMLMailed.aspx">
+      <publishTime>06/10/2013 18:41:57</publishTime>
+    </File>
+    <File Include="repModSynopsis.aspx">
+      <publishTime>07/11/2013 17:25:09</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>07/18/2013 16:50:37</publishTime>
+    </File>
+    <File Include="Styles/msgBoxLight.css">
+      <publishTime>08/28/2012 18:43:44</publishTime>
+    </File>
+    <File Include="Styles/Site.css">
+      <publishTime>04/09/2013 12:00:32</publishTime>
+    </File>
+    <File Include="Styles/styles.css">
+      <publishTime>04/03/2013 16:21:00</publishTime>
+    </File>
+    <File Include="Styles/Web.config">
+      <publishTime>01/14/2013 19:07:32</publishTime>
+    </File>
+    <File Include="update.ashx">
+      <publishTime>06/01/2013 15:28:16</publishTime>
+    </File>
+    <File Include="UpdateError.ashx">
+      <publishTime>06/01/2013 16:51:12</publishTime>
+    </File>
+    <File Include="UpdatePPV.aspx">
+      <publishTime>07/15/2013 19:02:52</publishTime>
+    </File>
+    <File Include="UploadFPCSchedule.aspx">
+      <publishTime>04/09/2013 12:00:32</publishTime>
+    </File>
+    <File Include="UploadRegionalNames.aspx">
+      <publishTime>04/27/2013 20:56:28</publishTime>
+    </File>
+    <File Include="UploadRegionalNames2.aspx">
+      <publishTime>05/03/2013 17:39:14</publishTime>
+    </File>
+    <File Include="UploadSchedule.aspx">
+      <publishTime>08/02/2013 20:09:04</publishTime>
+    </File>
+    <File Include="UploadSchedule2.aspx">
+      <publishTime>05/02/2013 09:10:50</publishTime>
+    </File>
+    <File Include="UploadSchedule3.aspx">
+      <publishTime>04/29/2013 11:29:28</publishTime>
+    </File>
+    <File Include="UploadSchedule4WOI.aspx">
+      <publishTime>05/23/2013 13:12:15</publishTime>
+    </File>
+    <File Include="UploadSchedule5Zee.aspx">
+      <publishTime>08/02/2013 20:04:50</publishTime>
+    </File>
+    <File Include="ViewEPG.aspx">
+      <publishTime>07/19/2013 16:28:50</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/01/2013 21:12:07</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

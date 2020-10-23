@@ -1,0 +1,37 @@
+﻿Public Class DVBGenreMapping
+    Inherits System.Web.UI.Page
+
+    Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
+        Try
+
+        Catch ex As Exception
+            Logger.LogError("DVBGenreMapping", "Page Load", ex.Message.ToString, User.Identity.Name)
+        End Try
+    End Sub
+
+
+    Protected Sub btnupdate_Click(sender As Object, e As EventArgs) Handles btnupdate.Click
+        Dim obj As New clsExecute
+        Dim dt As DataTable = obj.executeSQL("insert into dvb_genre_mapping(dvbgenreid,ndtvgenreid) values('" & ddlDVBGenre.SelectedValue & "','" & ddlNDTVGenre.SelectedValue & "')", False)
+
+        clearall()
+
+    End Sub
+
+
+    Protected Sub grd_SelectedIndexChanged(sender As Object, e As EventArgs) Handles grd.SelectedIndexChanged
+        Dim lbID As Label = TryCast(grd.Rows(grd.SelectedIndex).FindControl("lbID"), Label)
+        Dim obj As New clsExecute
+        obj.executeSQL("delete from dvb_genre_mapping where rowid='" & lbID.Text & "'", False)
+        clearall()
+
+
+    End Sub
+
+    Private Sub clearall()
+        ddlNDTVGenre.DataBind()
+        grd.SelectedIndex = -1
+        grd.DataBind()
+
+    End Sub
+End Class

@@ -1,0 +1,17 @@
+
+#table-container {
+  position: relative;
+  width: auto;
+  height: 420px;
+  overflow: auto;
+  background-color: #FFF;
+  border: 1px solid #59638;
+  padding: 0 10px 0 0;
+}
+
+table.gvTheGrid th {
+  padding: 8px 10px;
+  text-align: center;
+  border-right: 1px solid #FFF;
+  
+}

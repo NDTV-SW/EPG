@@ -1,0 +1,36 @@
+Won?
+
+
+GST
+PAN
+Concerned Person
+Designation
+Address
+
+
+Pricing
+Tenure
+Startdate
+End date
+including/excluding taxes
+number of channels
+language
+
+other features
+length of programme and synopsis
+system? PSI/CASESIS/ Gospell
+format?
+
+
+
+-- balance sheet: start with negative if not paid: since April 18
+-- Paying or not? (Contract status(DD) paying/not paying/barter/Provision) ______________________
+
+-- Follow up by  Tarun/Hemant/Kautilya __________________________
+
+-- Open Contact page immediately after adding lead _____________________
+
+-- Deal lost/won at last ____________________
+
+-- Language DD with multiselect ____________________
+-- Client

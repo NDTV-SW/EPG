@@ -1,0 +1,197 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="SiteDTH.Master.vb" Inherits="EPG.SiteDTH" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1" runat="server">
+    <link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon" />
+    <title></title>
+    <link rel="icon" href="../images/favicon.ico" type="image/x-icon" />
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="MobileOptimized" content="320" />
+    <meta name="description" content="AV Multimedia Pvt. Ltd" />
+    <meta name="author" content="Kautilya Rastogi" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link href="../Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link href="../Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link href="../styles/bootstrap.min.css" rel="stylesheet" />
+    <style type="text/css">
+        @media (min-width:1200px)
+        {
+            .container
+            {
+                width: 98%;
+            }
+        }
+        
+        .nav > li > a
+        {
+            padding: 14px 10px;
+        }
+        
+        input[type=radio], input[type=checkbox]
+        {
+            margin-right: 5px;
+        }
+        
+        label
+        {
+            margin-right: 2px;
+        }
+        
+        .hyper
+        {
+            font-weight: bold;
+            color: White;
+        }
+        
+        .SuperScript
+        {
+            font-size: xx-small;
+            vertical-align: top;
+        }
+        
+        .formLabel
+        {
+            width: 100px;
+        }
+        
+        .footer
+        {
+            text-align: center;
+            text-decoration: none;
+            text-align: center;
+        }
+        
+        .navbar
+        {
+            margin-bottom: 5px !important;
+        }
+        
+        h3, h6
+        {
+            padding: 5px,5px;
+            margin-top: 5px !important;
+            margin-bottom: 5px !important;
+        }
+        
+        body
+        {
+            font-size: 12px !important;
+        }
+        .form-control
+        {
+            padding: 2px 2px !important;
+            font-size: 12px !important;
+        }
+        
+        .col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12
+        {
+            padding-right: 4px !important;
+            padding-left: 4px !important;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<body>
+    <form id="Form1" runat="server">
+    <div class="navbar navbar-inverse">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"
+                    aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span><span
+                        class="icon-bar"></span><span class="icon-bar"></span>
+                </button>
+                <a id="ndtvHome" href="~/default.aspx" class="navbar-brand" runat="server">
+                    <asp:Image ID="imgLogo" ImageUrl="../images/ndtv_logo.png" runat="server" /><span> &nbsp;
+                        EPG</span> </a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li><a id="A1" runat="server" href='~/dthcable/default.aspx'><span class="hyper">Home</span></a></li>
+                    <li><a id="A3" href="~/dthcable/operatorchannels.aspx" runat="server">
+                        <spa class="hyper" n>
+                        Op Channels</span></a></li>
+                    <li><a id="A4" href="~/dthcable/operatordetails.aspx" runat="server"><span class="hyper">
+                        Op Details</span></a></li>
+                    <li><a id="A2" href="~/dthcable/appno.aspx" runat="server"><span class="hyper">Priority
+                        n App</span></a></li>
+                    <li><a id="A5" href="~/dthcable/filesamples.aspx" runat="server"><span class="hyper">
+                        File Samples</span></a></li>
+                    <li><a id="A6" href="~/dthcable/msomaster.aspx" runat="server"><span class="hyper">MSO
+                        Master</span></a></li>
+                </ul>
+                <ul class="nav navbar-nav">
+                    <li class="dropdown"><a href='#' data-toggle="dropdown"><span class="hyper">CRM </span>
+                        <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a id="A8" href="~/dthcable/crm/default.aspx" runat="server"><span>ADD Lead</span></a></li>
+                            <li><a id="A9" href="~/dthcable/crm/statusupdate.aspx" runat="server"><span>Update Status
+                                </span></a></li>
+                            <li><a id="A18" href="~/dthcable/crm/contactdetails.aspx" runat="server"><span>Contact
+                                Details</span></a></li>
+                            
+                            <li><a id="A7" href="~/dthcable/crm/deals.aspx" runat="server"><span>Deal</span></a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <div class="loginDisplay hyper">
+                            <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
+                                <AnonymousTemplate>
+                                    [ <a href="~/Account/Login.aspx" id="HeadLoginStatus" runat="server">Log In</a>
+                                    ]
+                                </AnonymousTemplate>
+                                <LoggedInTemplate>
+                                    Welcome <span class="bold">
+                                        <asp:LoginName ID="HeadLoginName" runat="server" />
+                                    </span>! [
+                                    <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Log Out"
+                                        LogoutPageUrl="~/" />
+                                    ]
+                                </LoggedInTemplate>
+                            </asp:LoginView>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+    </div>
+    <asp:ScriptManager ID="sc" runat="server" />
+    <div class="container">
+        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+    </div>
+    </form>
+    <div class="panel-footer nav navbar-fixed-bottom" style="background-color: Black;
+        opacity: 0.3; filter: alpha(opacity=40); color: White; height: 35px;">
+        <footer>
+			<p class="footer">&copy; Copyright 
+				<a href="http://www.NDTV.com/" target="_blank" id="copyright"></a>NDTV&nbsp;Limited 2018. All rights reserved.</p>
+		    </footer>
+        </footer>
+    </div>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script src="http://epgops.ndtv.com/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="http://epgops.ndtv.com/js/bootstrap-dialog.js" type="text/javascript"></script>
+    <script src="http://epgops.ndtv.com/js/bootbox.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        //document.getElementById("preloader").style.display = "none";
+    </script>
+    <script type='text/javascript'>
+        //document.body.style.zoom = "90%";
+    </script>
+</body>
+</html>

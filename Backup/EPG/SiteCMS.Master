@@ -1,0 +1,171 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="SiteCMS.Master.vb" Inherits="EPG.SiteCMS" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1" runat="server">
+    <title></title>
+	<link rel="icon" type="image/ico" href="./Images/favicon.ico"/>
+    
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    <%--<meta http-equiv="refresh" content="2" />--%>
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="MobileOptimized" content="320" />
+    <%--<meta name="viewport" content="width=device-width" />--%>
+
+    <meta name="description" content="New Delhi Television Ltd - EPG Services Division" />
+	<meta name="author" content="Hemant Sajnani, Kautilya Rastogi"/>
+    
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <link href="./Styles/Site.css" rel="stylesheet" type="text/css" />
+    <%--<link href="./Styles/styles.css" rel="stylesheet" type="text/css" />--%>
+    
+    <!-- Bootstrap -->
+    <link href="http://epgops.ndtv.com/epg_v3/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="http://epgops.ndtv.com/epg_v3/css/bootstrap-dialog.css" rel="stylesheet"/>
+    <style type="text/css">
+      @media(min-width:1200px){.container{width:100%;}}
+        .hyper
+        {
+            color: White;
+            font-weight: bold;
+        }
+        .noFormatting
+        {
+            text-decoration: none;
+        }
+        .SuperScript{font-size:xx-small; vertical-align:top;} 
+        .formLabel{ width:100px;} 
+        .footer{text-align:center; text-decoration:none; text-align:center;}
+    </style>
+<asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+   
+</head>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<body>
+    <div class="js">
+        <!--this is supposed to be on the HTML element but codepen won't let me do it-->
+        <div id="preloader">
+        </div>
+        <form id="Form1" runat="server">
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span><span
+                            class="icon-bar"></span><span class="icon-bar"></span>
+                    </button>
+                    <a id="ndtvHome" href="~/default.aspx" class="navbar-brand" runat="server">
+                        <asp:Image ID="imgLogo" ImageUrl="images/ndtv_logo.png" runat="server" /><span class="hyper">
+                            &nbsp;CMS</span> </a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown" ><a href='#' data-toggle="dropdown"><span class="hyper">Celebrity</span>
+                            <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a id="A2" href="~/cms/CelebrityMaster.aspx" runat="server">Celebrity Master</a></li>
+                                <%--<li class="divider"></li>--%>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown" ><a href='#' data-toggle="dropdown"><span class="hyper">TV Stars</span>
+                            <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a id="A3" href="~/cms/TvStarMaster.aspx" runat="server"><span>TV Star Master</span></a></li>
+                                <li><a id="A6" href="~/cms/CMSTvStarMapping.aspx" runat="server"><span>TV Star Language Mapping</span></a></li>
+                                <li><a id="A5" href="~/cms/CMSTvStarProgMapping.aspx" runat="server"><span>TV Star Programme Mapping</span></a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown" ><a href='#' data-toggle="dropdown"><span class="hyper">Picture Gallery</span>
+                            <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a id="A7" href="~/cms/PicGalleryCategoryMaster.aspx" runat="server"><span>Category Master</span></a></li>
+                                <li><a id="A8" href="~/cms/PicGalleryMaster.aspx" runat="server"><span>Gallery Master</span></a></li>
+                                <li><a id="A9" href="~/cms/PicGalleryDescription.aspx" runat="server"><span>Gallery Description</span></a></li>
+                                <li><a id="A10" href="~/cms/PicGallery.aspx" runat="server"><span>Picture Gallery</span></a></li>
+                                
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown" ><a href='#' data-toggle="dropdown"><span class="hyper">Youtube Videos</span>
+                            <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a id="A1" href="~/cms/CMSYouTubeChannelMaster.aspx" runat="server"><span>Channel Master</span></a></li>
+                                <li><a id="A4" href="~/cms/CMSyouTubeVideos.aspx" runat="server"><span>Programme Videos</span></a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown" ><a href='#' data-toggle="dropdown"><span class="hyper">VODs</span>
+                            <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a id="A11" href="~/cms/CMSVODPlatformMaster.aspx" runat="server"><span>Platform Master</span></a></li>
+                                <li><a id="A12" href="~/cms/cmsVodTvShows.aspx" runat="server"><span>Platform TV Shows</span></a></li>
+                                <li><a id="A13" href="~/cms/cmsVodMovies.aspx" runat="server"><span>Platform Movies</span></a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown" ><a href='#' data-toggle="dropdown"><span class="hyper">Ureqa</span>
+                            <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a id="A14" href="~/cms/Banners.aspx" runat="server"><span>Banners</span></a></li>
+                                <li><a id="A15" href="~/cms/sonyliv.aspx" runat="server"><span>Sony Liv</span></a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a>
+                            <div class="loginDisplay hyper">
+                                <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
+                                    <AnonymousTemplate>
+                                        [ <a href="~/Account/Login.aspx" ID="HeadLoginStatus" runat="server">Log In</a> ]
+                                    </AnonymousTemplate>
+                                    <LoggedInTemplate>
+                                        Welcome <span class="bold"><asp:LoginName ID="HeadLoginName" runat="server" /></span>!
+                                        [ <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Log Out" LogoutPageUrl="~/Account/Login.aspx"/><a> ]</a> 
+                                    </LoggedInTemplate>
+                                </asp:LoginView>
+                            </div>
+                        </a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <br /><br /><br />
+        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </form>
+        <div class="panel-footer nav navbar-fixed-bottom" style="background-color:Black; opacity: 0.4; filter: alpha(opacity=40); color: White; height:35px;">
+            <footer>
+			<p class="footer">&copy; Copyright 
+				<a href="http://www.ndtv.com/" target="_blank" id="copyright"></a>NDTV&nbsp;Limited 2015. All rights reserved.</p>
+		    </footer>
+        </div>
+    </div>
+    <script type="text/javascript">
+        document.getElementById("preloader").style.display = "none";
+		</script>
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script type="text/javascript" src="http://epgops.ndtv.com/epg_v3/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="http://epgops.ndtv.com/epg_v3/js/bootstrap-dialog.js"></script>
+        <%--<script src="js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="js/jquery-1.4.1.js" type="text/javascript"></script>--%>
+</body>
+
+</html>

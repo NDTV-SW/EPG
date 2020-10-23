@@ -1,0 +1,281 @@
+<PSI lang="eng">
+  <NETWORK>
+    <TRANSPORT_STREAM id="10" on_id="1" sdt="false" create_service_list="false">
+      <SERVICE id="10501" type="digital television" dvb_type="0x01" ca="false" eit_schedule="true" eit_present_following="true" running_status="running">
+        <EVENT id="1" time="2015-09-16T00:00:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Lucky Girl</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="2" time="2015-09-16T00:30:00.0000000+05:30" duration="PT4H0M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">News Special</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="3" time="2015-09-16T04:30:00.0000000+05:30" duration="PT1H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">News Special</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="4" time="2015-09-16T06:00:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Abhi Ki Sabse Badi Khabar+Lucky Girl+Khabre Phataphat</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="5" time="2015-09-16T06:30:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Jiyo Shan Se</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="6" time="2015-09-16T07:00:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Abhi Ki Sabse Badi Khabar+Lucky Aunty+Khabre Phataphat</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="7" time="2015-09-16T07:30:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Latkan Baba</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="8" time="2015-09-16T08:00:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Abhi Ki Sabse Badi Khabar+Kismat Connection</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="9" time="2015-09-16T08:30:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Astro Uncle</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="10" time="2015-09-16T09:00:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Abhi Ki Sabse Badi Khabar+Khush Raho+Khabre Phataphat</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="11" time="2015-09-16T09:30:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Main Bhagya Hu</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="12" time="2015-09-16T10:00:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Abhi Ki Sabse Badi Khabar+Kismat Connection</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="13" time="2015-09-16T10:30:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Kismat Connection Live</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="14" time="2015-09-16T11:00:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Abhi Ki Sabse Badi Khabar+News Special</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="15" time="2015-09-16T11:30:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Lucky Girl</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="16" time="2015-09-16T12:00:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Abhi Ki Sabse Badi Khabar+Budh Karega Shudh</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="17" time="2015-09-16T12:30:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Jiyo Shan Se</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="18" time="2015-09-16T13:00:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Abhi Ki Sabse Badi Khabar+Main Bhagya Hu</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="19" time="2015-09-16T13:30:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Astro Uncle</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="20" time="2015-09-16T14:00:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Abhi Ki Sabse Badi Khabar+Kismat Connection</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="21" time="2015-09-16T14:30:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Lucky Aunty</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="22" time="2015-09-16T15:00:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Abhi Ki Sabse Badi Khabar+Latkan Baba</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="23" time="2015-09-16T15:30:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Entertainment Show</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="24" time="2015-09-16T16:00:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Abhi Ki Sabse Badi Khabar+Nidhi Ji Sab Janati Hai</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="25" time="2015-09-16T16:30:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Jiyo Shan Se</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="26" time="2015-09-16T17:00:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Abhi Ki Sabse Badi Khabar+News Special</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="27" time="2015-09-16T17:30:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Khabare Ghar Ghar Ki</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="28" time="2015-09-16T18:00:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Abhi Ki Sabse Badi Khabar+Budh Karega Shudh</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="29" time="2015-09-16T18:30:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Lucky Aunty</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="30" time="2015-09-16T19:00:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Abhi Ki Sabse Badi Khabar</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="31" time="2015-09-16T19:30:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Kismat Connection</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="32" time="2015-09-16T20:00:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Abhi Ki Sabse Badi Khabar+Astro Uncle</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="33" time="2015-09-16T20:30:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Tez Premier</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="34" time="2015-09-16T21:00:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Abhi Ki Sabse Badi Khabar+News Special</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="35" time="2015-09-16T21:30:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">News Special</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="36" time="2015-09-16T22:00:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Abhi Ki Sabse Badi Khabar+Time Machine</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="37" time="2015-09-16T22:30:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Kismat Connection</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="38" time="2015-09-16T23:00:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Abhi Ki Sabse Badi Khabar</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+        <EVENT id="39" time="2015-09-16T23:30:00.0000000+05:30" duration="PT0H30M" ca="false" type="schedule" running_status="running">
+          <AUDIO lang="eng" description="stereo" type="stereo" ac3="false" component_tag="0" dvb_type="0x03" encoding="05" audio_encoding="MPEG-1 Layer 2" />
+          <VIDEO lang="eng" description="video, 4:3 aspect ratio, 25Hz" type="4:3" frequency="25" high_definition="false" component_tag="0" dvb_type="0x01" encoding="05" video_encoding="MPEG-2" />
+          <NAME lang="eng" encoding="05">Main Bhagya Hu</NAME>
+          <SHORT_DESCRIPTION lang="eng" encoding="05">
+          </SHORT_DESCRIPTION>
+        </EVENT>
+      </SERVICE>
+    </TRANSPORT_STREAM>
+  </NETWORK>
+</PSI>

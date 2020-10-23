@@ -1,0 +1,132 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link rel="icon" type="image/ico" href="Images/favicon.ico"/>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+
+    <meta name="description" content="New Delhi Television Ltd - EPG Services Division" />
+	<meta name="author" content="Hemant Sajnani, Kautilya Rastogi"/>
+
+    
+</head>
+<body>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <nav class="navbar navbar-inverse" role="navigation">
+        <div class="container-fluid">
+		    <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+		        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+			    <span class="sr-only">Toggle navigation</span>
+			    <span class="icon-bar"></span>
+			    <span class="icon-bar"></span>
+			    <span class="icon-bar"></span>
+		        </button>
+		        <a class="navbar-brand" href="default.aspx">HOME</a>
+		    </div>
+
+		    <!-- Collect the nav links, forms, and other content for toggling -->
+		    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+			        <li class="active dropdown">        
+			            <a href="#" class="dropdown-toggle"   data-toggle="dropdown">Masters<span class="caret"></span></a>
+				        <ul class="dropdown-menu" role="menu">
+				            <li><a id="A1" runat="server" href ="Masters/CompanyMaster.aspx" >Company Master</a></li>
+				            <li><a id="A2" runat="server" href ="Masters/CompanyDetails.aspx" >Company Details</a></li>
+                            <li class="dvider"></li>
+				            <li><a id="A3" runat="server" href ="Masters/ChannelMaster.aspx">Channel Master</a></li>
+                            <li><a id="A4" runat="server" href ="Masters/ChannelRegionalMaster.aspx">Channel Regional Names</a></li>
+				            <li class="divider"></li>
+				            <li><a id="A5" runat="server" href="Masters/GenreMaster.aspx">Genre Master</a></li>
+                            <li><a id="A6" runat="server" href="Masters/SubGenreMaster.aspx">Sub-Genre Master</a></li>
+				            <li class="divider"></li>
+				            <li><a id="A7" runat="server" href="Masters/RatingsMaster.aspx">Parental Rating Master</a></li>
+                            <li><a id="A8" runat="server" href="Masters/LanguageMaster.aspx">Language Master</a></li>
+                            <li><a id="A9" runat="server" href="Masters/DictionaryMaster.aspx">Dictionary Master</a></li>
+                            <li class="divider"></li>
+                            <li><a id="A10" runat="server" href="Masters/GoogleTranslate.aspx">Google Translate</a></li>
+                            <li><a id="A11" runat="server" href="Masters/MovieAll.aspx">The Movies DB</a></li>
+				            <li class="divider"></li>
+				            <li><a id="A12" runat="server" href="Masters/EpgOperators.aspx">EPG Operators</a></li>
+                            <li><a id="A13" runat="server" href="Masters/CableOperatorDetails.aspx">Cable Operator Details</a></li>
+			            </ul>
+			        </li>
+			        <li class="dropdown">
+			            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programmes<span class="caret"></span></a>
+			            <ul class="dropdown-menu" role="menu">
+				        <li><a id="A14" runat="server" href="Masters/ProgramMaster.aspx">Programme Master</a></li>
+				        <li><a id="A15" runat="server" href="Masters/RegProgramMaster.aspx">Programme Regional Names</a></li>
+                        <li class="divider"></li>
+				        <li><a id="A16" runat="server" href="Masters/ProgramCentralEdit.aspx">Programme Central</a></li>
+                        <li><a id="A17" runat="server" href="Masters/ProgramCentralEditEpisodic.aspx">Programme Central Episodic</a></li>
+                        <li><a id="A18" runat="server" href="Masters/ProgramCentralEditAll.aspx">Programme Central Search</a></li>
+                        <li class="divider"></li>
+                        <li><a id="A19" runat="server" href="Masters/SynopsisCentral.aspx">Synopsis Central Search</a></li>
+			            </ul>
+			        </li>
+                    <li class="dropdown">
+			            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Upload<span class="caret"></span></a>
+			            <ul class="dropdown-menu" role="menu">
+				        <li><a id="A20" runat="server" href="UploadSchedule.aspx">Upload Schedule #1</a></li>
+				        <li><a id="A21" runat="server" href="UploadSchedule2.aspx">Upload Schedule #2</a></li>
+				        <li><a id="A22" runat="server" href="UploadSchedule3.aspx">Upload Schedule #3</a></li>
+				        <li><a id="A23" runat="server" href="UploadSchedule4WOI.aspx">Upload Schedule #4 WOI</a></li>
+				        <li><a id="A24" runat="server" href="UploadSchedule5ZEE.aspx">Upload Schedule #5 ZEE</a></li>
+                        <li class="divider"></li>
+				        <li><a id="A25" runat="server" href="UploadRegionalNames2">Upload Reg. Names with Export</a></li>
+				        <li><a id="A26" runat="server" href="CopyLastWeekEPG.aspx">Copy Last Week EPG</a></li>
+			            </ul>
+			        </li>
+                    <li><a id="A27" runat="server" href="Masters/ValidateEPG.aspx">Validate EPG</a></li>
+                    <li><a id="A28" runat="server" href="ViewEPG.aspx">View EPG</a></li>
+                    <li class="dropdown">
+			            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Discrepancies<span class="caret"></span></a>
+			            <ul class="dropdown-menu" role="menu">
+				        <li><a id="A29" runat="server" href="/Masters/ProgramDescripency.aspx">Programme Discrepancies</a></li>
+				        <li><a id="A30" runat="server" href="Masters/ProgramDiscrepancyCentralImport.aspx">Discrepancy Central with Import</a></li>
+                        <li class="divider"></li>
+				        <li><a id="A31" runat="server" href="Masters/FixJunkCharacters.aspx">Fix Junk Characters</a></li>
+				        <li><a id="A32" runat="server" href="Masters/UpdatePPV1.aspx">Generate PPV</a></li>
+			            </ul>
+                    </li>
+			        <li class="dropdown">
+			            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dashboard<span class="caret"></span></a>
+			            <ul class="dropdown-menu" role="menu">
+				        <li><a id="A33" runat="server" href="DashBoard.aspx">DashBoard All Channels</a></li>
+				        <li><a id="A34" runat="server" href="Dashboard_Channel_withProgs.aspx">DashBoard Channels with programmes</a></li>
+				        <li><a id="A35" runat="server" href="Dashboard_Channel_Onair.aspx">Dashboard – ONAIR Channels</a></li>
+			            </ul>
+			        </li>
+                    <li class="dropdown">
+			            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Reports<span class="caret"></span></a>
+			            <ul class="dropdown-menu" role="menu">
+				            <li><a id="A36" runat="server" href="ReportsAll.aspx" ><span>All Reports</span></a></li>
+                            <li><a id="A37" runat="server" href="BuilEPGTransactions.aspx" ><span>Build EPG Transactions</span></a></li>
+                            <li><a id="A38" runat="server" href="Masters/xmlmailed.aspx" ><span>XML Mailed</span></a></li>
+                            <li><a id="A39" runat="server" href="ErrorReportChannelWise.aspx" ><span>Client Wise Error Report</span></a></li>
+                            <li><a id="A40" runat="server" href="ErrorReport.aspx" ><span>Error Report</span></a></li>
+                            <li><a id="A41" runat="server" href="FTPReport.aspx" ><span>FTP Report</span></a></li>
+                            <li><a id="A42" runat="server" href="EPGMissingInfo.aspx" ><span>EPG Missing Info</span></a></li>
+                            <li><a id="A43" runat="server" href="Masters/ChannelOnAirOffAir.aspx" ><span>ONAIR-OFFAIR</span></a></li>
+                            <li><a id="A44" runat="server" href="Masters/ServiceID.aspx" ><span>Update ServiceID</span></a></li>
+                            <li><a id="A45" runat="server" href="repModSynopsis.aspx" ><span>Synopsis Modified</span></a></li>
+                            <li><a id="A46" runat="server" href="rptCatchup.aspx" ><span>Catchup Report</span></a></li>
+			            </ul>
+                    </li>
+                    <li><a id="A47" runat="server" href="ftpxml1.aspx">FTP XML</a></li>
+                    <li><a id="A48" runat="server" href="Docs/NDTV EPG Platform - WORKFLOW.pdf">WorkFLow</a></li>
+		            </ul>
+		    </div><!-- /.navbar-collapse -->
+	    </div><!-- /.container-fluid -->
+    </nav>
+</body>
+</html>

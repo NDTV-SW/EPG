@@ -1,0 +1,435 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="SiteEPGBootStrap.Master.vb"
+    Inherits="EPG.SiteEPGBootStrap" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1" runat="server">
+    <title></title>
+    <link rel="icon" type="image/ico" href="./Images/favicon.ico" />
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <%--<meta http-equiv="refresh" content="2" />--%>
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="MobileOptimized" content="320" />
+    <%--<meta name="viewport" content="width=device-width" />--%>
+    <meta name="description" content="New Delhi Television Ltd - EPG Services Division" />
+    <meta name="author" content="Hemant Sajnani, Kautilya Rastogi" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link href="./Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link href="./Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link href="styles/bootstrap.min.css" rel="stylesheet" />
+    <style type="text/css">
+        @media (min-width:1200px)
+        {
+            .container
+            {
+                width: 98%;
+            }
+        }
+        .nav > li > a
+        {
+            padding: 10px 10px;
+        }
+        .hyper
+        {
+            color: White;
+            font-weight: bold;
+            margin-top: 0px;
+        }
+        .noFormatting
+        {
+            text-decoration: none;
+        }
+        .SuperScript
+        {
+            font-size: xx-small;
+            vertical-align: top;
+        }
+        .formLabel
+        {
+            width: 100px;
+        }
+        .footer
+        {
+            text-align: center;
+            text-decoration: none;
+            text-align: center;
+        }
+        .panel-body
+        {
+            padding: 4px !important;
+        }
+        .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12
+        {
+            padding-right: 4px !important;
+            padding-left: 4px !important;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<body>
+    <div class="js">
+        <!--this is supposed to be on the HTML element but codepen won't let me do it-->
+        <div id="preloader">
+        </div>
+        <form id="Form1" runat="server">
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span><span
+                            class="icon-bar"></span><span class="icon-bar"></span>
+                    </button>
+                    <a id="ndtvHome" href="~/default.aspx" class="navbar-brand" runat="server">
+                        <asp:Image ID="imgLogo" ImageUrl="images/ndtv_logo.png" runat="server" /><span> &nbsp;
+                            EPG</span> </a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown"><a href='#' data-toggle="dropdown"><span class="hyper">Masters</span>
+                            <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a id="A12" href="~/Masters/LanguageMaster.aspx" runat="server"><span>Language Master</span></a></li>
+                                <li><a id="A30" href="~/Masters/CompanyMaster.aspx" runat="server"><span>Company Master</span></a></li>
+                                <li><a id="A31" href="~/Masters/CompanyDetails.aspx" runat="server"><span>Channel Contact
+                                    Details</span></a></li>
+                                <li><a id="A91" href="~/Masters/DuplicateMovieMaster.aspx" runat="server"><span>Duplicate
+                                    Movie Master</span></a></li>
+                                <li><a id="A34" href="~/Masters/GenreMaster.aspx" runat="server"><span>Genre Master</span></a></li>
+                                <li><a id="A35" href="~/Masters/SubGenreMaster.aspx" runat="server"><span>Program Level
+                                    SubGenre Master</span></a></li>
+                                <li><a id="A36" href="~/Masters/RatingsMaster.aspx" runat="server"><span>Ratings Master</span></a></li>
+                                <li><a href="~/masters/translatedfiles.aspx" runat="server"><span>Translated Files</span></a></li>
+                                <li><a id="A5" href="~/cms/Highlights.aspx" runat="server"><span>Spuul Highlights</span></a></li>
+                                <li><a id="A100" href="~/cms/Highlightsdialog.aspx" runat="server"><span>Dialog Highlights</span></a></li>
+                                <li><a id="A37" href="~/cms/CelebrityMaster.aspx" runat="server"><span>Celebrity Master</span></a></li>
+                                <li><a id="A38" href="~/Masters/epgOperators.aspx" runat="server"><span>EPG Operators</span></a></li>
+                                <li><a id="A39" href="~/Masters/CableOperatorDetails.aspx" runat="server"><span>Cable
+                                    Operators Details</span></a></li>
+                                <li><a id="A40" href="~/Masters/MovieAll.aspx" runat="server"><span>The Movies DB</span></a></li>
+                                <li><a id="A41" href="~/Masters/DictionaryMaster.aspx" runat="server"><span>Dictionary
+                                    Master</span></a></li>
+                                <li><a id="A410" href="~/Masters/ImportTransliteration.aspx" runat="server"><span>Import
+                                    Transliteration </span></a></li>
+                                <li><a id="A42" href="~/Masters/GoogleTranslate.aspx" runat="server"><span>Google Translate</span></a></li>
+                                <%--<li class="divider"></li>--%>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown"><a href='#' data-toggle="dropdown"><span class="hyper">Programmes
+                        </span><span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a id="A8" href="~/Masters/ProgramMaster.aspx" runat="server"><span>Programme Master</span></a></li>
+                                <li><a id="A18" href="~/Masters/DummyEPGChannels.aspx" runat="server"><span>Dummy EPG
+                                    Channels</span></a></li>
+                                <li><a id="A17" href="~/Masters/DummyEPGCopy.aspx" runat="server"><span>Dummy EPG Copy</span></a></li>
+                                <li><a id="A81" href="~/Masters/mapparentprogid.aspx" runat="server"><span>Map Parent
+                                    Programme</span></a></li>
+                                <li><a id="A86" href="~/myreports/rptParentProgidRequired.aspx" runat="server"><span>
+                                    Parent Program Required</span></a></li>
+                                <li><a id="A450" href="~/myreports/Ban_Kan_Prog_Missing.aspx" runat="server"><span>Bangla
+                                    Kannada Missing</span></a></li>
+                                <li><a id="A80" href="~/Masters/ProgramReport.aspx" runat="server"><span>New Programs
+                                    Added</span></a></li>
+                                <li><a id="A9" href="~/Masters/RegProgramMaster.aspx" runat="server"><span>Programme
+                                    Regional Names</span></a></li>
+                                <li><a id="A10" href="~/Masters/SeasonMaster.aspx" runat="server"><span>Season Master</span></a></li>
+                                <li><a id="A11" href="~/Masters/ProgramCentralEdit.aspx" runat="server"><span>Programme
+                                    Central</span></a></li>
+                                <li><a id="A451" href="~/Masters/ProgramCentralEdit7.aspx" runat="server"><span>Programme
+                                    Central 7 Langs</span></a></li>
+                                <li><a id="A13" href="~/Masters/ProgramCentralEditEpisodic.aspx" runat="server"><span>
+                                    Programme Central Episodic</span></a></li>
+                                <li><a id="A75" href="~/Masters/ProgramCentralEditEpisodic7.aspx" runat="server"><span>
+                                    Programme Central Episodic 7 langs</span></a></li>
+                                <li><a id="A94" href="~/Masters/PCEpiSearch.aspx" runat="server"><span>
+                                    Programme Central Episodic Search</span></a></li>
+                                <li><a id="A14" href="~/Masters/ProgramCentralEditAll.aspx" runat="server"><span>Programme
+                                    Central Search</span></a></li>
+                                <li><a id="A27" href="~/Masters/SynopsisCentral.aspx" runat="server"><span>Synopsis
+                                    Central Search</span></a></li>
+                                <li><a id="A16" href="~/MarkAsTeleshopping.aspx" runat="server"><span>Mark As Teleshopping</span></a></li>
+                                <li><a id="A74" href="~/Masters/RemoveDuplicateProgrammes.aspx" runat="server"><span>
+                                    Remove Duplicate Programmes</span></a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown"><a href='#' data-toggle="dropdown"><span class="hyper">Upload </span>
+                            <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a id="A99" href="~/UploadSchedules/FPC_EPG_Auto.aspx" runat="server"><span>FPC EPG Auto</span></a></li>
+                                
+                                <li><a id="A20" href="~/UploadSchedules/UploadSchedule.aspx" runat="server"><span>Upload
+                                    Schedule #1</span></a></li>
+                                <li><a id="A78" href="~/UploadSchedules/UploadSchedule_new.aspx" runat="server"><span>
+                                    Upload Schedule #1 New</span></a></li>
+                                <li><a id="A96" href="~/UploadSchedules/UploadSchedule_Sports.aspx" runat="server"><span>
+                                    Upload Schedule Sports</span></a></li>
+                                <li><a id="A97" href="~/UploadSchedules/UploadSchedule_Movies.aspx" runat="server"><span>
+                                    Upload Schedule Movies</span></a></li>
+                                <li><a id="A98" href="~/UploadSchedules/UploadSchedule_Entertainment.aspx" runat="server"><span>
+                                    Upload Schedule Entertainment</span></a></li>
+                                    
+                                <li><a id="A781" href="~/UploadSchedules/UploadSchedule_Epi.aspx" runat="server"><span>
+                                    Upload Schedule #1 Epi STAR</span></a></li>
+                                <li><a id="A92" href="~/UploadSchedules/UploadSchedule_epi_ngc.aspx" runat="server"><span>
+                                    Upload Schedule #1 Epi NGC</span></a></li>
+                                <li><a id="A21" href="~/UploadSchedules/UploadSchedule2.aspx" runat="server"><span>Upload
+                                    Schedule #2</span></a></li>
+                                <li><a id="A22" href="~/UploadSchedules/UploadSchedule3.aspx" runat="server"><span>Upload
+                                    Schedule #3</span></a></li>
+                                <li><a id="A23" href="~/UploadSchedules/UploadSchedule4WOI.aspx" runat="server"><span>
+                                    Upload Schedule #4 WOI</span></a></li>
+                                <li><a id="A230" href="~/UploadSchedules/UploadSchedule4WOI_Epi.aspx" runat="server">
+                                    <span>Upload Schedule #4 WOI EPI</span></a></li>
+                                <li><a id="A76" href="~/UploadSchedules/UploadSchedule4WOITEST.aspx" runat="server">
+                                    <span>WOI AUTO UPLOAD MODULE #4</span></a></li>
+                                <li><a id="A24" href="~/UploadSchedules/UploadSchedule5Zee.aspx" runat="server"><span>
+                                    Upload Schedule #5 ZEE</span></a></li>
+                                <li><a id="A79" href="~/UploadSchedules/UploadSchedule5Zee_new.aspx" runat="server">
+                                    <span>Upload Schedule #5 New</span></a></li>
+                                <li><a id="A55" href="~/UploadSchedules/UploadSchedule6WOI_GMT.aspx" runat="server">
+                                    <span>Upload Schedule #6 WOI GMT</span></a></li>
+                                <li><a id="A56" href="~/UploadSchedules/UploadSchedule7_GMT.aspx" runat="server"><span>
+                                    Upload Schedule #7 GMT</span></a></li>
+                                <li><a id="A158" href="~/UploadSchedules/UploadSchedule8_SP.aspx" runat="server"><span>
+                                    Upload Schedule #8 SP</span></a></li>
+                                <li><a id="A43" href="~/UploadSchedules/UploadSchedule9_TimeZone.aspx" runat="server">
+                                    <span>Upload Schedule #9 TZ</span></a></li>
+                                <li><a id="A452" href="~/UploadSchedules/UploadSchedule_10_star.aspx" runat="server">
+                                    <span>Upload Schedule #10 Star</span></a></li>
+                                <li><a id="A25" href="~/UploadRegionalNames2.aspx" runat="server"><span>Upload RegionalNames
+                                    with Export</span></a></li>
+                                <li><a id="A26" href="~/CopyLastWeekEPG.aspx" runat="server"><span>Copy Last Week EPG</span></a></li>
+                                <li><a id="A59" href="~/CopyEpgToChannel.aspx" runat="server"><span>Copy EPG to Channel</span></a></li>
+                                <li>
+                                    <hr />
+                                </li>
+                                <li><a id="A82" href="~/cms/primetimemoviecms.aspx" runat="server"><span>Hindi & English
+                                    Prime Time Movies</span></a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav">
+						<li class="dropdown"><a href='#' data-toggle="dropdown"><span class="hyper">Validation</span>
+						<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+							<li><a id="A1" href="~/Masters/ValidateEPG.aspx" runat="server"><span> Validate EPG</span></a></li>
+							<li><a id="A711" href="~/RichMeta" runat="server"><span>Rich Meta</span></a></li>
+							<li><a id="A712" href="~/Verify" runat="server"><span>Verify</span></a></li>
+							</ul>
+						</li>
+                    </ul>
+                    <ul class="nav navbar-nav">
+                        <li><a id="a2" href="~/ViewEPG.aspx" runat="server"><span class="hyper">View EPG</span></a></li>
+                    </ul>
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown"><a href='#' data-toggle="dropdown"><span class="hyper">Discrepancy</span>
+                            <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <!--li><a id="A45" href="~/Masters/ProgramDescripency.aspx" runat="server"><span>Programme
+                                    Discrepancies</span></a></li-->
+                                <li><a id="A6" href="~/Masters/ProgramDiscrepancyNew.aspx" runat="server"><span>Generate
+                                    XML for Airtel</span></a></li>
+                                <li><a id="A46" href="~/Masters/ProgramDiscrepancyImportNew.aspx" runat="server"><span>
+                                    Discrepancy Central with Import</span></a></li>
+                                <li><a id="A47" href="~/Masters/FixJunkCharacters.aspx" runat="server"><span>Fix Junk
+                                    Characters</span></a></li>
+                                <li><a id="A48" href="~/Masters/UpdatePPV1.aspx" runat="server"><span>Generate PPV</span></a></li>
+                                <li><a id="A103" href="~/Masters/UpdatePPV1_new.aspx" runat="server"><span>Generate PPV New</span></a></li>
+                                <li><a id="A70" href="~/Masters/TVStarDiscrepancy.aspx" runat="server"><span>TV Star
+                                    Discrepancy</span></a></li>
+                                <li><a id="A71" href="~/Discrepancy/SynopsisFrom.aspx" runat="server"><span>Synopsis
+                                    Originally from</span></a></li>
+                                <li><a id="A89" href="~/Discrepancy/GenreMismatch.aspx" runat="server"><span>Genre Mismatch
+                                </span></a></li>
+								<li><a id="AHex" href="~/Masters/ProgramDiscrepancyNewHex.aspx" runat="server"><span>Hex XML for Airtel</span></a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <%--<ul class="nav navbar-nav">
+                        <li class="dropdown"><a href='#' data-toggle="dropdown"><span class="hyper">Dashboard
+                        </span><span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a id="A49" href="~/DashBoard.aspx" runat="server"><span>DashBoard All Channels</span></a></li>
+                                <li><a id="A51" href="~/Dashboard_Channel_withProgs.aspx" runat="server"><span>DashBoard Channels with programmes</span></a></li>
+                                <li><a id="A52" href="~/Dashboard_Channel_Onair.aspx" runat="server"><span>Dashboard–ONAIR Channels</span></a></li>
+								<li><a id="A75" href="~/CMS/CMSTvStarDashBoard.aspx" runat="server"><span>TV Star Dashboard</span></a></li>
+								
+								
+                            </ul>
+                        </li>
+                    </ul>--%>
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown"><a href='#' data-toggle="dropdown"><span class="hyper">Images </span>
+                            <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a id="A53" href="~/ImagesReport/ReportImages.aspx" runat="server"><span>Report
+                                    </span></a></li>
+                                <li><a id="A95" href="~/ImagesReport/ScriptImagesReport.aspx" runat="server"><span>Script Report
+                                    </span></a></li>
+                                <li><a id="A69" href="~/ImagesReport/rptImagesMissingDateWise.aspx" runat="server"><span>
+                                    Images Report Datewise</span></a></li>
+                                <li><a id="A84" href="~/ImagesReport/UploadChannelLogos.aspx" runat="server"><span>Upload
+                                    Channel Logos</span></a></li>
+                                <li><a id="A54" href="~/ImagesReport/UploadChannelLogos160x90.aspx" runat="server"><span>Upload
+                                    Channel Logos 160 x 90</span></a></li>
+                                <li><a id="A93" href="~/ImagesReport/UploadChannelLogosSquare.aspx" runat="server"><span>Upload
+                                    Channel Logos Square</span></a></li>
+                                <li><a id="A58" href="~/ImagesReport/ProgrammeLogos.aspx" runat="server"><span>Upload
+                                    Programme Logos New</span></a></li>
+                                  <li><a id="A045" href="~/ImagesReport/ProgrammeLogosPortrait.aspx" runat="server"><span>
+                                    Programme Logos Portrait</span></a></li>
+                                <li><a id="A88" href="~/ImagesReport/CopyProgrammeLogos.aspx" runat="server"><span>Copy
+                                    Programme Logos</span></a></li>
+                                <li><a id="A66" href="~/ImagesReport/CopyProgrammeLogosPortrait.aspx" runat="server"><span>Copy
+                                    Programme Logos Portrait</span></a></li>
+                                <li><a id="A4" href="~/ImagesReport/MovieLogos.aspx" runat="server"><span>Movie Logos</span></a></li>
+                                <li><a id="A83" href="~/ImagesReport/rptImages.aspx" runat="server"><span>Programme
+                                    Images Report</span></a></li>
+                                <li><a id="A401" href="~/ImagesReport/rptDhiraaguImages.aspx" runat="server"><span>Client/Channel Wise
+                                    Images Report</span></a></li>
+                                <li><a id="A101" href="~/ImagesReport/rptYuppMovieImages.aspx" runat="server"><span>
+                                    Yupp Regional Movie Image Status</span></a></li>
+                                <li><a id="A44" href="~/ImagesReport/rptTabletImages.aspx" runat="server"><span>Tablet
+                                    Stream Images </span></a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown"><a href='#' data-toggle="dropdown"><span class="hyper">Mailers
+                        </span><span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a id="A19" href="~/MailerReports/GenerateAndFTPXML.aspx" runat="server"><span>Generate
+                                    And FTP XML</span></a></li>
+                                <li><a id="A28" href="~/MailerReports/EPGDueforAirtel.aspx" runat="server"><span>EPG
+                                    Due for Airtel</span></a></li>
+                                <li><a id="A29" href="~/MailerReports/AirtelMissingInfo.aspx" runat="server"><span>Airtel
+                                    Missing Info</span></a></li>
+                                <li><a id="A32" href="~/MailerReports/DuplicateMoviesDetails.aspx" runat="server"><span>
+                                    Duplicate Movies Details</span></a></li>
+                                <li><a id="A33" href="~/MailerReports/ProgramLogoMissing.aspx" runat="server"><span>
+                                    Program Logo Missing</span></a></li>
+                                <li><a id="A49" href="~/MailerReports/ChannelsBuiltToday.aspx" runat="server"><span>Channels Built Today</span></a></li>
+                                <li><a id="A50" href="~/MailerReports/ImagesUploadedToday.aspx" runat="server"><span>Images Uploaded Today</span></a></li>
+                                <li><a id="A51" href="~/MailerReports/StarManualMailAlerts.aspx" runat="server"><span>Star Manual Mail Alerts</span></a></li>
+                                <li><a id="A52" href="~/myreports/StarMonitorChecks.aspx" runat="server"><span>Star Monitor Checks</span></a></li>
+                                
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown"><a href='#' data-toggle="dropdown"><span class="hyper">Reports</span>
+                            <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a id="A62" href="~/ErrorReport.aspx" runat="server"><span>Error Report</span></a></li>
+                                <li><a id="A7" href="~/myreports/showtimings.aspx" runat="server"><span>Show Timings</span></a></li>
+                                
+                                <li><a id="A102" href="~/myreports/epgsentmso.aspx" runat="server"><span>EPG Sent MSO</span></a></li>
+                                <li><a id="A65" href="~/Masters/ChannelOnAirOffAir.aspx" runat="server"><span>ONAIR-OFFAIR</span></a></li>
+                                <li><a id="A57" href="BuilEPGTransactions.aspx" runat="server"><span>Build EPG Transactions</span></a></li>
+                                <li><a id="A60" href="~/Masters/xmlmailed.aspx" runat="server"><span>XML Mailed</span></a></li>
+                                <li><a id="A128" href="~/MyReports/ProgrammesEditedAfterXMLGeneration.aspx" runat="server">
+                                    <span>Programmes Edited After XML Generation</span></a></li>
+                                <li><a id="A90" href="~/MyReports/FreshXMLsPending.aspx" runat="server"><span>Fresh
+                                    XMLs Pending</span></a></li>
+                                <li><a id="A61" href="~/ErrorReportChannelWise.aspx" runat="server"><span>Client Wise
+                                    Error Report</span></a></li>
+                                <li><a id="A63" href="~/FTPReport.aspx" runat="server"><span>FTP Report</span></a></li>
+                                <li><a id="A64" href="~/EPGMissingInfo.aspx" runat="server"><span>EPG Missing Info</span></a></li>
+                                <li><a id="A67" href="~/repModSynopsis.aspx" runat="server"><span>Synopsis Modified</span></a></li>
+                                <li><a id="A68" href="~/rptCatchup.aspx" runat="server"><span>Catchup Report</span></a></li>
+                                <li><a id="A15" href="~/myreports/channeloperators.aspx" runat="server"><span>Channel
+                                    Cable Operators</span></a></li>
+                                <li><a id="A87" href="~/myreports/operatorchannels.aspx" runat="server"><span>Operator
+                                    Wise Channels</span></a></li>
+                                <li><a id="A72" href="~/myreports/MissingInfoOnChannels.aspx" runat="server"><span>Missing
+                                    Info on Channels</span></a></li>
+                                <li><a id="A73" href="~/myreports/ProgramImagesUploaded.aspx" runat="server"><span>Program
+                                    Images Uploaded</span></a></li>
+                                <li><a id="A77" href="~/myreports/CatchupPrograms.aspx" runat="server"><span>Airtel
+                                    Catchup Programs</span></a></li>
+                                <li><a id="A85" href="~/myreports/othergenrereport.aspx" runat="server"><span>Yupp Other
+                                    Genres</span></a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="nav navbar-nav">
+                        <li><a id="A3" href="~/ftpxml1.aspx" runat="server"><span class="hyper">FTP</span></a></li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <div class="loginDisplay hyper">
+                                <asp:LoginView ID="LoginView1" runat="server" EnableViewState="false">
+                                    <AnonymousTemplate>
+                                        [ <a href="~/Account/Login.aspx" id="HeadLoginStatus" runat="server">Log In</a>]
+                                    </AnonymousTemplate>
+                                    <LoggedInTemplate>
+                                        Hi <span class="bold">
+                                            <asp:LoginName ID="HeadLoginName" runat="server" />
+                                        </span>! [
+                                        <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Log Out"
+                                            LogoutPageUrl="~/Account/Login.aspx" />
+                                        <a>]</a>
+                                    </LoggedInTemplate>
+                                </asp:LoginView>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <br />
+        <br />
+        <br />
+        <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+        <script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+        <script src="http://epgops.ndtv.com/js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="http://epgops.ndtv.com/js/bootstrap-dialog.js" type="text/javascript"></script>
+        <script src="http://epgops.ndtv.com/js/bootbox.min.js" type="text/javascript"></script>
+        <script src="http://epgops.ndtv.com/js/bootstrap-dialog.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            function alertBox(abc) {
+                bootbox.dialog({
+                    message: abc,
+                    title: "Info",
+                    buttons: {
+                        success: {
+                            label: "OK!",
+                            className: "btn-success",
+                            callback: function () {
+                                //Example.show("great success");
+                            }
+                        }
+                    }
+                });
+            }
+        </script>
+        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </form>
+        <div class="panel-footer nav navbar-fixed-bottom" style="background-color: Black;
+            opacity: 0.4; filter: alpha(opacity=40); color: White; height: 35px;">
+            <footer>
+			<p class="footer">&copy; Copyright 
+				<a href="http://www.ndtv.com/" target="_blank" id="copyright"></a>NDTV&nbsp;Limited 2019. All rights reserved.</p>
+		    </footer>
+        </div>
+    </div>
+    <script type="text/javascript">
+        document.getElementById("preloader").style.display = "none";
+    </script>
+    <script type='text/javascript'>
+        document.body.style.zoom = "90%";
+    </script>
+</body>
+</html>

@@ -1,0 +1,64 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="SiteRichLess.Master.vb"
+    Inherits="EPG.SiteRichLess" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Dashboard</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/font-awesome.min.css" rel="stylesheet" />
+    <link href="css/datepicker3.css" rel="stylesheet" />
+    <link href="css/styles.css" rel="stylesheet" />
+    <style type="text/css">
+        
+        th
+        {
+           white-space:nowrap;
+           text-align:left !important;
+            }
+        
+    </style>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server" />
+    <!--Custom Font-->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet" />
+    <!--[if lt IE 9]>
+	<script src="js/html5shiv.js"></script>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+</head>
+<body>
+    <form runat="server">
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+		<div class="container-fluid">
+        
+			<div class="navbar-header">
+            
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#sidebar-collapse"><span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span></button>
+                    
+				<a class="navbar-brand"  runat="server" href="~/"><span>NDTV</span> RICH META </a>
+        
+				
+			</div>
+		</div><!-- /.container-fluid -->
+	</nav>
+    <!--/.sidebar-->
+    <div class="col-sm-12 col-lg-12 main">
+        <!--/.row-->
+        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        <div class="col-sm-12">
+            <p class="back-link">
+                CopyRight &copy; <a href="https://www.ndtv.com">NDTV Ltd. 2019</a></p>
+        </div>
+        <!--/.row-->
+    </div>
+    <!--/.main-->
+    </form>
+    
+</body>
+</html>

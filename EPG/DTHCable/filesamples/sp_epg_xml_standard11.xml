@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="9X Jalwa .9XJalwa.in">
+    <display-name lang="en">9X Jalwa </display-name>
+    <category lang="en">music/ballet/dance</category>
+  </channel>
+  <programme start="20150916000000 +0530" stop="20150916040000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150916040000 +0530" stop="20150916060000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150916060000 +0530" stop="20150916080000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>240666</programmeid>
+    <title lang="en">Vintage Hits</title>
+    <desc lang="en">Vintage Hits</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150916080000 +0530" stop="20150916100000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143422</programmeid>
+    <title lang="en">Hits Forever</title>
+    <desc lang="en">Songs that have remained on top of charts for forever across decades.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150916100000 +0530" stop="20150916130000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143424</programmeid>
+    <title lang="en">Melody Forever</title>
+    <desc lang="en">Exclusively devoted to Millenium Genration's Forever young Tracks.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150916130000 +0530" stop="20150916140000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>267464</programmeid>
+    <title lang="en">Jalwa Superstars - Manisha</title>
+    <desc lang="en">Jalwa Superstars - Manisha</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150916140000 +0530" stop="20150916160000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150916160000 +0530" stop="20150916190000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143424</programmeid>
+    <title lang="en">Melody Forever</title>
+    <desc lang="en">Exclusively devoted to Millenium Genration's Forever young Tracks.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150916190000 +0530" stop="20150916200000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>90864</programmeid>
+    <title lang="en">Jalwa Superstars</title>
+    <desc lang="en">Celebrity Based Musical Show</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150916200000 +0530" stop="20150916210000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143422</programmeid>
+    <title lang="en">Hits Forever</title>
+    <desc lang="en">Songs that have remained on top of charts for forever across decades.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150916210000 +0530" stop="20150917000000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150917000000 +0530" stop="20150917040000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150917040000 +0530" stop="20150917060000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150917060000 +0530" stop="20150917080000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>240666</programmeid>
+    <title lang="en">Vintage Hits</title>
+    <desc lang="en">Vintage Hits</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150917080000 +0530" stop="20150917090000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>161554</programmeid>
+    <title lang="en">Ganpati Special</title>
+    <desc lang="en">Ganpati Special</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150917090000 +0530" stop="20150917100000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143422</programmeid>
+    <title lang="en">Hits Forever</title>
+    <desc lang="en">Songs that have remained on top of charts for forever across decades.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150917100000 +0530" stop="20150917130000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143424</programmeid>
+    <title lang="en">Melody Forever</title>
+    <desc lang="en">Exclusively devoted to Millenium Genration's Forever young Tracks.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150917130000 +0530" stop="20150917140000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>161554</programmeid>
+    <title lang="en">Ganpati Special</title>
+    <desc lang="en">Ganpati Special</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150917140000 +0530" stop="20150917160000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150917160000 +0530" stop="20150917190000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143424</programmeid>
+    <title lang="en">Melody Forever</title>
+    <desc lang="en">Exclusively devoted to Millenium Genration's Forever young Tracks.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150917190000 +0530" stop="20150917200000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>161554</programmeid>
+    <title lang="en">Ganpati Special</title>
+    <desc lang="en">Ganpati Special</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150917200000 +0530" stop="20150917210000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143422</programmeid>
+    <title lang="en">Hits Forever</title>
+    <desc lang="en">Songs that have remained on top of charts for forever across decades.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150917210000 +0530" stop="20150917220000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>267460</programmeid>
+    <title lang="en">Superstar Classics Hema</title>
+    <desc lang="en">Superstar Classics Hema</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150917220000 +0530" stop="20150918000000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150918000000 +0530" stop="20150918040000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150918040000 +0530" stop="20150918060000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150918060000 +0530" stop="20150918080000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>240666</programmeid>
+    <title lang="en">Vintage Hits</title>
+    <desc lang="en">Vintage Hits</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150918080000 +0530" stop="20150918100000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143422</programmeid>
+    <title lang="en">Hits Forever</title>
+    <desc lang="en">Songs that have remained on top of charts for forever across decades.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150918100000 +0530" stop="20150918130000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143424</programmeid>
+    <title lang="en">Melody Forever</title>
+    <desc lang="en">Exclusively devoted to Millenium Genration's Forever young Tracks.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150918130000 +0530" stop="20150918160000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150918160000 +0530" stop="20150918190000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143424</programmeid>
+    <title lang="en">Melody Forever</title>
+    <desc lang="en">Exclusively devoted to Millenium Genration's Forever young Tracks.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150918190000 +0530" stop="20150918210000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143422</programmeid>
+    <title lang="en">Hits Forever</title>
+    <desc lang="en">Songs that have remained on top of charts for forever across decades.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150918210000 +0530" stop="20150918220000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>267461</programmeid>
+    <title lang="en">Superstar Classics Rekha</title>
+    <desc lang="en">Superstar Classics Rekha</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150918220000 +0530" stop="20150919000000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150919000000 +0530" stop="20150919040000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150919040000 +0530" stop="20150919060000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150919060000 +0530" stop="20150919080000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>240666</programmeid>
+    <title lang="en">Vintage Hits</title>
+    <desc lang="en">Vintage Hits</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150919080000 +0530" stop="20150919100000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143422</programmeid>
+    <title lang="en">Hits Forever</title>
+    <desc lang="en">Songs that have remained on top of charts for forever across decades.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150919100000 +0530" stop="20150919130000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143424</programmeid>
+    <title lang="en">Melody Forever</title>
+    <desc lang="en">Exclusively devoted to Millenium Genration's Forever young Tracks.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150919130000 +0530" stop="20150919160000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150919160000 +0530" stop="20150919180000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143424</programmeid>
+    <title lang="en">Melody Forever</title>
+    <desc lang="en">Exclusively devoted to Millenium Genration's Forever young Tracks.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150919180000 +0530" stop="20150919200000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>234674</programmeid>
+    <title lang="en">Club X</title>
+    <desc lang="en">Club X</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150919200000 +0530" stop="20150919210000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>90864</programmeid>
+    <title lang="en">Jalwa Superstars</title>
+    <desc lang="en">Celebrity Based Musical Show</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150919210000 +0530" stop="20150920000000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150920000000 +0530" stop="20150920040000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150920040000 +0530" stop="20150920060000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150920060000 +0530" stop="20150920080000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>240666</programmeid>
+    <title lang="en">Vintage Hits</title>
+    <desc lang="en">Vintage Hits</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150920080000 +0530" stop="20150920110000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>185018</programmeid>
+    <title lang="en">Sunday Blues</title>
+    <desc lang="en">Sunday Blues</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150920110000 +0530" stop="20150920130000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143424</programmeid>
+    <title lang="en">Melody Forever</title>
+    <desc lang="en">Exclusively devoted to Millenium Genration's Forever young Tracks.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150920130000 +0530" stop="20150920140000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>267461</programmeid>
+    <title lang="en">Superstar Classics Rekha</title>
+    <desc lang="en">Superstar Classics Rekha</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150920140000 +0530" stop="20150920160000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150920160000 +0530" stop="20150920190000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143424</programmeid>
+    <title lang="en">Melody Forever</title>
+    <desc lang="en">Exclusively devoted to Millenium Genration's Forever young Tracks.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150920190000 +0530" stop="20150920200000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>90864</programmeid>
+    <title lang="en">Jalwa Superstars</title>
+    <desc lang="en">Celebrity Based Musical Show</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150920200000 +0530" stop="20150920210000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143422</programmeid>
+    <title lang="en">Hits Forever</title>
+    <desc lang="en">Songs that have remained on top of charts for forever across decades.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150920210000 +0530" stop="20150921000000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150921000000 +0530" stop="20150921040000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150921040000 +0530" stop="20150921060000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150921060000 +0530" stop="20150921080000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>260862</programmeid>
+    <title lang="en">Kalyanji Tribute</title>
+    <desc lang="en">Kalyanji Tribute</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150921080000 +0530" stop="20150921100000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143422</programmeid>
+    <title lang="en">Hits Forever</title>
+    <desc lang="en">Songs that have remained on top of charts for forever across decades.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150921100000 +0530" stop="20150921130000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143424</programmeid>
+    <title lang="en">Melody Forever</title>
+    <desc lang="en">Exclusively devoted to Millenium Genration's Forever young Tracks.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150921130000 +0530" stop="20150921140000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>211868</programmeid>
+    <title lang="en">Jalwa Superstars Nadeem-Shravan</title>
+    <desc lang="en">Jalwa Superstars Nadeem-Shravan</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150921140000 +0530" stop="20150921160000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150921160000 +0530" stop="20150921190000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143424</programmeid>
+    <title lang="en">Melody Forever</title>
+    <desc lang="en">Exclusively devoted to Millenium Genration's Forever young Tracks.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150921190000 +0530" stop="20150921210000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143422</programmeid>
+    <title lang="en">Hits Forever</title>
+    <desc lang="en">Songs that have remained on top of charts for forever across decades.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150921210000 +0530" stop="20150921220000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150921220000 +0530" stop="20150922000000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>260862</programmeid>
+    <title lang="en">Kalyanji Tribute</title>
+    <desc lang="en">Kalyanji Tribute</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150922000000 +0530" stop="20150922040000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150922040000 +0530" stop="20150922060000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150922060000 +0530" stop="20150922080000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>240666</programmeid>
+    <title lang="en">Vintage Hits</title>
+    <desc lang="en">Vintage Hits</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150922080000 +0530" stop="20150922100000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143422</programmeid>
+    <title lang="en">Hits Forever</title>
+    <desc lang="en">Songs that have remained on top of charts for forever across decades.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150922100000 +0530" stop="20150922130000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143424</programmeid>
+    <title lang="en">Melody Forever</title>
+    <desc lang="en">Exclusively devoted to Millenium Genration's Forever young Tracks.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150922130000 +0530" stop="20150922140000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>264549</programmeid>
+    <title lang="en">Jalwa Superstars AR Rahman</title>
+    <desc lang="en">Jalwa Superstars AR Rahman</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150922140000 +0530" stop="20150922160000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150922160000 +0530" stop="20150922190000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143424</programmeid>
+    <title lang="en">Melody Forever</title>
+    <desc lang="en">Exclusively devoted to Millenium Genration's Forever young Tracks.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150922190000 +0530" stop="20150922210000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143422</programmeid>
+    <title lang="en">Hits Forever</title>
+    <desc lang="en">Songs that have remained on top of charts for forever across decades.</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+  <programme start="20150922210000 +0530" stop="20150923000000 +0530" channel="9X Jalwa .9XJalwa.in" clumpidx="0/1">
+    <programmeid>143423</programmeid>
+    <title lang="en">Love Forever</title>
+    <desc lang="en">The Musical Ballads that have struck a chord across generations and listeners</desc>
+    <category lang="en">music/ballet/dance</category>
+    <sub-category lang="en">music/ballet/dance</sub-category>
+    <is-repeat>false</is-repeat>
+    <is-live>false</is-live>
+  </programme>
+</tv>

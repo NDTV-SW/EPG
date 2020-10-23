@@ -1,0 +1,2245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<epg_import xmlns="http://barrowa.com/common/epg/format/barrowa/v6" version="6">
+  <schedule id="9XM" xmlns="">
+    <event start_time="20150915 18:30:00" end_time="20150915 19:30:00">
+      <description language="eng" title="Teleshopping" short_synopsis="A show for those who love to shop from the comforts of their home." extended_synopsis="A show for those who love to shop from the comforts of their home." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150915 19:30:00" end_time="20150915 20:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150915 20:30:00" end_time="20150915 21:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150915 21:30:00" end_time="20150915 22:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150915 22:30:00" end_time="20150915 23:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150915 23:30:00" end_time="20150916 00:30:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 00:30:00" end_time="20150916 00:46:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 00:46:00" end_time="20150916 00:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 00:50:00" end_time="20150916 01:15:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 01:15:00" end_time="20150916 01:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 01:20:00" end_time="20150916 01:30:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 01:30:00" end_time="20150916 01:46:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 01:46:00" end_time="20150916 01:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 01:50:00" end_time="20150916 02:15:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 02:15:00" end_time="20150916 02:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 02:20:00" end_time="20150916 02:30:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 02:30:00" end_time="20150916 02:46:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 02:46:00" end_time="20150916 02:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 02:50:00" end_time="20150916 03:00:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 03:00:00" end_time="20150916 03:05:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 03:05:00" end_time="20150916 03:10:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 03:10:00" end_time="20150916 03:40:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 03:40:00" end_time="20150916 03:42:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 03:42:00" end_time="20150916 04:20:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 04:20:00" end_time="20150916 04:22:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 04:22:00" end_time="20150916 05:00:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 05:00:00" end_time="20150916 05:05:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 05:05:00" end_time="20150916 05:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 05:46:00" end_time="20150916 05:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 05:50:00" end_time="20150916 06:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 06:15:00" end_time="20150916 06:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 06:20:00" end_time="20150916 06:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 06:30:00" end_time="20150916 06:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 06:46:00" end_time="20150916 06:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 06:50:00" end_time="20150916 07:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 07:15:00" end_time="20150916 07:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 07:20:00" end_time="20150916 07:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 07:30:00" end_time="20150916 08:30:00">
+      <description language="eng" title="9XM Top 9" short_synopsis="Viewers choice - music countdown." extended_synopsis="Viewers choice - music countdown." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 08:30:00" end_time="20150916 08:46:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 08:46:00" end_time="20150916 08:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 08:50:00" end_time="20150916 09:15:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 09:15:00" end_time="20150916 09:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 09:20:00" end_time="20150916 09:30:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 09:30:00" end_time="20150916 09:46:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 09:46:00" end_time="20150916 09:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 09:50:00" end_time="20150916 10:15:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 10:15:00" end_time="20150916 10:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 10:20:00" end_time="20150916 10:30:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 10:30:00" end_time="20150916 10:46:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 10:46:00" end_time="20150916 10:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 10:50:00" end_time="20150916 11:15:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 11:15:00" end_time="20150916 11:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 11:20:00" end_time="20150916 11:30:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 11:30:00" end_time="20150916 11:46:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 11:46:00" end_time="20150916 12:00:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 12:00:00" end_time="20150916 12:40:00">
+      <description language="eng" title="Breakless Band" short_synopsis="Non-stop super hit Bollywood songs." extended_synopsis="Non-stop super hit Bollywood songs." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 12:40:00" end_time="20150916 12:42:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 12:42:00" end_time="20150916 13:20:00">
+      <description language="eng" title="Breakless Band" short_synopsis="Non-stop super hit Bollywood songs." extended_synopsis="Non-stop super hit Bollywood songs." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 13:20:00" end_time="20150916 13:22:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 13:22:00" end_time="20150916 13:30:00">
+      <description language="eng" title="Breakless Band" short_synopsis="Non-stop super hit Bollywood songs." extended_synopsis="Non-stop super hit Bollywood songs." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 13:30:00" end_time="20150916 14:00:00">
+      <description language="eng" title="9XE.COM- The Show" short_synopsis="ENTERTAINMENT SHOW FEATURING THE HOTTEST BUZZ, SCOOPS and FUN CELEB INTERVIEWS" extended_synopsis="ENTERTAINMENT SHOW FEATURING THE HOTTEST BUZZ, SCOOPS and FUN CELEB INTERVIEWS" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 14:00:00" end_time="20150916 14:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 14:15:00" end_time="20150916 14:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 14:20:00" end_time="20150916 14:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 14:30:00" end_time="20150916 15:30:00">
+      <description language="eng" title="9XM Top 9" short_synopsis="Viewers choice - music countdown." extended_synopsis="Viewers choice - music countdown." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 15:30:00" end_time="20150916 15:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 15:46:00" end_time="20150916 15:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 15:50:00" end_time="20150916 16:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 16:15:00" end_time="20150916 16:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 16:20:00" end_time="20150916 16:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 16:30:00" end_time="20150916 16:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 16:46:00" end_time="20150916 16:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 16:50:00" end_time="20150916 17:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 17:15:00" end_time="20150916 17:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 17:20:00" end_time="20150916 17:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 17:30:00" end_time="20150916 17:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 17:46:00" end_time="20150916 17:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 17:50:00" end_time="20150916 18:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 18:15:00" end_time="20150916 18:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 18:20:00" end_time="20150916 18:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 18:30:00" end_time="20150916 19:30:00">
+      <description language="eng" title="Teleshopping" short_synopsis="A show for those who love to shop from the comforts of their home." extended_synopsis="A show for those who love to shop from the comforts of their home." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 19:30:00" end_time="20150916 20:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 20:30:00" end_time="20150916 21:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 21:30:00" end_time="20150916 22:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 22:30:00" end_time="20150916 23:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150916 23:30:00" end_time="20150917 00:30:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 00:30:00" end_time="20150917 00:46:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 00:46:00" end_time="20150917 00:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 00:50:00" end_time="20150917 01:15:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 01:15:00" end_time="20150917 01:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 01:20:00" end_time="20150917 01:30:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 01:30:00" end_time="20150917 01:46:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 01:46:00" end_time="20150917 01:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 01:50:00" end_time="20150917 02:15:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 02:15:00" end_time="20150917 02:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 02:20:00" end_time="20150917 02:30:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 02:30:00" end_time="20150917 02:46:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 02:46:00" end_time="20150917 02:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 02:50:00" end_time="20150917 03:00:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 03:00:00" end_time="20150917 03:05:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 03:05:00" end_time="20150917 03:10:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 03:10:00" end_time="20150917 03:40:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 03:40:00" end_time="20150917 03:42:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 03:42:00" end_time="20150917 04:20:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 04:20:00" end_time="20150917 04:22:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 04:22:00" end_time="20150917 05:00:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 05:00:00" end_time="20150917 05:05:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 05:05:00" end_time="20150917 05:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 05:30:00" end_time="20150917 05:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 05:46:00" end_time="20150917 05:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 05:50:00" end_time="20150917 06:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 06:15:00" end_time="20150917 06:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 06:20:00" end_time="20150917 06:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 06:30:00" end_time="20150917 06:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 06:46:00" end_time="20150917 06:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 06:50:00" end_time="20150917 07:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 07:15:00" end_time="20150917 07:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 07:20:00" end_time="20150917 07:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 07:30:00" end_time="20150917 08:30:00">
+      <description language="eng" title="9XE.COM- The Show" short_synopsis="ENTERTAINMENT SHOW FEATURING THE HOTTEST BUZZ, SCOOPS and FUN CELEB INTERVIEWS" extended_synopsis="ENTERTAINMENT SHOW FEATURING THE HOTTEST BUZZ, SCOOPS and FUN CELEB INTERVIEWS" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 08:30:00" end_time="20150917 08:46:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 08:46:00" end_time="20150917 08:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 08:50:00" end_time="20150917 09:15:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 09:15:00" end_time="20150917 09:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 09:20:00" end_time="20150917 09:30:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 09:30:00" end_time="20150917 09:46:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 09:46:00" end_time="20150917 09:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 09:50:00" end_time="20150917 10:15:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 10:15:00" end_time="20150917 10:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 10:20:00" end_time="20150917 10:30:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 10:30:00" end_time="20150917 10:46:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 10:46:00" end_time="20150917 10:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 10:50:00" end_time="20150917 11:15:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 11:15:00" end_time="20150917 11:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 11:20:00" end_time="20150917 11:30:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 11:30:00" end_time="20150917 11:46:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 11:46:00" end_time="20150917 12:00:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 12:00:00" end_time="20150917 12:40:00">
+      <description language="eng" title="Breakless Band" short_synopsis="Non-stop super hit Bollywood songs." extended_synopsis="Non-stop super hit Bollywood songs." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 12:40:00" end_time="20150917 12:42:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 12:42:00" end_time="20150917 13:20:00">
+      <description language="eng" title="Breakless Band" short_synopsis="Non-stop super hit Bollywood songs." extended_synopsis="Non-stop super hit Bollywood songs." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 13:20:00" end_time="20150917 13:22:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 13:22:00" end_time="20150917 13:30:00">
+      <description language="eng" title="Breakless Band" short_synopsis="Non-stop super hit Bollywood songs." extended_synopsis="Non-stop super hit Bollywood songs." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 13:30:00" end_time="20150917 13:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 13:46:00" end_time="20150917 13:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 13:50:00" end_time="20150917 14:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 14:15:00" end_time="20150917 14:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 14:20:00" end_time="20150917 14:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 14:30:00" end_time="20150917 15:30:00">
+      <description language="eng" title="9XM Top 9" short_synopsis="Viewers choice - music countdown." extended_synopsis="Viewers choice - music countdown." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 15:30:00" end_time="20150917 15:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 15:46:00" end_time="20150917 15:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 15:50:00" end_time="20150917 16:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 16:15:00" end_time="20150917 16:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 16:20:00" end_time="20150917 16:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 16:30:00" end_time="20150917 16:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 16:46:00" end_time="20150917 16:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 16:50:00" end_time="20150917 17:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 17:15:00" end_time="20150917 17:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 17:20:00" end_time="20150917 17:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 17:30:00" end_time="20150917 17:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 17:46:00" end_time="20150917 17:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 17:50:00" end_time="20150917 18:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 18:15:00" end_time="20150917 18:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 18:20:00" end_time="20150917 18:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 18:30:00" end_time="20150917 19:30:00">
+      <description language="eng" title="Teleshopping" short_synopsis="A show for those who love to shop from the comforts of their home." extended_synopsis="A show for those who love to shop from the comforts of their home." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 19:30:00" end_time="20150917 20:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 20:30:00" end_time="20150917 21:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 21:30:00" end_time="20150917 22:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 22:30:00" end_time="20150917 23:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150917 23:30:00" end_time="20150918 00:30:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 00:30:00" end_time="20150918 00:46:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 00:46:00" end_time="20150918 00:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 00:50:00" end_time="20150918 01:15:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 01:15:00" end_time="20150918 01:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 01:20:00" end_time="20150918 01:30:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 01:30:00" end_time="20150918 01:46:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 01:46:00" end_time="20150918 01:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 01:50:00" end_time="20150918 02:15:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 02:15:00" end_time="20150918 02:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 02:20:00" end_time="20150918 02:30:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 02:30:00" end_time="20150918 02:46:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 02:46:00" end_time="20150918 02:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 02:50:00" end_time="20150918 03:00:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 03:00:00" end_time="20150918 03:05:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 03:05:00" end_time="20150918 03:10:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 03:10:00" end_time="20150918 03:40:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 03:40:00" end_time="20150918 03:42:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 03:42:00" end_time="20150918 04:20:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 04:20:00" end_time="20150918 04:22:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 04:22:00" end_time="20150918 05:00:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 05:00:00" end_time="20150918 05:05:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 05:05:00" end_time="20150918 05:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 05:30:00" end_time="20150918 06:30:00">
+      <description language="eng" title="9XM Top 9" short_synopsis="Viewers choice - music countdown." extended_synopsis="Viewers choice - music countdown." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 06:30:00" end_time="20150918 06:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 06:46:00" end_time="20150918 06:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 06:50:00" end_time="20150918 07:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 07:15:00" end_time="20150918 07:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 07:20:00" end_time="20150918 07:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 07:30:00" end_time="20150918 08:20:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 08:20:00" end_time="20150918 08:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 08:30:00" end_time="20150918 08:46:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 08:46:00" end_time="20150918 08:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 08:50:00" end_time="20150918 09:15:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 09:15:00" end_time="20150918 09:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 09:20:00" end_time="20150918 09:30:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 09:30:00" end_time="20150918 09:46:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 09:46:00" end_time="20150918 09:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 09:50:00" end_time="20150918 10:15:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 10:15:00" end_time="20150918 10:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 10:20:00" end_time="20150918 10:30:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 10:30:00" end_time="20150918 10:46:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 10:46:00" end_time="20150918 10:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 10:50:00" end_time="20150918 11:15:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 11:15:00" end_time="20150918 11:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 11:20:00" end_time="20150918 11:30:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 11:30:00" end_time="20150918 11:46:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 11:46:00" end_time="20150918 12:00:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 12:00:00" end_time="20150918 12:40:00">
+      <description language="eng" title="Breakless Band" short_synopsis="Non-stop super hit Bollywood songs." extended_synopsis="Non-stop super hit Bollywood songs." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 12:40:00" end_time="20150918 12:42:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 12:42:00" end_time="20150918 13:20:00">
+      <description language="eng" title="Breakless Band" short_synopsis="Non-stop super hit Bollywood songs." extended_synopsis="Non-stop super hit Bollywood songs." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 13:20:00" end_time="20150918 13:22:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 13:22:00" end_time="20150918 13:30:00">
+      <description language="eng" title="Breakless Band" short_synopsis="Non-stop super hit Bollywood songs." extended_synopsis="Non-stop super hit Bollywood songs." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 13:30:00" end_time="20150918 14:00:00">
+      <description language="eng" title="9XE.COM- The Show" short_synopsis="ENTERTAINMENT SHOW FEATURING THE HOTTEST BUZZ, SCOOPS and FUN CELEB INTERVIEWS" extended_synopsis="ENTERTAINMENT SHOW FEATURING THE HOTTEST BUZZ, SCOOPS and FUN CELEB INTERVIEWS" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 14:00:00" end_time="20150918 14:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 14:15:00" end_time="20150918 14:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 14:20:00" end_time="20150918 14:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 14:30:00" end_time="20150918 15:30:00">
+      <description language="eng" title="9XM Top 9" short_synopsis="Viewers choice - music countdown." extended_synopsis="Viewers choice - music countdown." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 15:30:00" end_time="20150918 15:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 15:46:00" end_time="20150918 15:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 15:50:00" end_time="20150918 16:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 16:15:00" end_time="20150918 16:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 16:20:00" end_time="20150918 16:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 16:30:00" end_time="20150918 17:30:00">
+      <description language="eng" title="House Of Dance- dj chetas in the house" short_synopsis="Non-Stop Dance Hits" extended_synopsis="Non-Stop Dance Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 17:30:00" end_time="20150918 18:30:00">
+      <description language="eng" title="House Of Dance- dj chetas in the house" short_synopsis="Non-Stop Dance Hits" extended_synopsis="Non-Stop Dance Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 18:30:00" end_time="20150918 19:00:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 19:00:00" end_time="20150918 20:00:00">
+      <description language="eng" title="Teleshopping" short_synopsis="A show for those who love to shop from the comforts of their home." extended_synopsis="A show for those who love to shop from the comforts of their home." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 20:00:00" end_time="20150918 20:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 20:30:00" end_time="20150918 21:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 21:30:00" end_time="20150918 22:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 22:30:00" end_time="20150918 23:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150918 23:30:00" end_time="20150919 00:30:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 00:30:00" end_time="20150919 00:46:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 00:46:00" end_time="20150919 00:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 00:50:00" end_time="20150919 01:15:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 01:15:00" end_time="20150919 01:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 01:20:00" end_time="20150919 01:30:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 01:30:00" end_time="20150919 01:46:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 01:46:00" end_time="20150919 01:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 01:50:00" end_time="20150919 02:15:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 02:15:00" end_time="20150919 02:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 02:20:00" end_time="20150919 02:30:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 02:30:00" end_time="20150919 02:46:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 02:46:00" end_time="20150919 02:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 02:50:00" end_time="20150919 03:00:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 03:00:00" end_time="20150919 03:05:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 03:05:00" end_time="20150919 03:10:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 03:10:00" end_time="20150919 03:40:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 03:40:00" end_time="20150919 03:42:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 03:42:00" end_time="20150919 04:20:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 04:20:00" end_time="20150919 04:22:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 04:22:00" end_time="20150919 05:00:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 05:00:00" end_time="20150919 05:05:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 05:05:00" end_time="20150919 05:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 05:30:00" end_time="20150919 05:46:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 05:46:00" end_time="20150919 05:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 05:50:00" end_time="20150919 06:15:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 06:15:00" end_time="20150919 06:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 06:20:00" end_time="20150919 06:30:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 06:30:00" end_time="20150919 06:46:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 06:46:00" end_time="20150919 06:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 06:50:00" end_time="20150919 07:15:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 07:15:00" end_time="20150919 07:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 07:20:00" end_time="20150919 07:30:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 07:30:00" end_time="20150919 07:46:00">
+      <description language="eng" title="9XE.COM- The Show" short_synopsis="ENTERTAINMENT SHOW FEATURING THE HOTTEST BUZZ, SCOOPS and FUN CELEB INTERVIEWS" extended_synopsis="ENTERTAINMENT SHOW FEATURING THE HOTTEST BUZZ, SCOOPS and FUN CELEB INTERVIEWS" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 07:46:00" end_time="20150919 07:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 07:50:00" end_time="20150919 08:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 08:15:00" end_time="20150919 08:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 08:20:00" end_time="20150919 08:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 08:30:00" end_time="20150919 08:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 08:46:00" end_time="20150919 08:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 08:50:00" end_time="20150919 09:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 09:15:00" end_time="20150919 09:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 09:20:00" end_time="20150919 09:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 09:30:00" end_time="20150919 09:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 09:46:00" end_time="20150919 09:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 09:50:00" end_time="20150919 10:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 10:15:00" end_time="20150919 10:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 10:20:00" end_time="20150919 10:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 10:30:00" end_time="20150919 10:46:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 10:46:00" end_time="20150919 10:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 10:50:00" end_time="20150919 11:15:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 11:15:00" end_time="20150919 11:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 11:20:00" end_time="20150919 11:30:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 11:30:00" end_time="20150919 11:46:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 11:46:00" end_time="20150919 12:00:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 12:00:00" end_time="20150919 12:40:00">
+      <description language="eng" title="Breakless Band" short_synopsis="Non-stop super hit Bollywood songs." extended_synopsis="Non-stop super hit Bollywood songs." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 12:40:00" end_time="20150919 12:42:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 12:42:00" end_time="20150919 13:20:00">
+      <description language="eng" title="Breakless Band" short_synopsis="Non-stop super hit Bollywood songs." extended_synopsis="Non-stop super hit Bollywood songs." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 13:20:00" end_time="20150919 13:22:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 13:22:00" end_time="20150919 13:30:00">
+      <description language="eng" title="Breakless Band" short_synopsis="Non-stop super hit Bollywood songs." extended_synopsis="Non-stop super hit Bollywood songs." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 13:30:00" end_time="20150919 13:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 13:46:00" end_time="20150919 13:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 13:50:00" end_time="20150919 14:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 14:15:00" end_time="20150919 14:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 14:20:00" end_time="20150919 14:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 14:46:00" end_time="20150919 14:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 14:50:00" end_time="20150919 15:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 15:15:00" end_time="20150919 15:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 15:20:00" end_time="20150919 15:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 15:30:00" end_time="20150919 16:30:00">
+      <description language="eng" title="9XM Top 9" short_synopsis="Viewers choice - music countdown." extended_synopsis="Viewers choice - music countdown." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 16:30:00" end_time="20150919 17:30:00">
+      <description language="eng" title="House Of Dance- dj chetas in the house" short_synopsis="Non-Stop Dance Hits" extended_synopsis="Non-Stop Dance Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 17:30:00" end_time="20150919 18:30:00">
+      <description language="eng" title="House Of Dance- dj chetas in the house" short_synopsis="Non-Stop Dance Hits" extended_synopsis="Non-Stop Dance Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 18:30:00" end_time="20150919 19:00:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 19:00:00" end_time="20150919 20:00:00">
+      <description language="eng" title="Teleshopping" short_synopsis="A show for those who love to shop from the comforts of their home." extended_synopsis="A show for those who love to shop from the comforts of their home." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 20:00:00" end_time="20150919 20:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 20:30:00" end_time="20150919 21:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 21:30:00" end_time="20150919 22:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 22:30:00" end_time="20150919 23:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150919 23:30:00" end_time="20150920 00:30:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 00:30:00" end_time="20150920 00:46:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 00:46:00" end_time="20150920 00:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 00:50:00" end_time="20150920 01:15:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 01:15:00" end_time="20150920 01:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 01:20:00" end_time="20150920 01:30:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 01:30:00" end_time="20150920 01:46:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 01:46:00" end_time="20150920 01:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 01:50:00" end_time="20150920 02:15:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 02:15:00" end_time="20150920 02:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 02:20:00" end_time="20150920 02:30:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 02:30:00" end_time="20150920 02:46:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 02:46:00" end_time="20150920 02:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 02:50:00" end_time="20150920 03:00:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 03:00:00" end_time="20150920 03:05:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 03:05:00" end_time="20150920 03:10:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 03:10:00" end_time="20150920 03:40:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 03:40:00" end_time="20150920 03:42:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 03:42:00" end_time="20150920 04:20:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 04:20:00" end_time="20150920 04:22:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 04:22:00" end_time="20150920 05:00:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 05:00:00" end_time="20150920 05:05:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 05:05:00" end_time="20150920 05:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 05:30:00" end_time="20150920 05:46:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 05:46:00" end_time="20150920 05:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 05:50:00" end_time="20150920 06:15:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 06:15:00" end_time="20150920 06:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 06:20:00" end_time="20150920 06:30:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 06:30:00" end_time="20150920 06:46:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 06:46:00" end_time="20150920 06:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 06:50:00" end_time="20150920 07:15:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 07:15:00" end_time="20150920 07:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 07:20:00" end_time="20150920 07:30:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 07:30:00" end_time="20150920 08:30:00">
+      <description language="eng" title="9XE.COM- The Show" short_synopsis="ENTERTAINMENT SHOW FEATURING THE HOTTEST BUZZ, SCOOPS and FUN CELEB INTERVIEWS" extended_synopsis="ENTERTAINMENT SHOW FEATURING THE HOTTEST BUZZ, SCOOPS and FUN CELEB INTERVIEWS" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 08:30:00" end_time="20150920 08:46:00">
+      <description language="eng" title="9XM Top 9" short_synopsis="Viewers choice - music countdown." extended_synopsis="Viewers choice - music countdown." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 08:46:00" end_time="20150920 08:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 08:50:00" end_time="20150920 09:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 09:15:00" end_time="20150920 09:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 09:20:00" end_time="20150920 09:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 09:30:00" end_time="20150920 09:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 09:46:00" end_time="20150920 09:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 09:50:00" end_time="20150920 10:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 10:15:00" end_time="20150920 10:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 10:20:00" end_time="20150920 10:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 10:30:00" end_time="20150920 10:46:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 10:46:00" end_time="20150920 10:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 10:50:00" end_time="20150920 11:15:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 11:15:00" end_time="20150920 11:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 11:20:00" end_time="20150920 11:30:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 11:30:00" end_time="20150920 11:46:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 11:46:00" end_time="20150920 12:00:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 12:00:00" end_time="20150920 12:40:00">
+      <description language="eng" title="Breakless Band" short_synopsis="Non-stop super hit Bollywood songs." extended_synopsis="Non-stop super hit Bollywood songs." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 12:40:00" end_time="20150920 12:42:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 12:42:00" end_time="20150920 13:20:00">
+      <description language="eng" title="Breakless Band" short_synopsis="Non-stop super hit Bollywood songs." extended_synopsis="Non-stop super hit Bollywood songs." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 13:20:00" end_time="20150920 13:22:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 13:22:00" end_time="20150920 13:30:00">
+      <description language="eng" title="Breakless Band" short_synopsis="Non-stop super hit Bollywood songs." extended_synopsis="Non-stop super hit Bollywood songs." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 13:30:00" end_time="20150920 13:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 13:46:00" end_time="20150920 13:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 13:50:00" end_time="20150920 14:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 14:15:00" end_time="20150920 14:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 14:20:00" end_time="20150920 14:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 14:46:00" end_time="20150920 14:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 14:50:00" end_time="20150920 15:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 15:15:00" end_time="20150920 15:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 15:20:00" end_time="20150920 15:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 15:30:00" end_time="20150920 15:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 15:46:00" end_time="20150920 15:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 15:50:00" end_time="20150920 16:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 16:15:00" end_time="20150920 16:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 16:20:00" end_time="20150920 16:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 16:30:00" end_time="20150920 16:46:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 16:46:00" end_time="20150920 16:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 16:50:00" end_time="20150920 17:15:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 17:15:00" end_time="20150920 17:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 17:20:00" end_time="20150920 17:30:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 17:30:00" end_time="20150920 17:46:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 17:46:00" end_time="20150920 17:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 17:50:00" end_time="20150920 18:15:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 18:15:00" end_time="20150920 18:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 18:20:00" end_time="20150920 18:30:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 18:30:00" end_time="20150920 19:30:00">
+      <description language="eng" title="Teleshopping" short_synopsis="A show for those who love to shop from the comforts of their home." extended_synopsis="A show for those who love to shop from the comforts of their home." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 19:30:00" end_time="20150920 20:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 20:30:00" end_time="20150920 21:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 21:30:00" end_time="20150920 22:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 22:30:00" end_time="20150920 23:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150920 23:30:00" end_time="20150921 00:30:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 00:30:00" end_time="20150921 00:46:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 00:46:00" end_time="20150921 00:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 00:50:00" end_time="20150921 01:15:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 01:15:00" end_time="20150921 01:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 01:20:00" end_time="20150921 01:30:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 01:30:00" end_time="20150921 01:46:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 01:46:00" end_time="20150921 01:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 01:50:00" end_time="20150921 02:15:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 02:15:00" end_time="20150921 02:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 02:20:00" end_time="20150921 02:30:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 02:30:00" end_time="20150921 02:46:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 02:46:00" end_time="20150921 02:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 02:50:00" end_time="20150921 03:00:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 03:00:00" end_time="20150921 03:05:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 03:05:00" end_time="20150921 03:10:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 03:10:00" end_time="20150921 03:40:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 03:40:00" end_time="20150921 03:42:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 03:42:00" end_time="20150921 04:20:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 04:20:00" end_time="20150921 04:22:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 04:22:00" end_time="20150921 05:00:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 05:00:00" end_time="20150921 05:05:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 05:05:00" end_time="20150921 05:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 05:30:00" end_time="20150921 05:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 05:46:00" end_time="20150921 05:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 05:50:00" end_time="20150921 06:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 06:15:00" end_time="20150921 06:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 06:20:00" end_time="20150921 06:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 06:46:00" end_time="20150921 06:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 06:50:00" end_time="20150921 07:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 07:15:00" end_time="20150921 07:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 07:20:00" end_time="20150921 07:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 07:30:00" end_time="20150921 07:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 07:46:00" end_time="20150921 07:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 07:50:00" end_time="20150921 08:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 08:15:00" end_time="20150921 08:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 08:20:00" end_time="20150921 08:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 08:30:00" end_time="20150921 08:46:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 08:46:00" end_time="20150921 08:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 08:50:00" end_time="20150921 09:15:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 09:15:00" end_time="20150921 09:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 09:20:00" end_time="20150921 09:30:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 09:30:00" end_time="20150921 09:46:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 09:46:00" end_time="20150921 09:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 09:50:00" end_time="20150921 10:15:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 10:15:00" end_time="20150921 10:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 10:20:00" end_time="20150921 10:30:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 10:30:00" end_time="20150921 10:46:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 10:46:00" end_time="20150921 10:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 10:50:00" end_time="20150921 11:15:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 11:15:00" end_time="20150921 11:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 11:20:00" end_time="20150921 11:30:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 11:30:00" end_time="20150921 11:46:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 11:46:00" end_time="20150921 12:00:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 12:00:00" end_time="20150921 12:40:00">
+      <description language="eng" title="Breakless Band" short_synopsis="Non-stop super hit Bollywood songs." extended_synopsis="Non-stop super hit Bollywood songs." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 12:40:00" end_time="20150921 12:42:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 12:42:00" end_time="20150921 13:20:00">
+      <description language="eng" title="Breakless Band" short_synopsis="Non-stop super hit Bollywood songs." extended_synopsis="Non-stop super hit Bollywood songs." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 13:20:00" end_time="20150921 13:22:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 13:22:00" end_time="20150921 14:00:00">
+      <description language="eng" title="Breakless Band" short_synopsis="Non-stop super hit Bollywood songs." extended_synopsis="Non-stop super hit Bollywood songs." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 14:00:00" end_time="20150921 14:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 14:15:00" end_time="20150921 14:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 14:20:00" end_time="20150921 14:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 14:30:00" end_time="20150921 15:30:00">
+      <description language="eng" title="9XM Top 9" short_synopsis="Viewers choice - music countdown." extended_synopsis="Viewers choice - music countdown." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 15:30:00" end_time="20150921 16:30:00">
+      <description language="eng" title="9XE.COM- The Show" short_synopsis="ENTERTAINMENT SHOW FEATURING THE HOTTEST BUZZ, SCOOPS and FUN CELEB INTERVIEWS" extended_synopsis="ENTERTAINMENT SHOW FEATURING THE HOTTEST BUZZ, SCOOPS and FUN CELEB INTERVIEWS" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 16:30:00" end_time="20150921 16:46:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 16:46:00" end_time="20150921 16:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 16:50:00" end_time="20150921 17:15:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 17:15:00" end_time="20150921 17:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 17:20:00" end_time="20150921 17:30:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 17:30:00" end_time="20150921 17:46:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 17:46:00" end_time="20150921 17:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 17:50:00" end_time="20150921 18:15:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 18:15:00" end_time="20150921 18:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 18:20:00" end_time="20150921 18:30:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 18:30:00" end_time="20150921 19:30:00">
+      <description language="eng" title="Teleshopping" short_synopsis="A show for those who love to shop from the comforts of their home." extended_synopsis="A show for those who love to shop from the comforts of their home." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 19:30:00" end_time="20150921 20:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 20:30:00" end_time="20150921 21:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 21:30:00" end_time="20150921 22:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 22:30:00" end_time="20150921 23:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150921 23:30:00" end_time="20150922 00:30:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 00:30:00" end_time="20150922 00:46:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 00:46:00" end_time="20150922 00:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 00:50:00" end_time="20150922 01:15:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 01:15:00" end_time="20150922 01:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 01:20:00" end_time="20150922 01:30:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 01:30:00" end_time="20150922 01:46:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 01:46:00" end_time="20150922 01:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 01:50:00" end_time="20150922 02:15:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 02:15:00" end_time="20150922 02:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 02:20:00" end_time="20150922 02:30:00">
+      <description language="eng" title="Morning Alarm" short_synopsis="Wake up to the best Bollywood music." extended_synopsis="Wake up to the best Bollywood music." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 02:30:00" end_time="20150922 02:46:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 02:46:00" end_time="20150922 02:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 02:50:00" end_time="20150922 03:00:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 03:00:00" end_time="20150922 03:05:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 03:05:00" end_time="20150922 03:10:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 03:10:00" end_time="20150922 03:40:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 03:40:00" end_time="20150922 03:42:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 03:42:00" end_time="20150922 04:20:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 04:20:00" end_time="20150922 04:22:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 04:22:00" end_time="20150922 05:00:00">
+      <description language="eng" title="Fit Hits" short_synopsis="100percent Ad Free Music" extended_synopsis="100percent Ad Free Music" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 05:00:00" end_time="20150922 05:05:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 05:05:00" end_time="20150922 05:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 05:30:00" end_time="20150922 05:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 05:46:00" end_time="20150922 05:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 05:50:00" end_time="20150922 06:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 06:15:00" end_time="20150922 06:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 06:20:00" end_time="20150922 06:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 06:46:00" end_time="20150922 06:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 06:50:00" end_time="20150922 07:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 07:15:00" end_time="20150922 07:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 07:20:00" end_time="20150922 07:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 07:30:00" end_time="20150922 08:30:00">
+      <description language="eng" title="9XE.COM- The Show" short_synopsis="ENTERTAINMENT SHOW FEATURING THE HOTTEST BUZZ, SCOOPS and FUN CELEB INTERVIEWS" extended_synopsis="ENTERTAINMENT SHOW FEATURING THE HOTTEST BUZZ, SCOOPS and FUN CELEB INTERVIEWS" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 08:30:00" end_time="20150922 08:46:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 08:46:00" end_time="20150922 08:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 08:50:00" end_time="20150922 09:15:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 09:15:00" end_time="20150922 09:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 09:20:00" end_time="20150922 09:30:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 09:30:00" end_time="20150922 09:46:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 09:46:00" end_time="20150922 09:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 09:50:00" end_time="20150922 10:15:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 10:15:00" end_time="20150922 10:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 10:20:00" end_time="20150922 10:30:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 10:30:00" end_time="20150922 10:46:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 10:46:00" end_time="20150922 10:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 10:50:00" end_time="20150922 11:15:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 11:15:00" end_time="20150922 11:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 11:20:00" end_time="20150922 11:30:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 11:30:00" end_time="20150922 11:46:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 11:46:00" end_time="20150922 12:00:00">
+      <description language="eng" title="M-Slot" short_synopsis="BollywoodS Latest Hits" extended_synopsis="BollywoodS Latest Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 12:00:00" end_time="20150922 12:40:00">
+      <description language="eng" title="Breakless Band" short_synopsis="Non-stop super hit Bollywood songs." extended_synopsis="Non-stop super hit Bollywood songs." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 12:40:00" end_time="20150922 12:42:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 12:42:00" end_time="20150922 13:20:00">
+      <description language="eng" title="Breakless Band" short_synopsis="Non-stop super hit Bollywood songs." extended_synopsis="Non-stop super hit Bollywood songs." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 13:20:00" end_time="20150922 13:22:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 13:22:00" end_time="20150922 13:30:00">
+      <description language="eng" title="Breakless Band" short_synopsis="Non-stop super hit Bollywood songs." extended_synopsis="Non-stop super hit Bollywood songs." />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 13:30:00" end_time="20150922 13:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 13:46:00" end_time="20150922 13:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 13:50:00" end_time="20150922 14:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 14:15:00" end_time="20150922 14:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 14:20:00" end_time="20150922 14:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 14:30:00" end_time="20150922 14:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 14:46:00" end_time="20150922 14:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 14:50:00" end_time="20150922 15:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 15:15:00" end_time="20150922 15:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 15:20:00" end_time="20150922 15:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 15:30:00" end_time="20150922 15:46:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 15:46:00" end_time="20150922 15:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 15:50:00" end_time="20150922 16:15:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 16:15:00" end_time="20150922 16:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 16:20:00" end_time="20150922 16:30:00">
+      <description language="eng" title="Bade-Chotes Playlist" short_synopsis="The Hottest Bollywood Hits" extended_synopsis="The Hottest Bollywood Hits" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 16:30:00" end_time="20150922 16:46:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 16:46:00" end_time="20150922 16:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 16:50:00" end_time="20150922 17:15:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 17:15:00" end_time="20150922 17:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 17:20:00" end_time="20150922 17:30:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 17:30:00" end_time="20150922 17:46:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 17:46:00" end_time="20150922 17:50:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 17:50:00" end_time="20150922 18:15:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 18:15:00" end_time="20150922 18:20:00">
+      <description language="eng" title="Screen Flash" short_synopsis="Latest Trailors" extended_synopsis="Latest Trailors" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+    <event start_time="20150922 18:20:00" end_time="20150922 18:30:00">
+      <description language="eng" title="Calm-A-Sutra" short_synopsis="Easy Listening Playlist" extended_synopsis="Easy Listening Playlist" />
+      <content nibble1="3" nibble2="0" />
+    </event>
+  </schedule>
+</epg_import>

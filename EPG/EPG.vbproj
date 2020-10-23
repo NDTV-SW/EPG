@@ -1,0 +1,2737 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{084F1917-542E-49AC-B50C-8D227A8C4176}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>EPG</RootNamespace>
+    <AssemblyName>EPG</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <MyType>Custom</MyType>
+    <UseIISExpress>false</UseIISExpress>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>EPG.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036,42353,42354,42355</NoWarn>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>EPG.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036,42353,42354,42355</NoWarn>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit">
+      <HintPath>..\..\..\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="AWSSDK.Core, Version=3.1.0.0, Culture=neutral, PublicKeyToken=885c28607f98e604, processorArchitecture=MSIL">
+      <HintPath>..\packages\AWSSDK.Core.3.1.7.0\lib\net35\AWSSDK.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="AWSSDK.S3, Version=3.1.0.0, Culture=neutral, PublicKeyToken=885c28607f98e604, processorArchitecture=MSIL">
+      <HintPath>..\packages\AWSSDK.S3.3.1.7.2\lib\net35\AWSSDK.S3.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DotNet.Highcharts">
+      <HintPath>..\..\..\..\..\NDTV\Downloads\DotNet.Highcharts.4.0_.NET.Framework.4.0\DotNet.Highcharts.dll</HintPath>
+    </Reference>
+    <Reference Include="Excel, Version=2.0.1.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL" />
+    <Reference Include="ExcelLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\ExcelLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelPackage, Version=1.0.0.1, Culture=neutral, PublicKeyToken=f8bb63aa9d6969e8, processorArchitecture=MSIL" />
+    <Reference Include="Foxplus, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\FoxPlus\Foxplus\Foxplus\bin\Release\Foxplus.dll</HintPath>
+    </Reference>
+    <Reference Include="GoogleTranslateAPI">
+      <HintPath>..\..\..\GoogleTranslateAPI_0.3\GoogleTranslateAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\Roster\Roster\bin\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\..\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PdfSharp, Version=1.32.2608.0, Culture=neutral, PublicKeyToken=f94615aa0424f9eb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\PdfSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp">
+      <HintPath>..\..\TheMoviesDB\TheMoviesDB\bin\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.DirectoryServices.Protocols" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web.DataVisualization" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="TheMoviesDB">
+      <HintPath>..\..\TheMoviesDB\TheMoviesDB\bin\TheMoviesDB.dll</HintPath>
+    </Reference>
+    <Reference Include="WatTmdb">
+      <HintPath>..\..\TheMoviesDB\TheMoviesDB\bin\WatTmdb.dll</HintPath>
+    </Reference>
+    <Reference Include="WinSCPnet">
+      <HintPath>..\..\..\WinSCPnet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Collections.Specialized" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Text" />
+    <Import Include="System.Text.RegularExpressions" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.Caching" />
+    <Import Include="System.Web.SessionState" />
+    <Import Include="System.Web.Security" />
+    <Import Include="System.Web.Profile" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.WebControls" />
+    <Import Include="System.Web.UI.WebControls.WebParts" />
+    <Import Include="System.Web.UI.HtmlControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="About.aspx" />
+    <Content Include="Account\ChangePassword.aspx" />
+    <Content Include="Account\ForgotPassword.aspx" />
+    <Content Include="Account\login.aspx" />
+    <Content Include="Account\reset.aspx" />
+    <Content Include="Admin\ChannelMaster_WOI.aspx" />
+    <Content Include="Admin\DVBSubGenreMapping.aspx" />
+    <Content Include="Admin\DVBGenreMapping.aspx" />
+    <Content Include="Admin\Default.aspx" />
+    <Content Include="Admin\UserMaster.aspx" />
+    <Content Include="API\ch21.aspx" />
+    <Content Include="API\rich21.aspx" />
+    <Content Include="API\prgreg21.aspx" />
+    <Content Include="API\prg21.aspx" />
+    <Content Include="API\epgservicesinglerich.aspx" />
+    <Content Include="API\epgserviceairtel.aspx" />
+    <Content Include="API\epgservicesingle.aspx" />
+    <Content Include="API\epgserviceregional.aspx" />
+    <Content Include="API\epgservicerich.aspx" />
+    <Content Include="API\epgservice.aspx" />
+    <Content Include="APIClient\default.aspx" />
+    <Content Include="Fox\Fox_AddMetadata.aspx" />
+    <Content Include="Fox\Fox_Update_data.aspx" />
+    <Content Include="Fox\UploadScheduleFox.aspx" />
+    <Content Include="Images\SampleFoxUpload.JPG" />
+    <Content Include="Masters\UpdatePPV1.aspx" />
+    <Content Include="Masters\UpdatePPV1_new.aspx" />
+    <Content Include="Masters\ProgramDiscrepancyNewHex.aspx" />
+    <Content Include="RichMeta\verifyrichchannels.aspx" />
+    <Content Include="RichMeta\viewlinks.aspx" />
+    <Content Include="RichMeta\viewrich.aspx" />
+    <Content Include="UploadSchedules\FPC_EPG_Auto.aspx" />
+    <Content Include="Verify\css\bootstrap-table.css" />
+    <Content Include="Verify\css\bootstrap-theme.css" />
+    <Content Include="Verify\css\bootstrap-theme.min.css" />
+    <Content Include="Verify\css\bootstrap.css" />
+    <Content Include="Verify\css\bootstrap.min.css" />
+    <Content Include="Verify\css\datepicker.css" />
+    <Content Include="Verify\css\datepicker3.css" />
+    <Content Include="Verify\css\font-awesome.min.css" />
+    <Content Include="Verify\css\styles.css" />
+    <Content Include="Verify\Default.aspx" />
+    <Content Include="Verify\js\bootstrap-datepicker.js" />
+    <Content Include="Verify\js\bootstrap.js" />
+    <Content Include="Verify\js\bootstrap.min.js" />
+    <Content Include="Verify\js\chart-data.js" />
+    <Content Include="Verify\js\chart.min.js" />
+    <Content Include="Verify\js\custom.js" />
+    <Content Include="Verify\js\easypiechart-data.js" />
+    <Content Include="Verify\js\easypiechart.js" />
+    <Content Include="Verify\js\html5shiv.min.js" />
+    <Content Include="Verify\js\jquery-1.11.1.min.js" />
+    <Content Include="Verify\js\jquery.searchabledropdown-1.0.8.min.js" />
+    <Content Include="Verify\js\lumino.glyphs.js" />
+    <Content Include="Verify\js\npm.js" />
+    <Content Include="Verify\js\respond.min.js" />
+    <Content Include="Verify\program.aspx" />
+    <Content Include="Verify\channel.aspx" />
+    <Content Include="ImagesReport\ScriptImagesReport.aspx" />
+    <Content Include="ImagesReport\UploadChannelLogosSquare.aspx" />
+    <Content Include="ImagesReport\ReportImages.aspx" />
+    <Content Include="ImagesReport\rptImagesMissingDateWise.aspx" />
+    <Content Include="Images\UploadSchedule_Sports.jpg" />
+    <Content Include="Images\us_ngc.jpg" />
+    <Content Include="Masters\PCEpiSearch.aspx" />
+    <Content Include="RichMeta\uploadmissing.aspx" />
+    <Content Include="RichMeta\richlinkmissing.aspx" />
+    <Content Include="RichMeta\verifyrichmeta.aspx" />
+    <Content Include="RichMeta\css\bootstrap-table.css" />
+    <Content Include="RichMeta\css\bootstrap-theme.css" />
+    <Content Include="RichMeta\css\bootstrap-theme.min.css" />
+    <Content Include="RichMeta\css\bootstrap.css" />
+    <Content Include="RichMeta\css\bootstrap.min.css" />
+    <Content Include="RichMeta\css\datepicker.css" />
+    <Content Include="RichMeta\css\datepicker3.css" />
+    <Content Include="RichMeta\css\font-awesome.min.css" />
+    <Content Include="RichMeta\css\styles.css" />
+    <Content Include="RichMeta\Default.aspx" />
+    <Content Include="RichMeta\js\bootstrap-datepicker.js" />
+    <Content Include="RichMeta\js\bootstrap.js" />
+    <Content Include="RichMeta\js\bootstrap.min.js" />
+    <Content Include="RichMeta\js\chart-data.js" />
+    <Content Include="RichMeta\js\chart.min.js" />
+    <Content Include="RichMeta\js\custom.js" />
+    <Content Include="RichMeta\js\easypiechart-data.js" />
+    <Content Include="RichMeta\js\easypiechart.js" />
+    <Content Include="RichMeta\js\html5shiv.min.js" />
+    <Content Include="RichMeta\js\jquery-1.11.1.min.js" />
+    <Content Include="RichMeta\js\jquery.searchabledropdown-1.0.8.min.js" />
+    <Content Include="RichMeta\js\lumino.glyphs.js" />
+    <Content Include="RichMeta\js\npm.js" />
+    <Content Include="RichMeta\js\respond.min.js" />
+    <Content Include="RichMeta\richmeta.aspx" />
+    <Content Include="serveimage\defaultRoute.aspx" />
+    <Content Include="serveimage\default.aspx" />
+    <Content Include="API\fpcconverted.aspx" />
+    <Content Include="API\fpcscript.aspx" />
+    <Content Include="API\fpcstatus.aspx" />
+    <Content Include="API\fpcauto.aspx" />
+    <Content Include="DTHCable\MSOMaster.aspx" />
+    <Content Include="DTHCable\CRM\ContactDetails.aspx" />
+    <Content Include="DTHCable\CRM\Deals.aspx" />
+    <Content Include="DTHCable\CRM\Default.aspx" />
+    <Content Include="DTHCable\CRM\StatusUpdate.aspx" />
+    <Content Include="DTHCable\Msotrack.aspx" />
+    <Content Include="ImagesReport\CopyProgrammeLogosPortrait.aspx" />
+    <Content Include="ImagesReport\UploadChannelLogos160x90.aspx" />
+    <Content Include="ImagesReport\ProgrammeLogosPortrait.aspx" />
+    <Content Include="ImagesReport\rptTabletImages.aspx" />
+    <Content Include="MailerReports\ChannelsBuiltToday.aspx" />
+    <Content Include="Masters\EditProgNameEpisodic7.aspx" />
+    <Content Include="Masters\ProgramCentralEditEpisodic7.aspx" />
+    <Content Include="MyReports\StarMonitorChecks.aspx" />
+    <Content Include="MailerReports\ImagesUploadedToday.aspx" />
+    <Content Include="Masters\ImportTransliteration.aspx" />
+    <Content Include="Masters\TranslatedFiles.aspx" />
+    <Content Include="Masters\EditProgName7.aspx" />
+    <Content Include="Masters\ProgramCentralEdit7.aspx" />
+    <Content Include="MyReports\Ban_Kan_Prog_Missing.aspx" />
+    <Content Include="Star\ConsolidatedReport.aspx" />
+    <Content Include="Star\ChannelSummary.aspx" />
+    <Content Include="MailerReports\StarManualMailAlerts.aspx" />
+    <Content Include="Star\MailsReceivedDashboard.aspx" />
+    <Content Include="Star\MailsReceived.aspx" />
+    <Content Include="Star\MailsReceivedFilter.aspx" />
+    <Content Include="Star\FPC_Manual_Generate.aspx" />
+    <Content Include="Star\starViewHighLights.aspx" />
+    <Content Include="Star\starHighlights.aspx" />
+    <Content Include="Star\TrackingReport.aspx" />
+    <Content Include="Star\FPC_Distribution_Report.aspx" />
+    <Content Include="Star\FPC_Distribution_Channels.aspx" />
+    <Content Include="Star\FPC_Distribution.aspx" />
+    <Content Include="Star\Default.aspx" />
+    <Content Include="Star\ProgramEpisodicEdit.aspx" />
+    <Content Include="Star\ProgramEpisodic.aspx" />
+    <Content Include="testJSON.aspx" />
+    <Content Include="API\XML21.aspx" />
+    <Content Include="API\ep21.aspx" />
+    <Content Include="bin\AjaxControlToolkit.dll" />
+    <Content Include="bin\Excel.dll" />
+    <Content Include="bin\ExcelLibrary.dll" />
+    <Content Include="bin\ExcelPackage.dll" />
+    <Content Include="bin\GoogleTranslateAPI.dll" />
+    <Content Include="bin\itextsharp.dll" />
+    <Content Include="bin\Newtonsoft.Json.dll" />
+    <Content Include="bin\RestSharp.dll" />
+    <Content Include="bin\TheMoviesDB.dll" />
+    <Content Include="bin\WatTmdb.dll" />
+    <Content Include="bin\WinSCPnet.dll" />
+    <Content Include="BuilEPGTransactions.aspx" />
+    <Content Include="close.gif" />
+    <Content Include="CMS\CMSTvStarProgMapping.aspx" />
+    <Content Include="CMS\CMSyouTubeChannelMaster.aspx" />
+    <Content Include="CMS\CMSyouTubeVideos.aspx" />
+    <Content Include="CMS\CMSTvStarMapping.aspx" />
+    <Content Include="CMS\CMSVODPlatformMaster.aspx" />
+    <Content Include="CMS\CMSVODTVShows.aspx" />
+    <Content Include="CMS\CMSVODMovies.aspx" />
+    <Content Include="CMS\CMSTvStarDashBoard.aspx" />
+    <Content Include="CMS\Banners.aspx" />
+    <Content Include="CMS\AppScreens.aspx" />
+    <Content Include="CMS\CelebrityRegional.aspx" />
+    <Content Include="CMS\CMSyouTubeVideos_NoProgid.aspx" />
+    <Content Include="CMS\NotificationsUpcoming.aspx" />
+    <Content Include="CMS\UreqaSynopsis.aspx" />
+    <Content Include="CMS\notificationSelectProg.aspx" />
+    <Content Include="DTHCable\LabelPrint.aspx" />
+    <Content Include="ImagesReport\CopyProgrammeLogos.aspx" />
+    <Content Include="CMS\highlightsDialog.aspx" />
+    <Content Include="CMS\SonyLiv.aspx" />
+    <Content Include="CMS\Notifications.aspx" />
+    <Content Include="CMS\FavouriteStars.aspx" />
+    <Content Include="CMS\PrimeTimeMovieCMS.aspx" />
+    <Content Include="CMS\ViewHighlightsDialog.aspx" />
+    <Content Include="CMS\ViewHighlights.aspx" />
+    <Content Include="CMS\highlights.aspx" />
+    <Content Include="CMS\serviceExecute.aspx" />
+    <Content Include="ImagesReport\MovieLogos.aspx" />
+    <Content Include="CMS\TvStarDetails.aspx" />
+    <Content Include="ImagesReport\ProgrammeLogos.aspx" />
+    <Content Include="CMS\ViewPicGallery.aspx" />
+    <Content Include="CMS\PicGallery.aspx" />
+    <Content Include="CMS\PicGalleryDescription.aspx" />
+    <Content Include="CMS\PicGalleryMaster.aspx" />
+    <Content Include="CMS\PicGalleryCategoryMaster.aspx" />
+    <Content Include="CMS\TvStarMaster.aspx" />
+    <Content Include="CMS\Default.aspx" />
+    <Content Include="BuilEPGTransactionsSummary.aspx" />
+    <Content Include="DTHCable\AppNo.aspx" />
+    <Content Include="DTHCable\Default.aspx" />
+    <Content Include="DTHCable\FileSamples.aspx" />
+    <Content Include="DTHCable\OperatorChannels.aspx" />
+    <Content Include="DTHCable\OperatorDetails.aspx" />
+    <Content Include="DTHCable\ProcessTask.aspx" />
+    <Content Include="DTHCable\filesamples\sp_epg_txt_iptv_standard1.TXT" />
+    <Content Include="DTHCable\filesamples\sp_epg_txt_iptv_standard2.TXT" />
+    <Content Include="DTHCable\filesamples\sp_epg_txt_standard1.txt" />
+    <Content Include="DTHCable\filesamples\sp_epg_txt_standard3.TXT" />
+    <Content Include="DTHCable\filesamples\sp_epg_txt_standard4.TXT" />
+    <Content Include="DTHCable\filesamples\sp_epg_txt_standard5.txt" />
+    <Content Include="DTHCable\filesamples\SP_epg_xml_bigtv_OUT2DAYS_NEW.XML" />
+    <Content Include="DTHCable\filesamples\sp_epg_xml_bigtv_out48.XML" />
+    <Content Include="DTHCable\filesamples\SP_epg_xml_bigtv_OUT4DAYS_NEW.XML" />
+    <Content Include="DTHCable\filesamples\sp_epg_xml_standard1.XML" />
+    <Content Include="DTHCable\filesamples\sp_epg_xml_standard10.xml" />
+    <Content Include="DTHCable\filesamples\sp_epg_xml_standard11.xml" />
+    <Content Include="DTHCable\filesamples\sp_epg_xml_standard13.xml" />
+    <Content Include="DTHCable\filesamples\sp_epg_xml_standard15.xml" />
+    <Content Include="DTHCable\filesamples\sp_epg_xml_standard16.xml" />
+    <Content Include="DTHCable\filesamples\sp_epg_xml_standard17.XML" />
+    <Content Include="DTHCable\filesamples\sp_epg_xml_standard18_PSI.xml" />
+    <Content Include="DTHCable\filesamples\sp_epg_xml_standard19_bluesky.xml" />
+    <Content Include="DTHCable\filesamples\sp_epg_xml_standard2.xml" />
+    <Content Include="DTHCable\filesamples\sp_epg_xml_standard2_jpr.xml" />
+    <Content Include="DTHCable\filesamples\sp_epg_xml_standard4_CCC.xml" />
+    <Content Include="DTHCable\filesamples\sp_epg_xml_standard5.xml" />
+    <Content Include="DTHCable\filesamples\sp_epg_xml_standard7.XML" />
+    <Content Include="DTHCable\filesamples\sp_epg_xml_standard9_signet_nextweek_OUT.XML" />
+    <Content Include="DTHCable\filesamples\sp_epg_xml_standard9_signet_nextweek_OUT_UTC.XML" />
+    <Content Include="DTHCable\filesamples\sp_epg_xml_standard9_signet_OUT.XML" />
+    <Content Include="DTHCable\filesamples\sp_epg_xml_standard9_signet_OUT_UTC.XML" />
+    <Content Include="Images\down.gif" />
+    <Content Include="Images\Sampleuploadschedule_epi.jpg" />
+    <Content Include="Images\up.gif" />
+    <Content Include="Images\uploadschedule4woi_epi.jpg" />
+    <Content Include="js\bootbox.min.js" />
+    <Content Include="MailerReports\ProgramLogoMissing.aspx" />
+    <Content Include="MailerReports\DuplicateMoviesDetails.aspx" />
+    <Content Include="MailerReports\AirtelMissingInfo.aspx" />
+    <Content Include="MailerReports\EPGDueforAirtel.aspx" />
+    <Content Include="MailerReports\GenerateAndFTPXML.aspx" />
+    <Content Include="Masters\DummyEPGProcess.aspx" />
+    <Content Include="Masters\DummyEPGChannels.aspx" />
+    <Content Include="Masters\DummyEPGCopy.aspx" />
+    <Content Include="MyReports\EPGSentMSO.aspx" />
+    <Content Include="ImagesReport\rptDhiraaguImages.aspx" />
+    <Content Include="css\calendar-blue.css" />
+    <Content Include="Discrepancy\GenreMismatch.aspx" />
+    <Content Include="Images\blue.png" />
+    <Content Include="Images\green.png" />
+    <Content Include="Images\red.png" />
+    <Content Include="js\calendar-en.min.js" />
+    <Content Include="js\jquery-1.4.1.min.js" />
+    <Content Include="js\jquery.dynDateTime.min.js" />
+    <Content Include="Admin\DeleteEPGData.aspx" />
+    <Content Include="Masters\ChannelRename.aspx" />
+    <Content Include="Masters\DuplicateMovieMaster.aspx" />
+    <Content Include="Masters\MapParentProgid.aspx" />
+    <Content Include="Masters\ProgramReport.aspx" />
+    <Content Include="MyReports\OperatorChannels.aspx" />
+    <Content Include="MyReports\OtherGenreReport.aspx" />
+    <Content Include="MyReports\FreshXMLsPending.aspx" />
+    <Content Include="Reports\uploadExcelImportError.aspx" />
+    <Content Include="Reports\GraphReportH.aspx" />
+    <Content Include="MyReports\rptParentProgidRequired.aspx" />
+    <Content Include="ImagesReport\rptYuppMovieImages.aspx" />
+    <Content Include="UploadSchedules\UploadSchedule_Entertainment.aspx" />
+    <Content Include="UploadSchedules\UploadSchedule_Movies.aspx" />
+    <Content Include="UploadSchedules\UploadSchedule_Sports.aspx" />
+    <Content Include="UploadSchedules\UploadSchedule_epi_ngc.aspx" />
+    <Content Include="UploadSchedules\UploadSchedule_10_star.aspx" />
+    <Content Include="UploadSchedules\UploadSchedule9_TimeZone.aspx" />
+    <Content Include="UploadSchedules\UploadSchedule8_SP.aspx" />
+    <Content Include="UploadSchedules\UploadSchedule4WOI_Epi.aspx" />
+    <Content Include="UploadSchedules\ProcessTaskEpi.aspx" />
+    <Content Include="UploadSchedules\UploadSchedule_Epi.aspx" />
+    <Content Include="UploadSchedules\ProcessTask.aspx" />
+    <Content Include="UploadSchedules\UploadSchedule5Zee_new.aspx" />
+    <Content Include="UploadSchedules\UploadSchedule_New.aspx" />
+    <Content Include="VisionAsia\Default.aspx" />
+    <Content Include="MyReports\CatchupPrograms.aspx" />
+    <Content Include="UploadSchedules\UploadSchedule4WOITest.aspx" />
+    <Content Include="EPGLight\ASPSnippets_Pager.min.js" />
+    <Content Include="EPGLight\EPGLightMovieLogos.aspx" />
+    <Content Include="Discrepancy\EditSynopsisFrom.aspx" />
+    <Content Include="Discrepancy\SynopsisFrom.aspx" />
+    <Content Include="MarkAsTeleshopping.aspx" />
+    <Content Include="js\bootstrap-dialog.js" />
+    <Content Include="js\bootstrap-dialog.min.css" />
+    <Content Include="js\bootstrap-dialog.min.js" />
+    <Content Include="js\bootstrap.min.css" />
+    <Content Include="js\jquery-1.10.2.min.js" />
+    <Content Include="js\prettify.css" />
+    <Content Include="CMS\EditTVStarDashboard.aspx" />
+    <Content Include="Masters\RemoveDuplicateProgrammes.aspx" />
+    <Content Include="Masters\viewProgTVStars.aspx" />
+    <Content Include="Masters\TVStarDiscrepancy.aspx" />
+    <Content Include="Masters\ProgramDiscrepancyImportNew.aspx" />
+    <Content Include="Masters\ProgramDiscrepancyNew.aspx" />
+    <Content Include="MyReports\ChannelOperators.aspx" />
+    <Content Include="MyReports\ProgrammesEditedAfterXMLGeneration.aspx" />
+    <Content Include="MyReports\ProgramImagesUploaded.aspx" />
+    <Content Include="MyReports\MissingInfoOnChannels.aspx" />
+    <Content Include="Reports\Default.aspx" />
+    <Content Include="Reports\GraphReport.aspx" />
+    <Content Include="Reports\uploadExcel.aspx" />
+    <Content Include="MyReports\ShowTimings.aspx" />
+    <Content Include="CopyEPGtoChannel.aspx" />
+    <Content Include="Images\404.gif" />
+    <Content Include="Images\ADD.png" />
+    <Content Include="Images\alert.png" />
+    <Content Include="Images\calendar.png" />
+    <Content Include="Images\cal_minus.gif" />
+    <Content Include="Images\cal_plus.gif" />
+    <Content Include="Images\confirm.png" />
+    <Content Include="Images\delete.png" />
+    <Content Include="Images\delete32.png" />
+    <Content Include="Images\discrepancycentralimport.JPG" />
+    <Content Include="Images\edit.png" />
+    <Content Include="Images\edit32.png" />
+    <Content Include="Images\epg7.png" />
+    <Content Include="Images\error.png" />
+    <Content Include="Images\favicon.ico" />
+    <Content Include="Images\favicon1.ico" />
+    <Content Include="Images\info.png" />
+    <Content Include="Images\loader.gif" />
+    <Content Include="Images\loading.gif" />
+    <Content Include="Images\Logo.png" />
+    <Content Include="Images\msgBoxBackGround.png" />
+    <Content Include="Images\NDTV_logo.png" />
+    <Content Include="Images\next.jpg" />
+    <Content Include="Images\Prev.gif" />
+    <Content Include="Images\remove.png" />
+    <Content Include="Images\sample3.JPG" />
+    <Content Include="Images\SampleRegUpload.JPG" />
+    <Content Include="Images\SampleScedUpload.JPG" />
+    <Content Include="Images\sampleUpload3.jpg" />
+    <Content Include="Images\SampleUpload5.JPG" />
+    <Content Include="Images\SampleUploadScedule6.png" />
+    <Content Include="Images\Sampleuploadschedule7.png" />
+    <Content Include="Images\Select48.png" />
+    <Content Include="Images\upload.png" />
+    <Content Include="Images\Web.config" />
+    <Content Include="js.js" />
+    <Content Include="lightbox.css" />
+    <Content Include="lightbox.js" />
+    <Content Include="loader.gif" />
+    <Content Include="loading.gif" />
+    <Content Include="loading1.gif" />
+    <Content Include="main.css" />
+    <Content Include="Admin\ChannelMaster_new.aspx" />
+    <Content Include="CMS\CelebrityMaster.aspx" />
+    <Content Include="CMS\CelebrityDetails.aspx" />
+    <Content Include="ImagesReport\ShowMovieSched.aspx" />
+    <Content Include="overlay.png" />
+    <Content Include="Reports\RelianceErrorLogging.aspx" />
+    <Content Include="Styles\bootstrap-dialog.css" />
+    <Content Include="Styles\bootstrap.min.css" />
+    <Content Include="Styles\StaticHeader.css" />
+    <Content Include="Styles\x.js" />
+    <Content Include="Styles\xtableheaderfixed.js" />
+    <Content Include="js\bootstrap.js" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\bootstrap-modal.js" />
+    <Content Include="js\jquery-1.4.1.js" />
+    <Content Include="UploadSchedules\UploadSchedule7_GMT.aspx" />
+    <Content Include="UploadSchedules\UploadSchedule6WOI_GMT.aspx" />
+    <Content Include="ImagesReport\rptImages.aspx" />
+    <Content Include="ImagesReport\UploadChannelLogos.aspx" />
+    <Content Include="Masters\ShowProgSched.aspx" />
+    <Content Include="Masters\SeasonMaster.aspx" />
+    <Content Include="update\Default.aspx" />
+    <Content Include="ImagesReport\UploadMovieLogos.aspx" />
+    <Content Include="ViewMovieLogos.aspx" />
+    <Content Include="css\bootstrap-theme.css" />
+    <Content Include="css\bootstrap-theme.min.css" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="Masters\EditProgNameEpisodic.aspx" />
+    <Content Include="Masters\ProgramCentralEditEpisodic.aspx" />
+    <Content Include="menu.htm" />
+    <Content Include="rptCatchup.aspx" />
+    <Content Include="ErrorReportChannelWise.aspx" />
+    <Content Include="EditProgSynopModified.aspx" />
+    <Content Include="Masters\GoogleTranslate.aspx" />
+    <Content Include="Masters\DictionaryMaster.aspx" />
+    <Content Include="Masters\EditSynopsisCentral.aspx" />
+    <Content Include="Masters\SynopsisCentral.aspx" />
+    <Content Include="Masters\movieAll.aspx" />
+    <Content Include="Masters\EditProgName1.aspx" />
+    <Content Include="Masters\epgOperators.aspx" />
+    <Content Include="repModSynopsis.aspx" />
+    <Content Include="EPGMissingInfo.aspx" />
+    <Content Include="FTPReport.aspx" />
+    <Content Include="ErrorReport1.aspx" />
+    <Content Include="FTPXML1.aspx" />
+    <Content Include="Admin\ServiceID.aspx" />
+    <Content Include="Styles\SiteBackup.css" />
+    <Content Include="UploadSchedules\UploadSchedule5Zee.aspx" />
+    <Content Include="UploadSchedules\UploadSchedule4WOI.aspx" />
+    <Content Include="CopyLastWeekEPG.aspx" />
+    <Content Include="Masters\EditProgNameSearch.aspx" />
+    <Content Include="Masters\ProgramCentralEditAll.aspx" />
+    <Content Include="Masters\showXMLMailed.aspx" />
+    <Content Include="Masters\XMLMailed.aspx" />
+    <Content Include="Dashboard_Channel_Onair.aspx" />
+    <Content Include="Masters\ChannelOnairOffAir.aspx" />
+    <Content Include="Masters\EditXMLMailDate.aspx" />
+    <Content Include="Masters\EditJunkData.aspx" />
+    <Content Include="Masters\FixJunkCharacters.aspx" />
+    <Content Include="Masters\EditDiscrepancyCentral.aspx" />
+    <Content Include="UploadRegionalNames2.aspx" />
+    <Content Include="ErrorReport.aspx" />
+    <Content Include="Mail.aspx" />
+    <Content Include="Styles\msgBoxLight.css" />
+    <Content Include="UploadSchedules\UploadSchedule3.aspx" />
+    <Content Include="Masters\EditProgName.aspx" />
+    <Content Include="Masters\ProgramCentralEdit.aspx" />
+    <Content Include="UploadSchedules\UploadSchedule2.aspx" />
+    <Content Include="Dashboard_Channel_withProgs.aspx" />
+    <Content Include="error.htm" />
+    <Content Include="Masters\ProgramMaster.aspx" />
+    <Content Include="Masters\RegProgramMaster.aspx" />
+    <Content Include="DashBoard.aspx" />
+    <Content Include="UploadFPCSchedule.aspx" />
+    <Content Include="Masters\CompanyDetails.aspx" />
+    <Content Include="Masters\CompanyMaster.aspx" />
+    <Content Include="Admin\ChannelRegionalMaster.aspx" />
+    <Content Include="Masters\ValidateEPG.aspx" />
+    <Content Include="Masters\GenreMaster.aspx" />
+    <Content Include="Masters\LanguageMaster.aspx" />
+    <Content Include="Masters\RatingsMaster.aspx" />
+    <Content Include="Masters\SubGenreMaster.aspx" />
+    <Content Include="Styles\Site.css" />
+    <Content Include="Global.asax" />
+    <Content Include="Styles\styles.css" />
+    <Content Include="UploadSchedules\UploadSchedule.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="ViewEPG.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.aspx.designer.vb">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="About.aspx.vb">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\ChangePassword.aspx.designer.vb">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\ChangePassword.aspx.vb">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\ForgotPassword.aspx.designer.vb">
+      <DependentUpon>ForgotPassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\ForgotPassword.aspx.vb">
+      <DependentUpon>ForgotPassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\login.aspx.designer.vb">
+      <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\login.aspx.vb">
+      <DependentUpon>login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\reset.aspx.designer.vb">
+      <DependentUpon>reset.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\reset.aspx.vb">
+      <DependentUpon>reset.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\SiteAccount.Master.designer.vb">
+      <DependentUpon>SiteAccount.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Account\SiteAccount.Master.vb">
+      <DependentUpon>SiteAccount.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\ChannelMaster_WOI.aspx.designer.vb">
+      <DependentUpon>ChannelMaster_WOI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ChannelMaster_WOI.aspx.vb">
+      <DependentUpon>ChannelMaster_WOI.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\DVBSubGenreMapping.aspx.designer.vb">
+      <DependentUpon>DVBSubGenreMapping.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\DVBSubGenreMapping.aspx.vb">
+      <DependentUpon>DVBSubGenreMapping.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\DVBGenreMapping.aspx.designer.vb">
+      <DependentUpon>DVBGenreMapping.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\DVBGenreMapping.aspx.vb">
+      <DependentUpon>DVBGenreMapping.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\Default.aspx.designer.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\Default.aspx.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\SiteAdmin.Master.designer.vb">
+      <DependentUpon>SiteAdmin.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\SiteAdmin.Master.vb">
+      <DependentUpon>SiteAdmin.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\UserMaster.aspx.designer.vb">
+      <DependentUpon>UserMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\UserMaster.aspx.vb">
+      <DependentUpon>UserMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="API\ch21.aspx.designer.vb">
+      <DependentUpon>ch21.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="API\ch21.aspx.vb">
+      <DependentUpon>ch21.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="API\rich21.aspx.designer.vb">
+      <DependentUpon>rich21.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="API\rich21.aspx.vb">
+      <DependentUpon>rich21.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="API\prgreg21.aspx.designer.vb">
+      <DependentUpon>prgreg21.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="API\prgreg21.aspx.vb">
+      <DependentUpon>prgreg21.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="API\prg21.aspx.designer.vb">
+      <DependentUpon>prg21.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="API\prg21.aspx.vb">
+      <DependentUpon>prg21.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="API\epgservicesinglerich.aspx.designer.vb">
+      <DependentUpon>epgservicesinglerich.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="API\epgservicesinglerich.aspx.vb">
+      <DependentUpon>epgservicesinglerich.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="API\epgserviceairtel.aspx.designer.vb">
+      <DependentUpon>epgserviceairtel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="API\epgserviceairtel.aspx.vb">
+      <DependentUpon>epgserviceairtel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="API\epgservicesingle.aspx.designer.vb">
+      <DependentUpon>epgservicesingle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="API\epgservicesingle.aspx.vb">
+      <DependentUpon>epgservicesingle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="API\epgserviceregional.aspx.designer.vb">
+      <DependentUpon>epgserviceregional.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="API\epgserviceregional.aspx.vb">
+      <DependentUpon>epgserviceregional.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="API\epgservicerich.aspx.designer.vb">
+      <DependentUpon>epgservicerich.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="API\epgservicerich.aspx.vb">
+      <DependentUpon>epgservicerich.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="API\epgservice.aspx.designer.vb">
+      <DependentUpon>epgservice.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="API\epgservice.aspx.vb">
+      <DependentUpon>epgservice.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="APIClient\default.aspx.designer.vb">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="APIClient\default.aspx.vb">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Fox\Fox_AddMetadata.aspx.designer.vb">
+      <DependentUpon>Fox_AddMetadata.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Fox\Fox_AddMetadata.aspx.vb">
+      <DependentUpon>Fox_AddMetadata.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Fox\Fox_Update_data.aspx.designer.vb">
+      <DependentUpon>Fox_Update_data.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Fox\Fox_Update_data.aspx.vb">
+      <DependentUpon>Fox_Update_data.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Fox\UploadScheduleFox.aspx.designer.vb">
+      <DependentUpon>UploadScheduleFox.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Fox\UploadScheduleFox.aspx.vb">
+      <DependentUpon>UploadScheduleFox.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Masters\UpdatePPV1.aspx.designer.vb">
+      <DependentUpon>UpdatePPV1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\UpdatePPV1.aspx.vb">
+      <DependentUpon>UpdatePPV1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\UpdatePPV1_new.aspx.designer.vb">
+      <DependentUpon>UpdatePPV1_new.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\UpdatePPV1_new.aspx.vb">
+      <DependentUpon>UpdatePPV1_new.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\ProgramDiscrepancyNewHex.aspx.designer.vb">
+      <DependentUpon>ProgramDiscrepancyNewHex.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\ProgramDiscrepancyNewHex.aspx.vb">
+      <DependentUpon>ProgramDiscrepancyNewHex.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="RichMeta\verifyrichchannels.aspx.designer.vb">
+      <DependentUpon>verifyrichchannels.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RichMeta\verifyrichchannels.aspx.vb">
+      <DependentUpon>verifyrichchannels.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RichMeta\viewlinks.aspx.designer.vb">
+      <DependentUpon>viewlinks.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RichMeta\viewlinks.aspx.vb">
+      <DependentUpon>viewlinks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RichMeta\SiteRichLess.Master.designer.vb">
+      <DependentUpon>SiteRichLess.Master</DependentUpon>
+    </Compile>
+    <Compile Include="RichMeta\SiteRichLess.Master.vb">
+      <DependentUpon>SiteRichLess.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RichMeta\viewrich.aspx.designer.vb">
+      <DependentUpon>viewrich.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RichMeta\viewrich.aspx.vb">
+      <DependentUpon>viewrich.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UploadSchedules\FPC_EPG_Auto.aspx.designer.vb">
+      <DependentUpon>FPC_EPG_Auto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadSchedules\FPC_EPG_Auto.aspx.vb">
+      <DependentUpon>FPC_EPG_Auto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Verify\Default.aspx.designer.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Verify\Default.aspx.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Verify\program.aspx.designer.vb">
+      <DependentUpon>program.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Verify\program.aspx.vb">
+      <DependentUpon>program.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Verify\channel.aspx.designer.vb">
+      <DependentUpon>channel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Verify\channel.aspx.vb">
+      <DependentUpon>channel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Verify\SiteVerify.Master.designer.vb">
+      <DependentUpon>SiteVerify.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Verify\SiteVerify.Master.vb">
+      <DependentUpon>SiteVerify.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImagesReport\ScriptImagesReport.aspx.designer.vb">
+      <DependentUpon>ScriptImagesReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImagesReport\ScriptImagesReport.aspx.vb">
+      <DependentUpon>ScriptImagesReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImagesReport\UploadChannelLogosSquare.aspx.designer.vb">
+      <DependentUpon>UploadChannelLogosSquare.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImagesReport\UploadChannelLogosSquare.aspx.vb">
+      <DependentUpon>UploadChannelLogosSquare.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImagesReport\ReportImages.aspx.designer.vb">
+      <DependentUpon>ReportImages.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImagesReport\ReportImages.aspx.vb">
+      <DependentUpon>ReportImages.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImagesReport\rptImagesMissingDateWise.aspx.designer.vb">
+      <DependentUpon>rptImagesMissingDateWise.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImagesReport\rptImagesMissingDateWise.aspx.vb">
+      <DependentUpon>rptImagesMissingDateWise.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\PCEpiSearch.aspx.designer.vb">
+      <DependentUpon>PCEpiSearch.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\PCEpiSearch.aspx.vb">
+      <DependentUpon>PCEpiSearch.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RichMeta\uploadmissing.aspx.designer.vb">
+      <DependentUpon>uploadmissing.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RichMeta\uploadmissing.aspx.vb">
+      <DependentUpon>uploadmissing.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RichMeta\richlinkmissing.aspx.designer.vb">
+      <DependentUpon>richlinkmissing.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RichMeta\richlinkmissing.aspx.vb">
+      <DependentUpon>richlinkmissing.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RichMeta\verifyrichmeta.aspx.designer.vb">
+      <DependentUpon>verifyrichmeta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RichMeta\verifyrichmeta.aspx.vb">
+      <DependentUpon>verifyrichmeta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RichMeta\Default.aspx.designer.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RichMeta\Default.aspx.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="RichMeta\richmeta.aspx.designer.vb">
+      <DependentUpon>richmeta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RichMeta\richmeta.aspx.vb">
+      <DependentUpon>richmeta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RichMeta\SiteRich.Master.designer.vb">
+      <DependentUpon>SiteRich.Master</DependentUpon>
+    </Compile>
+    <Compile Include="RichMeta\SiteRich.Master.vb">
+      <DependentUpon>SiteRich.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="serveimage\defaultRoute.aspx.designer.vb">
+      <DependentUpon>defaultRoute.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="serveimage\defaultRoute.aspx.vb">
+      <DependentUpon>defaultRoute.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="serveimage\default.aspx.designer.vb">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="serveimage\default.aspx.vb">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="API\fpcconverted.aspx.designer.vb">
+      <DependentUpon>fpcconverted.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="API\fpcconverted.aspx.vb">
+      <DependentUpon>fpcconverted.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="API\fpcscript.aspx.designer.vb">
+      <DependentUpon>fpcscript.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="API\fpcscript.aspx.vb">
+      <DependentUpon>fpcscript.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="API\fpcstatus.aspx.designer.vb">
+      <DependentUpon>fpcstatus.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="API\fpcstatus.aspx.vb">
+      <DependentUpon>fpcstatus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="API\fpcauto.aspx.designer.vb">
+      <DependentUpon>fpcauto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="API\fpcauto.aspx.vb">
+      <DependentUpon>fpcauto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="class\clsEPGService.vb" />
+    <Compile Include="class\FrameWorkConst.vb" />
+    <Compile Include="DTHCable\CRM\ContactDetails.aspx.designer.vb">
+      <DependentUpon>ContactDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DTHCable\CRM\ContactDetails.aspx.vb">
+      <DependentUpon>ContactDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DTHCable\CRM\Deals.aspx.designer.vb">
+      <DependentUpon>Deals.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DTHCable\CRM\Deals.aspx.vb">
+      <DependentUpon>Deals.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DTHCable\CRM\Default.aspx.designer.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DTHCable\CRM\Default.aspx.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DTHCable\CRM\StatusUpdate.aspx.designer.vb">
+      <DependentUpon>StatusUpdate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DTHCable\CRM\StatusUpdate.aspx.vb">
+      <DependentUpon>StatusUpdate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DTHCable\Msotrack.aspx.designer.vb">
+      <DependentUpon>Msotrack.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DTHCable\Msotrack.aspx.vb">
+      <DependentUpon>Msotrack.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImagesReport\CopyProgrammeLogosPortrait.aspx.designer.vb">
+      <DependentUpon>CopyProgrammeLogosPortrait.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImagesReport\CopyProgrammeLogosPortrait.aspx.vb">
+      <DependentUpon>CopyProgrammeLogosPortrait.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImagesReport\UploadChannelLogos160x90.aspx.designer.vb">
+      <DependentUpon>UploadChannelLogos160x90.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImagesReport\UploadChannelLogos160x90.aspx.vb">
+      <DependentUpon>UploadChannelLogos160x90.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImagesReport\ProgrammeLogosPortrait.aspx.designer.vb">
+      <DependentUpon>ProgrammeLogosPortrait.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImagesReport\ProgrammeLogosPortrait.aspx.vb">
+      <DependentUpon>ProgrammeLogosPortrait.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImagesReport\rptTabletImages.aspx.designer.vb">
+      <DependentUpon>rptTabletImages.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImagesReport\rptTabletImages.aspx.vb">
+      <DependentUpon>rptTabletImages.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MailerReports\ChannelsBuiltToday.aspx.designer.vb">
+      <DependentUpon>ChannelsBuiltToday.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MailerReports\ChannelsBuiltToday.aspx.vb">
+      <DependentUpon>ChannelsBuiltToday.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\EditProgNameEpisodic7.aspx.designer.vb">
+      <DependentUpon>EditProgNameEpisodic7.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\EditProgNameEpisodic7.aspx.vb">
+      <DependentUpon>EditProgNameEpisodic7.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\ProgramCentralEditEpisodic7.aspx.designer.vb">
+      <DependentUpon>ProgramCentralEditEpisodic7.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\ProgramCentralEditEpisodic7.aspx.vb">
+      <DependentUpon>ProgramCentralEditEpisodic7.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MyReports\StarMonitorChecks.aspx.designer.vb">
+      <DependentUpon>StarMonitorChecks.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MyReports\StarMonitorChecks.aspx.vb">
+      <DependentUpon>StarMonitorChecks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MailerReports\ImagesUploadedToday.aspx.designer.vb">
+      <DependentUpon>ImagesUploadedToday.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MailerReports\ImagesUploadedToday.aspx.vb">
+      <DependentUpon>ImagesUploadedToday.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\ImportTransliteration.aspx.designer.vb">
+      <DependentUpon>ImportTransliteration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\ImportTransliteration.aspx.vb">
+      <DependentUpon>ImportTransliteration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\TranslatedFiles.aspx.designer.vb">
+      <DependentUpon>TranslatedFiles.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\TranslatedFiles.aspx.vb">
+      <DependentUpon>TranslatedFiles.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\EditProgName7.aspx.designer.vb">
+      <DependentUpon>EditProgName7.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\EditProgName7.aspx.vb">
+      <DependentUpon>EditProgName7.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\ProgramCentralEdit7.aspx.designer.vb">
+      <DependentUpon>ProgramCentralEdit7.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\ProgramCentralEdit7.aspx.vb">
+      <DependentUpon>ProgramCentralEdit7.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MyReports\Ban_Kan_Prog_Missing.aspx.designer.vb">
+      <DependentUpon>Ban_Kan_Prog_Missing.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MyReports\Ban_Kan_Prog_Missing.aspx.vb">
+      <DependentUpon>Ban_Kan_Prog_Missing.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Star\ConsolidatedReport.aspx.designer.vb">
+      <DependentUpon>ConsolidatedReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Star\ConsolidatedReport.aspx.vb">
+      <DependentUpon>ConsolidatedReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Star\ChannelSummary.aspx.designer.vb">
+      <DependentUpon>ChannelSummary.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Star\ChannelSummary.aspx.vb">
+      <DependentUpon>ChannelSummary.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MailerReports\StarManualMailAlerts.aspx.designer.vb">
+      <DependentUpon>StarManualMailAlerts.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MailerReports\StarManualMailAlerts.aspx.vb">
+      <DependentUpon>StarManualMailAlerts.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Star\MailsReceivedDashboard.aspx.designer.vb">
+      <DependentUpon>MailsReceivedDashboard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Star\MailsReceivedDashboard.aspx.vb">
+      <DependentUpon>MailsReceivedDashboard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Star\MailsReceived.aspx.designer.vb">
+      <DependentUpon>MailsReceived.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Star\MailsReceived.aspx.vb">
+      <DependentUpon>MailsReceived.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Star\MailsReceivedFilter.aspx.designer.vb">
+      <DependentUpon>MailsReceivedFilter.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Star\MailsReceivedFilter.aspx.vb">
+      <DependentUpon>MailsReceivedFilter.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Star\FPC_Manual_Generate.aspx.designer.vb">
+      <DependentUpon>FPC_Manual_Generate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Star\FPC_Manual_Generate.aspx.vb">
+      <DependentUpon>FPC_Manual_Generate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Star\starViewHighLights.aspx.designer.vb">
+      <DependentUpon>starViewHighLights.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Star\starViewHighLights.aspx.vb">
+      <DependentUpon>starViewHighLights.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Star\starHighlights.aspx.designer.vb">
+      <DependentUpon>starHighlights.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Star\starHighlights.aspx.vb">
+      <DependentUpon>starHighlights.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Star\TrackingReport.aspx.designer.vb">
+      <DependentUpon>TrackingReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Star\TrackingReport.aspx.vb">
+      <DependentUpon>TrackingReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Star\FPC_Distribution_Report.aspx.designer.vb">
+      <DependentUpon>FPC_Distribution_Report.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Star\FPC_Distribution_Report.aspx.vb">
+      <DependentUpon>FPC_Distribution_Report.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Star\FPC_Distribution_Channels.aspx.designer.vb">
+      <DependentUpon>FPC_Distribution_Channels.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Star\FPC_Distribution_Channels.aspx.vb">
+      <DependentUpon>FPC_Distribution_Channels.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Star\FPC_Distribution.aspx.designer.vb">
+      <DependentUpon>FPC_Distribution.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Star\FPC_Distribution.aspx.vb">
+      <DependentUpon>FPC_Distribution.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Star\Default.aspx.designer.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Star\Default.aspx.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Star\ProgramEpisodicEdit.aspx.designer.vb">
+      <DependentUpon>ProgramEpisodicEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Star\ProgramEpisodicEdit.aspx.vb">
+      <DependentUpon>ProgramEpisodicEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Star\ProgramEpisodic.aspx.designer.vb">
+      <DependentUpon>ProgramEpisodic.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Star\ProgramEpisodic.aspx.vb">
+      <DependentUpon>ProgramEpisodic.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Star\SiteStar.Master.designer.vb">
+      <DependentUpon>SiteStar.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Star\SiteStar.Master.vb">
+      <DependentUpon>SiteStar.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="testJSON.aspx.designer.vb">
+      <DependentUpon>testJSON.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="testJSON.aspx.vb">
+      <DependentUpon>testJSON.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="API\XML21.aspx.designer.vb">
+      <DependentUpon>XML21.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="API\XML21.aspx.vb">
+      <DependentUpon>XML21.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="API\ep21.aspx.designer.vb">
+      <DependentUpon>ep21.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="API\ep21.aspx.vb">
+      <DependentUpon>ep21.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BuilEPGTransactions.aspx.designer.vb">
+      <DependentUpon>BuilEPGTransactions.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BuilEPGTransactions.aspx.vb">
+      <DependentUpon>BuilEPGTransactions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="class\clsExecute.vb" />
+    <Compile Include="class\clsLabel.vb" />
+    <Compile Include="class\clsUploadModules.vb" />
+    <Compile Include="class\clsCMS.vb" />
+    <Compile Include="class\clsFTP.vb" />
+    <Compile Include="class\getImage.vb" />
+    <Compile Include="class\TranslateFromGoogle.vb" />
+    <Compile Include="CMS\CMSTvStarProgMapping.aspx.designer.vb">
+      <DependentUpon>CMSTvStarProgMapping.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\CMSTvStarProgMapping.aspx.vb">
+      <DependentUpon>CMSTvStarProgMapping.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\CMSyouTubeChannelMaster.aspx.designer.vb">
+      <DependentUpon>CMSyouTubeChannelMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\CMSyouTubeChannelMaster.aspx.vb">
+      <DependentUpon>CMSyouTubeChannelMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\CMSyouTubeVideos.aspx.designer.vb">
+      <DependentUpon>CMSyouTubeVideos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\CMSyouTubeVideos.aspx.vb">
+      <DependentUpon>CMSyouTubeVideos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\CMSTvStarMapping.aspx.designer.vb">
+      <DependentUpon>CMSTvStarMapping.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\CMSTvStarMapping.aspx.vb">
+      <DependentUpon>CMSTvStarMapping.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\CMSVODPlatformMaster.aspx.designer.vb">
+      <DependentUpon>CMSVODPlatformMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\CMSVODPlatformMaster.aspx.vb">
+      <DependentUpon>CMSVODPlatformMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\CMSVODTVShows.aspx.designer.vb">
+      <DependentUpon>CMSVODTVShows.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\CMSVODTVShows.aspx.vb">
+      <DependentUpon>CMSVODTVShows.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\CMSVODMovies.aspx.designer.vb">
+      <DependentUpon>CMSVODMovies.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\CMSVODMovies.aspx.vb">
+      <DependentUpon>CMSVODMovies.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\CMSTvStarDashBoard.aspx.designer.vb">
+      <DependentUpon>CMSTvStarDashBoard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\CMSTvStarDashBoard.aspx.vb">
+      <DependentUpon>CMSTvStarDashBoard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\Banners.aspx.designer.vb">
+      <DependentUpon>Banners.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\Banners.aspx.vb">
+      <DependentUpon>Banners.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\AppScreens.aspx.designer.vb">
+      <DependentUpon>AppScreens.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\AppScreens.aspx.vb">
+      <DependentUpon>AppScreens.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\CelebrityRegional.aspx.designer.vb">
+      <DependentUpon>CelebrityRegional.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\CelebrityRegional.aspx.vb">
+      <DependentUpon>CelebrityRegional.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\CMSyouTubeVideos_NoProgid.aspx.designer.vb">
+      <DependentUpon>CMSyouTubeVideos_NoProgid.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\CMSyouTubeVideos_NoProgid.aspx.vb">
+      <DependentUpon>CMSyouTubeVideos_NoProgid.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\NotificationsUpcoming.aspx.designer.vb">
+      <DependentUpon>NotificationsUpcoming.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\NotificationsUpcoming.aspx.vb">
+      <DependentUpon>NotificationsUpcoming.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\UreqaSynopsis.aspx.designer.vb">
+      <DependentUpon>UreqaSynopsis.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\UreqaSynopsis.aspx.vb">
+      <DependentUpon>UreqaSynopsis.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\notificationSelectProg.aspx.designer.vb">
+      <DependentUpon>notificationSelectProg.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\notificationSelectProg.aspx.vb">
+      <DependentUpon>notificationSelectProg.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DTHCable\LabelHandler.ashx.vb">
+      <DependentUpon>LabelHandler.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="DTHCable\LabelPrint.aspx.designer.vb">
+      <DependentUpon>LabelPrint.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DTHCable\LabelPrint.aspx.vb">
+      <DependentUpon>LabelPrint.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImagesReport\CopyProgrammeLogos.aspx.designer.vb">
+      <DependentUpon>CopyProgrammeLogos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImagesReport\CopyProgrammeLogos.aspx.vb">
+      <DependentUpon>CopyProgrammeLogos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\highlightsDialog.aspx.designer.vb">
+      <DependentUpon>highlightsDialog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\highlightsDialog.aspx.vb">
+      <DependentUpon>highlightsDialog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\SonyLiv.aspx.designer.vb">
+      <DependentUpon>SonyLiv.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\SonyLiv.aspx.vb">
+      <DependentUpon>SonyLiv.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\Notifications.aspx.designer.vb">
+      <DependentUpon>Notifications.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\Notifications.aspx.vb">
+      <DependentUpon>Notifications.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\FavouriteStars.aspx.designer.vb">
+      <DependentUpon>FavouriteStars.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\FavouriteStars.aspx.vb">
+      <DependentUpon>FavouriteStars.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\PrimeTimeMovieCMS.aspx.designer.vb">
+      <DependentUpon>PrimeTimeMovieCMS.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\PrimeTimeMovieCMS.aspx.vb">
+      <DependentUpon>PrimeTimeMovieCMS.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\ViewHighlightsDialog.aspx.designer.vb">
+      <DependentUpon>ViewHighlightsDialog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\ViewHighlightsDialog.aspx.vb">
+      <DependentUpon>ViewHighlightsDialog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\ViewHighlights.aspx.designer.vb">
+      <DependentUpon>ViewHighlights.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\ViewHighlights.aspx.vb">
+      <DependentUpon>ViewHighlights.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\highlights.aspx.designer.vb">
+      <DependentUpon>highlights.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\highlights.aspx.vb">
+      <DependentUpon>highlights.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\serviceExecute.aspx.designer.vb">
+      <DependentUpon>serviceExecute.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\serviceExecute.aspx.vb">
+      <DependentUpon>serviceExecute.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImagesReport\MovieLogos.aspx.designer.vb">
+      <DependentUpon>MovieLogos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImagesReport\MovieLogos.aspx.vb">
+      <DependentUpon>MovieLogos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\TvStarDetails.aspx.designer.vb">
+      <DependentUpon>TvStarDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\TvStarDetails.aspx.vb">
+      <DependentUpon>TvStarDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImagesReport\ProgrammeLogos.aspx.designer.vb">
+      <DependentUpon>ProgrammeLogos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImagesReport\ProgrammeLogos.aspx.vb">
+      <DependentUpon>ProgrammeLogos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\ViewPicGallery.aspx.designer.vb">
+      <DependentUpon>ViewPicGallery.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\ViewPicGallery.aspx.vb">
+      <DependentUpon>ViewPicGallery.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\PicGallery.aspx.designer.vb">
+      <DependentUpon>PicGallery.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\PicGallery.aspx.vb">
+      <DependentUpon>PicGallery.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\PicGalleryDescription.aspx.designer.vb">
+      <DependentUpon>PicGalleryDescription.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\PicGalleryDescription.aspx.vb">
+      <DependentUpon>PicGalleryDescription.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\PicGalleryMaster.aspx.designer.vb">
+      <DependentUpon>PicGalleryMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\PicGalleryMaster.aspx.vb">
+      <DependentUpon>PicGalleryMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\PicGalleryCategoryMaster.aspx.designer.vb">
+      <DependentUpon>PicGalleryCategoryMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\PicGalleryCategoryMaster.aspx.vb">
+      <DependentUpon>PicGalleryCategoryMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\TvStarMaster.aspx.designer.vb">
+      <DependentUpon>TvStarMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\TvStarMaster.aspx.vb">
+      <DependentUpon>TvStarMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\Default.aspx.designer.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\Default.aspx.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BuilEPGTransactionsSummary.aspx.designer.vb">
+      <DependentUpon>BuilEPGTransactionsSummary.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BuilEPGTransactionsSummary.aspx.vb">
+      <DependentUpon>BuilEPGTransactionsSummary.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DTHCable\AppNo.aspx.designer.vb">
+      <DependentUpon>AppNo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DTHCable\AppNo.aspx.vb">
+      <DependentUpon>AppNo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DTHCable\Default.aspx.designer.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DTHCable\Default.aspx.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DTHCable\FileSamples.aspx.designer.vb">
+      <DependentUpon>FileSamples.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DTHCable\FileSamples.aspx.vb">
+      <DependentUpon>FileSamples.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DTHCable\OperatorChannels.aspx.designer.vb">
+      <DependentUpon>OperatorChannels.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DTHCable\OperatorChannels.aspx.vb">
+      <DependentUpon>OperatorChannels.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DTHCable\OperatorDetails.aspx.designer.vb">
+      <DependentUpon>OperatorDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DTHCable\OperatorDetails.aspx.vb">
+      <DependentUpon>OperatorDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DTHCable\ProcessTask.aspx.designer.vb">
+      <DependentUpon>ProcessTask.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DTHCable\ProcessTask.aspx.vb">
+      <DependentUpon>ProcessTask.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DTHCable\SiteDTH.Master.designer.vb">
+      <DependentUpon>SiteDTH.Master</DependentUpon>
+    </Compile>
+    <Compile Include="DTHCable\SiteDTH.Master.vb">
+      <DependentUpon>SiteDTH.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MailerReports\ProgramLogoMissing.aspx.designer.vb">
+      <DependentUpon>ProgramLogoMissing.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MailerReports\ProgramLogoMissing.aspx.vb">
+      <DependentUpon>ProgramLogoMissing.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MailerReports\DuplicateMoviesDetails.aspx.designer.vb">
+      <DependentUpon>DuplicateMoviesDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MailerReports\DuplicateMoviesDetails.aspx.vb">
+      <DependentUpon>DuplicateMoviesDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MailerReports\AirtelMissingInfo.aspx.designer.vb">
+      <DependentUpon>AirtelMissingInfo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MailerReports\AirtelMissingInfo.aspx.vb">
+      <DependentUpon>AirtelMissingInfo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MailerReports\EPGDueforAirtel.aspx.designer.vb">
+      <DependentUpon>EPGDueforAirtel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MailerReports\EPGDueforAirtel.aspx.vb">
+      <DependentUpon>EPGDueforAirtel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MailerReports\GenerateAndFTPXML.aspx.designer.vb">
+      <DependentUpon>GenerateAndFTPXML.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MailerReports\GenerateAndFTPXML.aspx.vb">
+      <DependentUpon>GenerateAndFTPXML.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\DummyEPGProcess.aspx.designer.vb">
+      <DependentUpon>DummyEPGProcess.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\DummyEPGProcess.aspx.vb">
+      <DependentUpon>DummyEPGProcess.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\DummyEPGChannels.aspx.designer.vb">
+      <DependentUpon>DummyEPGChannels.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\DummyEPGChannels.aspx.vb">
+      <DependentUpon>DummyEPGChannels.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\DummyEPGCopy.aspx.designer.vb">
+      <DependentUpon>DummyEPGCopy.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\DummyEPGCopy.aspx.vb">
+      <DependentUpon>DummyEPGCopy.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MyReports\EPGSentMSO.aspx.designer.vb">
+      <DependentUpon>EPGSentMSO.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MyReports\EPGSentMSO.aspx.vb">
+      <DependentUpon>EPGSentMSO.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImagesReport\rptDhiraaguImages.aspx.designer.vb">
+      <DependentUpon>rptDhiraaguImages.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImagesReport\rptDhiraaguImages.aspx.vb">
+      <DependentUpon>rptDhiraaguImages.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Discrepancy\GenreMismatch.aspx.designer.vb">
+      <DependentUpon>GenreMismatch.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Discrepancy\GenreMismatch.aspx.vb">
+      <DependentUpon>GenreMismatch.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\DeleteEPGData.aspx.designer.vb">
+      <DependentUpon>DeleteEPGData.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\DeleteEPGData.aspx.vb">
+      <DependentUpon>DeleteEPGData.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\ChannelRename.aspx.designer.vb">
+      <DependentUpon>ChannelRename.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\ChannelRename.aspx.vb">
+      <DependentUpon>ChannelRename.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\DuplicateMovieMaster.aspx.designer.vb">
+      <DependentUpon>DuplicateMovieMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\DuplicateMovieMaster.aspx.vb">
+      <DependentUpon>DuplicateMovieMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\MapParentProgid.aspx.designer.vb">
+      <DependentUpon>MapParentProgid.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\MapParentProgid.aspx.vb">
+      <DependentUpon>MapParentProgid.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\ProgramReport.aspx.designer.vb">
+      <DependentUpon>ProgramReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\ProgramReport.aspx.vb">
+      <DependentUpon>ProgramReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MyReports\OperatorChannels.aspx.designer.vb">
+      <DependentUpon>OperatorChannels.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MyReports\OperatorChannels.aspx.vb">
+      <DependentUpon>OperatorChannels.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MyReports\OtherGenreReport.aspx.designer.vb">
+      <DependentUpon>OtherGenreReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MyReports\OtherGenreReport.aspx.vb">
+      <DependentUpon>OtherGenreReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MyReports\FreshXMLsPending.aspx.designer.vb">
+      <DependentUpon>FreshXMLsPending.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MyReports\FreshXMLsPending.aspx.vb">
+      <DependentUpon>FreshXMLsPending.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reports\uploadExcelImportError.aspx.designer.vb">
+      <DependentUpon>uploadExcelImportError.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\uploadExcelImportError.aspx.vb">
+      <DependentUpon>uploadExcelImportError.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reports\GraphReportH.aspx.designer.vb">
+      <DependentUpon>GraphReportH.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\GraphReportH.aspx.vb">
+      <DependentUpon>GraphReportH.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MyReports\rptParentProgidRequired.aspx.designer.vb">
+      <DependentUpon>rptParentProgidRequired.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MyReports\rptParentProgidRequired.aspx.vb">
+      <DependentUpon>rptParentProgidRequired.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImagesReport\rptYuppMovieImages.aspx.designer.vb">
+      <DependentUpon>rptYuppMovieImages.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImagesReport\rptYuppMovieImages.aspx.vb">
+      <DependentUpon>rptYuppMovieImages.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule_Entertainment.aspx.designer.vb">
+      <DependentUpon>UploadSchedule_Entertainment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule_Entertainment.aspx.vb">
+      <DependentUpon>UploadSchedule_Entertainment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule_Movies.aspx.designer.vb">
+      <DependentUpon>UploadSchedule_Movies.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule_Movies.aspx.vb">
+      <DependentUpon>UploadSchedule_Movies.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule_Sports.aspx.designer.vb">
+      <DependentUpon>UploadSchedule_Sports.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule_Sports.aspx.vb">
+      <DependentUpon>UploadSchedule_Sports.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule_epi_ngc.aspx.designer.vb">
+      <DependentUpon>UploadSchedule_epi_ngc.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule_epi_ngc.aspx.vb">
+      <DependentUpon>UploadSchedule_epi_ngc.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule_10_star.aspx.designer.vb">
+      <DependentUpon>UploadSchedule_10_star.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule_10_star.aspx.vb">
+      <DependentUpon>UploadSchedule_10_star.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule9_TimeZone.aspx.designer.vb">
+      <DependentUpon>UploadSchedule9_TimeZone.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule9_TimeZone.aspx.vb">
+      <DependentUpon>UploadSchedule9_TimeZone.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule8_SP.aspx.designer.vb">
+      <DependentUpon>UploadSchedule8_SP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule8_SP.aspx.vb">
+      <DependentUpon>UploadSchedule8_SP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule4WOI_Epi.aspx.designer.vb">
+      <DependentUpon>UploadSchedule4WOI_Epi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule4WOI_Epi.aspx.vb">
+      <DependentUpon>UploadSchedule4WOI_Epi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UploadSchedules\ProcessTaskEpi.aspx.designer.vb">
+      <DependentUpon>ProcessTaskEpi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadSchedules\ProcessTaskEpi.aspx.vb">
+      <DependentUpon>ProcessTaskEpi.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule_Epi.aspx.designer.vb">
+      <DependentUpon>UploadSchedule_Epi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule_Epi.aspx.vb">
+      <DependentUpon>UploadSchedule_Epi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UploadSchedules\ProcessTask.aspx.designer.vb">
+      <DependentUpon>ProcessTask.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadSchedules\ProcessTask.aspx.vb">
+      <DependentUpon>ProcessTask.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule5Zee_new.aspx.designer.vb">
+      <DependentUpon>UploadSchedule5Zee_new.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule5Zee_new.aspx.vb">
+      <DependentUpon>UploadSchedule5Zee_new.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="SiteVisionAsia.Master.designer.vb">
+      <DependentUpon>SiteVisionAsia.Master</DependentUpon>
+    </Compile>
+    <Compile Include="SiteVisionAsia.Master.vb">
+      <DependentUpon>SiteVisionAsia.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule_New.aspx.designer.vb">
+      <DependentUpon>UploadSchedule_New.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule_New.aspx.vb">
+      <DependentUpon>UploadSchedule_New.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VisionAsia\Default.aspx.designer.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VisionAsia\Default.aspx.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MyReports\CatchupPrograms.aspx.designer.vb">
+      <DependentUpon>CatchupPrograms.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MyReports\CatchupPrograms.aspx.vb">
+      <DependentUpon>CatchupPrograms.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule4WOITest.aspx.designer.vb">
+      <DependentUpon>UploadSchedule4WOITest.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule4WOITest.aspx.vb">
+      <DependentUpon>UploadSchedule4WOITest.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="EPGLight\EPGLightMovieLogos.aspx.designer.vb">
+      <DependentUpon>EPGLightMovieLogos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EPGLight\EPGLightMovieLogos.aspx.vb">
+      <DependentUpon>EPGLightMovieLogos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Discrepancy\EditSynopsisFrom.aspx.designer.vb">
+      <DependentUpon>EditSynopsisFrom.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Discrepancy\EditSynopsisFrom.aspx.vb">
+      <DependentUpon>EditSynopsisFrom.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Discrepancy\SynopsisFrom.aspx.designer.vb">
+      <DependentUpon>SynopsisFrom.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Discrepancy\SynopsisFrom.aspx.vb">
+      <DependentUpon>SynopsisFrom.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MarkAsTeleshopping.aspx.designer.vb">
+      <DependentUpon>MarkAsTeleshopping.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MarkAsTeleshopping.aspx.vb">
+      <DependentUpon>MarkAsTeleshopping.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="CMS\EditTVStarDashboard.aspx.designer.vb">
+      <DependentUpon>EditTVStarDashboard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\EditTVStarDashboard.aspx.vb">
+      <DependentUpon>EditTVStarDashboard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\RemoveDuplicateProgrammes.aspx.designer.vb">
+      <DependentUpon>RemoveDuplicateProgrammes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\RemoveDuplicateProgrammes.aspx.vb">
+      <DependentUpon>RemoveDuplicateProgrammes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\viewProgTVStars.aspx.designer.vb">
+      <DependentUpon>viewProgTVStars.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\viewProgTVStars.aspx.vb">
+      <DependentUpon>viewProgTVStars.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\TVStarDiscrepancy.aspx.designer.vb">
+      <DependentUpon>TVStarDiscrepancy.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\TVStarDiscrepancy.aspx.vb">
+      <DependentUpon>TVStarDiscrepancy.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Masters\ProgramDiscrepancyImportNew.aspx.designer.vb">
+      <DependentUpon>ProgramDiscrepancyImportNew.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\ProgramDiscrepancyImportNew.aspx.vb">
+      <DependentUpon>ProgramDiscrepancyImportNew.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\ProgramDiscrepancyNew.aspx.designer.vb">
+      <DependentUpon>ProgramDiscrepancyNew.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\ProgramDiscrepancyNew.aspx.vb">
+      <DependentUpon>ProgramDiscrepancyNew.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="MyReports\ChannelOperators.aspx.designer.vb">
+      <DependentUpon>ChannelOperators.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MyReports\ChannelOperators.aspx.vb">
+      <DependentUpon>ChannelOperators.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MyReports\ProgrammesEditedAfterXMLGeneration.aspx.designer.vb">
+      <DependentUpon>ProgrammesEditedAfterXMLGeneration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MyReports\ProgrammesEditedAfterXMLGeneration.aspx.vb">
+      <DependentUpon>ProgrammesEditedAfterXMLGeneration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MyReports\ProgramImagesUploaded.aspx.designer.vb">
+      <DependentUpon>ProgramImagesUploaded.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MyReports\ProgramImagesUploaded.aspx.vb">
+      <DependentUpon>ProgramImagesUploaded.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MyReports\MissingInfoOnChannels.aspx.designer.vb">
+      <DependentUpon>MissingInfoOnChannels.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MyReports\MissingInfoOnChannels.aspx.vb">
+      <DependentUpon>MissingInfoOnChannels.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reports\Default.aspx.designer.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Default.aspx.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reports\GraphReport.aspx.designer.vb">
+      <DependentUpon>GraphReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\GraphReport.aspx.vb">
+      <DependentUpon>GraphReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reports\uploadExcel.aspx.designer.vb">
+      <DependentUpon>uploadExcel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\uploadExcel.aspx.vb">
+      <DependentUpon>uploadExcel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MyReports\ShowTimings.aspx.designer.vb">
+      <DependentUpon>ShowTimings.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MyReports\ShowTimings.aspx.vb">
+      <DependentUpon>ShowTimings.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImagesReport\ShowMovieSched.aspx.designer.vb">
+      <DependentUpon>ShowMovieSched.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImagesReport\ShowMovieSched.aspx.vb">
+      <DependentUpon>ShowMovieSched.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SiteEPGBootStrap.Master.designer.vb">
+      <DependentUpon>SiteEPGBootStrap.Master</DependentUpon>
+    </Compile>
+    <Compile Include="SiteEPGBootStrap.Master.vb">
+      <DependentUpon>SiteEPGBootStrap.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CopyEPGtoChannel.aspx.designer.vb">
+      <DependentUpon>CopyEPGtoChannel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CopyEPGtoChannel.aspx.vb">
+      <DependentUpon>CopyEPGtoChannel.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="SiteCMS.Master.designer.vb">
+      <DependentUpon>SiteCMS.Master</DependentUpon>
+    </Compile>
+    <Compile Include="SiteCMS.Master.vb">
+      <DependentUpon>SiteCMS.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reports\RelianceErrorLogging.aspx.designer.vb">
+      <DependentUpon>RelianceErrorLogging.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\RelianceErrorLogging.aspx.vb">
+      <DependentUpon>RelianceErrorLogging.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SiteBootStrap.Master.designer.vb">
+      <DependentUpon>SiteBootStrap.Master</DependentUpon>
+    </Compile>
+    <Compile Include="SiteBootStrap.Master.vb">
+      <DependentUpon>SiteBootStrap.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SiteLess.Master.designer.vb">
+      <DependentUpon>SiteLess.Master</DependentUpon>
+    </Compile>
+    <Compile Include="SiteLess.Master.vb">
+      <DependentUpon>SiteLess.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin\ChannelMaster_new.aspx.designer.vb">
+      <DependentUpon>ChannelMaster_new.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ChannelMaster_new.aspx.vb">
+      <DependentUpon>ChannelMaster_new.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\CelebrityMaster.aspx.designer.vb">
+      <DependentUpon>CelebrityMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\CelebrityMaster.aspx.vb">
+      <DependentUpon>CelebrityMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CMS\CelebrityDetails.aspx.designer.vb">
+      <DependentUpon>CelebrityDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CMS\CelebrityDetails.aspx.vb">
+      <DependentUpon>CelebrityDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule7_GMT.aspx.designer.vb">
+      <DependentUpon>UploadSchedule7_GMT.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule7_GMT.aspx.vb">
+      <DependentUpon>UploadSchedule7_GMT.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule6WOI_GMT.aspx.designer.vb">
+      <DependentUpon>UploadSchedule6WOI_GMT.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule6WOI_GMT.aspx.vb">
+      <DependentUpon>UploadSchedule6WOI_GMT.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ImagesReport\rptImages.aspx.designer.vb">
+      <DependentUpon>rptImages.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImagesReport\rptImages.aspx.vb">
+      <DependentUpon>rptImages.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImagesReport\UploadChannelLogos.aspx.designer.vb">
+      <DependentUpon>UploadChannelLogos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImagesReport\UploadChannelLogos.aspx.vb">
+      <DependentUpon>UploadChannelLogos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\ShowProgSched.aspx.designer.vb">
+      <DependentUpon>ShowProgSched.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\ShowProgSched.aspx.vb">
+      <DependentUpon>ShowProgSched.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\SeasonMaster.aspx.designer.vb">
+      <DependentUpon>SeasonMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\SeasonMaster.aspx.vb">
+      <DependentUpon>SeasonMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="update\Default.aspx.designer.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="update\Default.aspx.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImagesReport\UploadMovieLogos.aspx.designer.vb">
+      <DependentUpon>UploadMovieLogos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImagesReport\UploadMovieLogos.aspx.vb">
+      <DependentUpon>UploadMovieLogos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewMovieLogos.aspx.designer.vb">
+      <DependentUpon>ViewMovieLogos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewMovieLogos.aspx.vb">
+      <DependentUpon>ViewMovieLogos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.vb">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\EditProgNameEpisodic.aspx.designer.vb">
+      <DependentUpon>EditProgNameEpisodic.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\EditProgNameEpisodic.aspx.vb">
+      <DependentUpon>EditProgNameEpisodic.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\ProgramCentralEditEpisodic.aspx.designer.vb">
+      <DependentUpon>ProgramCentralEditEpisodic.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\ProgramCentralEditEpisodic.aspx.vb">
+      <DependentUpon>ProgramCentralEditEpisodic.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="rptCatchup.aspx.designer.vb">
+      <DependentUpon>rptCatchup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="rptCatchup.aspx.vb">
+      <DependentUpon>rptCatchup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ErrorReportChannelWise.aspx.designer.vb">
+      <DependentUpon>ErrorReportChannelWise.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ErrorReportChannelWise.aspx.vb">
+      <DependentUpon>ErrorReportChannelWise.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EditProgSynopModified.aspx.designer.vb">
+      <DependentUpon>EditProgSynopModified.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EditProgSynopModified.aspx.vb">
+      <DependentUpon>EditProgSynopModified.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\GoogleTranslate.aspx.designer.vb">
+      <DependentUpon>GoogleTranslate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\GoogleTranslate.aspx.vb">
+      <DependentUpon>GoogleTranslate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\DictionaryMaster.aspx.designer.vb">
+      <DependentUpon>DictionaryMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\DictionaryMaster.aspx.vb">
+      <DependentUpon>DictionaryMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\EditSynopsisCentral.aspx.designer.vb">
+      <DependentUpon>EditSynopsisCentral.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\EditSynopsisCentral.aspx.vb">
+      <DependentUpon>EditSynopsisCentral.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\SynopsisCentral.aspx.designer.vb">
+      <DependentUpon>SynopsisCentral.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\SynopsisCentral.aspx.vb">
+      <DependentUpon>SynopsisCentral.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\movieAll.aspx.designer.vb">
+      <DependentUpon>movieAll.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\movieAll.aspx.vb">
+      <DependentUpon>movieAll.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\EditProgName1.aspx.designer.vb">
+      <DependentUpon>EditProgName1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\EditProgName1.aspx.vb">
+      <DependentUpon>EditProgName1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\epgOperators.aspx.designer.vb">
+      <DependentUpon>epgOperators.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\epgOperators.aspx.vb">
+      <DependentUpon>epgOperators.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="repModSynopsis.aspx.designer.vb">
+      <DependentUpon>repModSynopsis.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="repModSynopsis.aspx.vb">
+      <DependentUpon>repModSynopsis.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="EPGMissingInfo.aspx.designer.vb">
+      <DependentUpon>EPGMissingInfo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="EPGMissingInfo.aspx.vb">
+      <DependentUpon>EPGMissingInfo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FTPReport.aspx.designer.vb">
+      <DependentUpon>FTPReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FTPReport.aspx.vb">
+      <DependentUpon>FTPReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ErrorReport1.aspx.designer.vb">
+      <DependentUpon>ErrorReport1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ErrorReport1.aspx.vb">
+      <DependentUpon>ErrorReport1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FTPXML1.aspx.designer.vb">
+      <DependentUpon>FTPXML1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FTPXML1.aspx.vb">
+      <DependentUpon>FTPXML1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GetError.ashx.vb">
+      <DependentUpon>GetError.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="getPosts.ashx.vb">
+      <DependentUpon>getPosts.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ServiceID.aspx.designer.vb">
+      <DependentUpon>ServiceID.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ServiceID.aspx.vb">
+      <DependentUpon>ServiceID.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SFTP.vb" />
+    <Compile Include="update.ashx.vb">
+      <DependentUpon>update.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateError.ashx.vb">
+      <DependentUpon>UpdateError.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule5Zee.aspx.designer.vb">
+      <DependentUpon>UploadSchedule5Zee.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule5Zee.aspx.vb">
+      <DependentUpon>UploadSchedule5Zee.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule4WOI.aspx.designer.vb">
+      <DependentUpon>UploadSchedule4WOI.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule4WOI.aspx.vb">
+      <DependentUpon>UploadSchedule4WOI.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="CopyLastWeekEPG.aspx.designer.vb">
+      <DependentUpon>CopyLastWeekEPG.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CopyLastWeekEPG.aspx.vb">
+      <DependentUpon>CopyLastWeekEPG.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Masters\EditProgNameSearch.aspx.designer.vb">
+      <DependentUpon>EditProgNameSearch.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\EditProgNameSearch.aspx.vb">
+      <DependentUpon>EditProgNameSearch.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\ProgramCentralEditAll.aspx.designer.vb">
+      <DependentUpon>ProgramCentralEditAll.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\ProgramCentralEditAll.aspx.vb">
+      <DependentUpon>ProgramCentralEditAll.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\showXMLMailed.aspx.designer.vb">
+      <DependentUpon>showXMLMailed.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\showXMLMailed.aspx.vb">
+      <DependentUpon>showXMLMailed.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\XMLMailed.aspx.designer.vb">
+      <DependentUpon>XMLMailed.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\XMLMailed.aspx.vb">
+      <DependentUpon>XMLMailed.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Dashboard_Channel_Onair.aspx.designer.vb">
+      <DependentUpon>Dashboard_Channel_Onair.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard_Channel_Onair.aspx.vb">
+      <DependentUpon>Dashboard_Channel_Onair.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Masters\ChannelOnairOffAir.aspx.designer.vb">
+      <DependentUpon>ChannelOnairOffAir.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\ChannelOnairOffAir.aspx.vb">
+      <DependentUpon>ChannelOnairOffAir.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\EditXMLMailDate.aspx.designer.vb">
+      <DependentUpon>EditXMLMailDate.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\EditXMLMailDate.aspx.vb">
+      <DependentUpon>EditXMLMailDate.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\EditJunkData.aspx.designer.vb">
+      <DependentUpon>EditJunkData.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\EditJunkData.aspx.vb">
+      <DependentUpon>EditJunkData.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\FixJunkCharacters.aspx.designer.vb">
+      <DependentUpon>FixJunkCharacters.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\FixJunkCharacters.aspx.vb">
+      <DependentUpon>FixJunkCharacters.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\EditDiscrepancyCentral.aspx.designer.vb">
+      <DependentUpon>EditDiscrepancyCentral.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\EditDiscrepancyCentral.aspx.vb">
+      <DependentUpon>EditDiscrepancyCentral.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UploadRegionalNames2.aspx.designer.vb">
+      <DependentUpon>UploadRegionalNames2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadRegionalNames2.aspx.vb">
+      <DependentUpon>UploadRegionalNames2.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ErrorReport.aspx.designer.vb">
+      <DependentUpon>ErrorReport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ErrorReport.aspx.vb">
+      <DependentUpon>ErrorReport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mail.aspx.designer.vb">
+      <DependentUpon>Mail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mail.aspx.vb">
+      <DependentUpon>Mail.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule3.aspx.designer.vb">
+      <DependentUpon>UploadSchedule3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule3.aspx.vb">
+      <DependentUpon>UploadSchedule3.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Masters\EditProgName.aspx.designer.vb">
+      <DependentUpon>EditProgName.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\EditProgName.aspx.vb">
+      <DependentUpon>EditProgName.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\ProgramCentralEdit.aspx.designer.vb">
+      <DependentUpon>ProgramCentralEdit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\ProgramCentralEdit.aspx.vb">
+      <DependentUpon>ProgramCentralEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule2.aspx.designer.vb">
+      <DependentUpon>UploadSchedule2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule2.aspx.vb">
+      <DependentUpon>UploadSchedule2.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Dashboard_Channel_withProgs.aspx.designer.vb">
+      <DependentUpon>Dashboard_Channel_withProgs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard_Channel_withProgs.aspx.vb">
+      <DependentUpon>Dashboard_Channel_withProgs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DashBoard.aspx.designer.vb">
+      <DependentUpon>DashBoard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DashBoard.aspx.vb">
+      <DependentUpon>DashBoard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="class\Logger.vb" />
+    <Compile Include="Masters\ProgramMaster.aspx.designer.vb">
+      <DependentUpon>ProgramMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\ProgramMaster.aspx.vb">
+      <DependentUpon>ProgramMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\RegProgramMaster.aspx.designer.vb">
+      <DependentUpon>RegProgramMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\RegProgramMaster.aspx.vb">
+      <DependentUpon>RegProgramMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UploadFPCSchedule.aspx.designer.vb">
+      <DependentUpon>UploadFPCSchedule.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadFPCSchedule.aspx.vb">
+      <DependentUpon>UploadFPCSchedule.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Masters\CompanyDetails.aspx.designer.vb">
+      <DependentUpon>CompanyDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\CompanyDetails.aspx.vb">
+      <DependentUpon>CompanyDetails.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Masters\CompanyMaster.aspx.designer.vb">
+      <DependentUpon>CompanyMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\CompanyMaster.aspx.vb">
+      <DependentUpon>CompanyMaster.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Global.asax.vb">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ChannelRegionalMaster.aspx.designer.vb">
+      <DependentUpon>ChannelRegionalMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ChannelRegionalMaster.aspx.vb">
+      <DependentUpon>ChannelRegionalMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\ValidateEPG.aspx.designer.vb">
+      <DependentUpon>ValidateEPG.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\ValidateEPG.aspx.vb">
+      <DependentUpon>ValidateEPG.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\GenreMaster.aspx.designer.vb">
+      <DependentUpon>GenreMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\GenreMaster.aspx.vb">
+      <DependentUpon>GenreMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\LanguageMaster.aspx.designer.vb">
+      <DependentUpon>LanguageMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\LanguageMaster.aspx.vb">
+      <DependentUpon>LanguageMaster.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Masters\RatingsMaster.aspx.designer.vb">
+      <DependentUpon>RatingsMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\RatingsMaster.aspx.vb">
+      <DependentUpon>RatingsMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Masters\SubGenreMaster.aspx.designer.vb">
+      <DependentUpon>SubGenreMaster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Masters\SubGenreMaster.aspx.vb">
+      <DependentUpon>SubGenreMaster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\MyExtensions\MyWebExtension.vb">
+      <VBMyExtensionTemplateID>Microsoft.VisualBasic.Web.MyExtension</VBMyExtensionTemplateID>
+      <VBMyExtensionTemplateVersion>1.0.0.0</VBMyExtensionTemplateVersion>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Site.Master.designer.vb">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Master.vb">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule.aspx.designer.vb">
+      <DependentUpon>UploadSchedule.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadSchedules\UploadSchedule.aspx.vb">
+      <DependentUpon>UploadSchedule.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ViewEPG.aspx.designer.vb">
+      <DependentUpon>ViewEPG.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewEPG.aspx.vb">
+      <DependentUpon>ViewEPG.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="getPosts.ashx" />
+    <Content Include="GetError.ashx" />
+    <Content Include="SiteLess.Master" />
+    <Content Include="SiteCMS.Master" />
+    <Content Include="SiteEPGBootStrap.Master" />
+    <Content Include="SiteVisionAsia.Master" />
+    <Content Include="Account\SiteAccount.Master" />
+    <Content Include="Account\Web.config" />
+    <Content Include="Account\Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Account\Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Admin\SiteAdmin.Master" />
+    <Content Include="Admin\Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Admin\Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Admin\Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="API\Web.config" />
+    <Content Include="API\Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="API\Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="APIClient\Web.config" />
+    <Content Include="APIClient\Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="APIClient\Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="RichMeta\SiteRichLess.Master" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Verify\css\bootstrap-theme.css.map" />
+    <None Include="Verify\css\bootstrap-theme.min.css.map" />
+    <None Include="Verify\css\bootstrap.css.map" />
+    <None Include="Verify\css\bootstrap.min.css.map" />
+    <Content Include="Verify\css\Web.config" />
+    <Content Include="Verify\js\Web.config" />
+    <Content Include="Verify\SiteVerify.Master" />
+    <None Include="css\bootstrap-theme.css.map" />
+    <None Include="css\bootstrap.css.map" />
+    <Content Include="css\Web.config" />
+    <Content Include="css\Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="css\Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <None Include="Docs\NDTV EPG Platform - WORKFLOW.pdf" />
+    <Content Include="Masters\Web.config" />
+    <Content Include="Masters\Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Masters\Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="js\Web.config" />
+    <Content Include="js\Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="js\Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="DTHCable\SiteDTH.Master" />
+    <Content Include="DTHCable\Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="DTHCable\Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="DTHCable\Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <None Include="DTHCable\filesamples\sp_epg_csv_standard1.CSV" />
+    <None Include="DTHCable\filesamples\sp_epg_psc_standard1.psc" />
+    <None Include="DTHCable\filesamples\sp_epg_sgi_standard1.sgi" />
+    <None Include="DTHCable\filesamples\sp_epg_xls_psigen.XLS" />
+    <None Include="DTHCable\filesamples\sp_epg_xls_psigen_kaut.XLS" />
+    <None Include="DTHCable\filesamples\sp_epg_xls_standard1.xls" />
+    <None Include="DTHCable\filesamples\sp_epg_xls_standard3.xls" />
+    <None Include="DTHCable\filesamples\sp_epg_xls_standard4.xls" />
+    <None Include="DTHCable\filesamples\sp_epg_xls_standard5.xls" />
+    <None Include="DTHCable\filesamples\sp_epg_xls_standard6.xls" />
+    <None Include="DTHCable\filesamples\sp_epg_xls_zee.xls" />
+    <Content Include="DTHCable\filesamples\Web.config" />
+    <Content Include="DTHCable\LabelHandler.ashx" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <Content Include="Site.Master" />
+    <Content Include="Styles\Web.config" />
+    <Content Include="update.ashx" />
+    <Content Include="UpdateError.ashx" />
+    <Content Include="SiteBootStrap.Master" />
+    <Content Include="packages.config" />
+    <Content Include="Star\SiteStar.Master" />
+    <Content Include="Star\Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Star\Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Star\Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="serveimage\Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="serveimage\Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="serveimage\Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="RichMeta\SiteRich.Master" />
+    <None Include="RichMeta\css\bootstrap-theme.css.map" />
+    <None Include="RichMeta\css\bootstrap-theme.min.css.map" />
+    <None Include="RichMeta\css\bootstrap.css.map" />
+    <None Include="RichMeta\css\bootstrap.min.css.map" />
+    <Content Include="RichMeta\css\Web.config" />
+    <Content Include="RichMeta\js\Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Excel\" />
+    <Folder Include="My Project\PublishProfiles\" />
+    <Folder Include="Reports\xml\" />
+    <Folder Include="upload\" />
+    <Folder Include="xml\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>57160</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
