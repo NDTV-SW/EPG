@@ -114,6 +114,10 @@
     <Reference Include="System.Drawing" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.IO.Compression.FileSystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\amarr\Downloads\System.IO.Compression.FileSystem\System.IO.Compression.FileSystem.dll</HintPath>
+    </Reference>
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Web.DataVisualization" />
     <Reference Include="System.Web.Extensions" />
@@ -181,6 +185,8 @@
     <Content Include="API\epgservicerich.aspx" />
     <Content Include="API\epgservice.aspx" />
     <Content Include="APIClient\default.aspx" />
+    <Content Include="dist\jszip.js" />
+    <Content Include="dist\jszip.min.js" />
     <Content Include="Fox\Fox_AddMetadata.aspx" />
     <Content Include="Fox\Fox_Update_data.aspx" />
     <Content Include="Fox\UploadScheduleFox.aspx" />
@@ -2692,6 +2698,7 @@
     <Content Include="RichMeta\js\Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="App_Browsers\" />
     <Folder Include="Excel\" />
     <Folder Include="My Project\PublishProfiles\" />
     <Folder Include="Reports\xml\" />

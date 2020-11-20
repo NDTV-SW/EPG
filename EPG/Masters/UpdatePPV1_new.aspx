@@ -14,6 +14,25 @@
             left: auto !important;
         }
     </style>
+    <script src="../js/jquery-1.10.2.min.js" type="text/javascript"></script>
+    <script src="../dist/jszip.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+
+//        var zip = new JSZip();
+//        zip.file("Hello.txt", "Hello world\n");
+        $(document).ready(function () {
+
+            $("#MainContent_btndownload").on("click", function () {
+             var finalUrl ="../Docs/NDTV%20EPG%20Platform%20-%20WORKFLOW.pdf";
+                 var link = document.createElement("a");
+                document.body.appendChild(link);
+                document.download = "files";
+                link.href = finalUrl;
+                link.click();
+
+            });
+        });
+    </script>
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <asp:ScriptManager ID="ScriptManager1" runat="server" />
@@ -419,7 +438,11 @@
                                 <label>
                                 </label>
                                 <div class="input-group">
-                                    <asp:HyperLink ID="hyViewXml" runat="server" Visible="false" Target="_blank">View XML</asp:HyperLink>
+                                    <asp:HyperLink ID="hyViewXml" download='' runat="server" Visible="false" Target="_blank">View XML</asp:HyperLink>
+                                </div>
+                                <div class="input-group">
+                                   <asp:Button ID="btndownload" runat="server"  Text="donwload XML" CssClass="btn btn-info"
+                                        />
                                 </div>
                             </div>
                         </div>
